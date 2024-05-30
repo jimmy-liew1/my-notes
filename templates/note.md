@@ -1,6 +1,8 @@
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: <% tp.file.title %>
+date: "{{date}}"
 draft: false
 tags:
-  - 
 ---
+
+The rest of your content lives hear.  You can use **Markdown** here :)
