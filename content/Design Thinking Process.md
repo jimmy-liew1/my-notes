@@ -4,7 +4,6 @@ tags:
   - design_thinking
   - topic-note
 ---
-----
 The design thinking process consists of:
 1. **Empathize** - to understand people, within the context of your design challenge, the way they do things and why, their physical and emotional needs, how they think about the world, and what is meaningful to them.
 2. **Define** - it is a design process to bring clarity and focus to the design space, based on what you learned about your user and about the context.

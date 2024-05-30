@@ -1,6 +1,8 @@
 ---
 up: "[[Health MOC]]"
 date: 2024-05-22
+aliases:
+  - interstitial nephritis
 tags:
   - diseases_conditions
 ---

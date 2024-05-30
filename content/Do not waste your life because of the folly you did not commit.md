@@ -1,5 +1,5 @@
 ---
-up: "[[Stories MOC]]"
+up: "[[Story MOC]]"
 tags:
   - story
 date: 2022-09-23

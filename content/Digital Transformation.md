@@ -26,14 +26,3 @@ However there are also some drawbacks associated with digital transformation whi
 
 ## Tips
 A [[202209152138 - growth mindset|growth mindset]] is key to digital transformation.
-
-## Wrapping Up
-
-
-----
-## References
-```dataview
-LIST FROM ([[#]]) OR outgoing([[#]])
-WHERE file.name != this.file.name and !contains(file.name, "MOC")
-SORT file.name ASC
-```
