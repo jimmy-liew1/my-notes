@@ -4,7 +4,6 @@ tags:
   - story
 date: 2022-09-23
 ---
-----
 ## The story of a man who lived in the cellar 37 years
 In 1964 three thieves attacked the house of Carl Locke, who was alerted to their presence, killing them all with his automatic rifle.
 

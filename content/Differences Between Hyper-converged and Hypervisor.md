@@ -6,8 +6,6 @@ tags:
   - hypervisor
   - vmware
 ---
-
-----
 The server infrastructure has changed from physical to software-defined architecture, or [[Software-Defined Infrastructure|software defined infrastructure]] - in short, it call "[[Hyper-converged Infrastructure|hyper-converge]]".
 
 ### Hyper-converged Infrastructure (HCI) vs. Hypervisor

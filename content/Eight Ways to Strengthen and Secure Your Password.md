@@ -6,8 +6,6 @@ tags:
   - password_protection
 date: 2022-07-27
 ---
-
-----
 **Passwords are secret words, phrases, or collections of characters** that must be correctly entered to gain access to a specific resource.
 
 Cybercriminals are always looking for ways around the security measures your organization has in place. One of the easiest ways they can do that is by guessing or cracking your weak password.

@@ -8,7 +8,6 @@ tags:
 date: 2022-08-30
 author: Tony Robbins
 ---
-----
 It is in your moments of DECISION that your destiny is shaped.
 
 Deciding what shirt to wear can be easy and usually doesn’t require much thought, but what about decisions that are potentially life-changing? 🤔💭
