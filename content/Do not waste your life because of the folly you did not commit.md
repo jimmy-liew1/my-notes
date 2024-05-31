@@ -4,7 +4,9 @@ tags:
   - story
 date: 2022-09-23
 ---
-## The story of a man who lived in the cellar 37 years
+### The story of a man who lived in the cellar 37 years
+
+<div style="float: right; padding:8px; width:200px;"><img src="https://tse1.mm.bing.net/th/id/OIG3.YxkS.xJbhoz0Xh5yaLqR?pid=ImgGn" alt="drawing" width="200"/></div>
 In 1964 three thieves attacked the house of Carl Locke, who was alerted to their presence, killing them all with his automatic rifle.
 
 From the beginning, the case was in favor of Locke being in a position of self-defense. But it turned out that the three thieves were brothers and were in constant conflict with Locke. The prosecution accused him of plotting the crime by inviting the three brothers to his house and then killing them due to theft.
@@ -19,4 +21,5 @@ Here was the great surprise:
 
 The officer said to him - Oh God, do not you know what happened after your disappearance !!? Locke: No... What happened? The officer: The mother of thieves admitted that her children planned to steal your house. The judge immediately ruled your innocence but everyone thought you were dead. You lost 37 years of your life.
 
-the message of this story is "**Do not waste your life because of the folly you did not commit**".
+### The Moral of the Story
+The message of this story is "**Do not waste your life because of the folly you did not commit**".

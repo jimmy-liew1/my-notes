@@ -19,7 +19,7 @@ Treatment typically involves:
 - **Identifying and stopping** the use of the triggering medication.
 - **Corticosteroids** may be prescribed to reduce inflammation.
 - In severe cases, **dialysis** might be necessary if kidney function is significantly impaired.
-- A **kidney transplant** may be considered if the damage to the kidneys is irreversible[^5].
+- A **kidney transplant** may be considered if the damage to the kidneys is irreversible.[^5]
 
 It's essential to work closely with a healthcare provider to determine the best course of action based on the individual's specific situation.
 
