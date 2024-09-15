@@ -1,7 +1,7 @@
 ---
 aliases:
   - AMA
-up: "[[MS Azure MOC]]"
+up: "[[Azure MOC]]"
 tags:
   - azure
 ---
