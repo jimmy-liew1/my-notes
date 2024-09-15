@@ -6,7 +6,7 @@ date: 2022-09-23
 ---
 ### The story of a man who lived in the cellar 37 years
 
-<div style="float: right; padding:8px; width:200px;"><img src="https://tse1.mm.bing.net/th/id/OIG3.YxkS.xJbhoz0Xh5yaLqR?pid=ImgGn" alt="drawing" width="200"/></div>
+<div style="float: right; padding:8px; width:200px;"><img src="https://steemitimages.com/p/39DuzQEPoYrMFcF5tuySYoSGL9tn6WKpVVKzmn8hRjjnKiSdfDDU6FVG8aiNfKYrPNK9xnMQ8XaWzNVK8gP6XNnx3tVPE7GhKkCU2TUCBtqcNoTnGuENnNJX7oTuxb28jxm99YAL3FmN4YsSmY8usDLVZnftSQEVJLjBhUUGTKe6ytB9oC5ckesHNU4tYqLpXATdzn5fzssZZxa2egx5tgJ?format=match&mode=fit&width=1280" alt="drawing" width="200"/></div>
 In 1964 three thieves attacked the house of Carl Locke, who was alerted to their presence, killing them all with his automatic rifle.
 
 From the beginning, the case was in favor of Locke being in a position of self-defense. But it turned out that the three thieves were brothers and were in constant conflict with Locke. The prosecution accused him of plotting the crime by inviting the three brothers to his house and then killing them due to theft.
@@ -23,3 +23,6 @@ The officer said to him - Oh God, do not you know what happened after your disap
 
 ### The Moral of the Story
 The message of this story is "**Do not waste your life because of the folly you did not commit**".
+
+***
+Adopted from: [The story of a man who lived in the cellar 37 years](https://steemit.com/life/@ghadaelsawy/the-story-of-a-man-who-lived-in-the-cellar-37-years)
