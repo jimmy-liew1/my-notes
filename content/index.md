@@ -11,7 +11,10 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 # Where to start
 
 * [[Agile SCRUM MOC|Agile Scrum]]
-* [[Azure MOC|Azure]]
+* Cloud Computing
+	* [[Azure MOC|Azure]]
+	* AWS
+	* [[Google Cloud Platform]] (GCP)
 * [[Cyber Security MOC|Cyber Security]]
 * [[Design Thinking MOC|Design Thinking]]
 * [[Digital Transformation MOC|Digital Transformation]]
