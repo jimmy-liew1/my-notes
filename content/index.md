@@ -8,7 +8,7 @@ This space is a living, breathing entity where ideas can grow and evolve. I beli
 Thank you for visiting, and I hope you find something here that sparks your curiosity and inspires you to join the conversation. Let’s cultivate this garden together! 🌱
 
 Feel free to explore, engage, and help these ideas flourish. Happy reading!
-### Index
+# Where to start
 
 * [[Agile SCRUM MOC|Agile Scrum]]
 * [[Azure MOC|Azure]]
