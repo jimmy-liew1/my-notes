@@ -4,7 +4,7 @@ tags:
   - motivation
   - clarity
   - purpose
-  - decision_making
+  - decision-making
 date: 2022-08-30
 author: Tony Robbins
 ---

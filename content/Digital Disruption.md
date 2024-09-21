@@ -2,7 +2,8 @@
 up: "[[Digital Transformation MOC]]"
 tags:
   - topic-note
-topic: "[[Digital Transformation]]"
+  - digital-disruption
+topic: "[[A5 - Published/Digital Transformation]]"
 ---
 Digital disruption is the change that occurs when new digital technologies and business models affect the value proposition of existing goods and services.[^1]
 

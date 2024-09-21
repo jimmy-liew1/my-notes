@@ -2,4 +2,4 @@
 tags:
   - type/moc
 ---
-- [[Decision Making and Clarity]]
+- [[A5 - Published/Decision Making and Clarity]]

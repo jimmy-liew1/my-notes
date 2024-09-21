@@ -2,4 +2,4 @@
 tags:
   - type/moc
 ---
-- [[Design Thinking Process]]
+- [[A5 - Published/Design Thinking Process]]

@@ -1,7 +1,7 @@
 ---
 title: Welcome to My Notes
 ---
-Hello and welcome to My Notes, which I fondly refer to as my digital garden, inspired by the wonderful concept from [Jacky Zhao](https://jzhao.xyz/posts/networked-thought#how-i-garden). Here, you’ll find a collection of my thoughts, ideas, and knowledge—some fully formed, others still in the budding stages.
+Hello and welcome to My Notes, which I fondly refer to as my digital garden. Here, you’ll find a collection of my thoughts, ideas, and knowledge—some fully formed, others still in the budding stages.
 
 This space is a living, breathing entity where ideas can grow and evolve. I believe in the power of feedback and collaboration to refine and expand these thoughts. Your insights and suggestions are invaluable to me, and I encourage you to share them freely. If you have any thoughts or ideas, please don’t hesitate to send me an email.
 
@@ -13,7 +13,7 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 * [[Agile SCRUM MOC|Agile Scrum]]
 * Cloud Computing
 	* [[Azure MOC|Azure]]
-	* AWS
+	* [[Amazon Web Services]] (AWS)
 	* [[Google Cloud Platform]] (GCP)
 * [[Cyber Security MOC|Cyber Security]]
 * [[Design Thinking MOC|Design Thinking]]

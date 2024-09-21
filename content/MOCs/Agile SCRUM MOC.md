@@ -2,5 +2,5 @@
 tags:
   - type/moc
 ---
-- [[Sprint Planning]]
-- [[Sprint Retrospective]]
+- [[A5 - Published/Sprint Planning]]
+- [[A5 - Published/Sprint Retrospective]]

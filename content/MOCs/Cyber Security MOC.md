@@ -2,4 +2,4 @@
 tags:
   - type/moc
 ---
-- [[Eight Ways to Strengthen and Secure Your Password]]
+- [[A5 - Published/Eight Ways to Strengthen and Secure Your Password]]

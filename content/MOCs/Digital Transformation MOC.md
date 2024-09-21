@@ -2,6 +2,6 @@
 tags:
   - type/moc
 ---
-- [[Digital Dexterity]]
-- [[Digital Disruption]]
-- [[Digital Transformation]]
+- [[A5 - Published/Digital Dexterity]]
+- [[A5 - Published/Digital Disruption]]
+- [[A5 - Published/Digital Transformation]]

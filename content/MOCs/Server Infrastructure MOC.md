@@ -2,4 +2,4 @@
 tags:
   - type/moc
 ---
-- [[Differences Between Hyper-converged and Hypervisor]]
+- [[A5 - Published/Differences Between Hyper-converged and Hypervisor]]
