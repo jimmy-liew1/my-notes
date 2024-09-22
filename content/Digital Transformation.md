@@ -2,7 +2,7 @@
 up: "[[Digital Transformation MOC]]"
 aliases:
   - DT
-  - digital_transformation
+  - digital-transformation
 tags:
   - topic-note
   - draft

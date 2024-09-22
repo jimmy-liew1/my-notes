@@ -40,4 +40,4 @@ Passphrases are a sentence-like string of words that are easy to remember but di
 3. **Use a Password Manager** - Many organizations use password manager software to help employees create and store complex passwords.
 
 ## References
-- Steelcase IT's Security Training - Eight Ways to Strengthen and Secure Your Passwords Today
+- IT's Security Training - Eight Ways to Strengthen and Secure Your Passwords Today
