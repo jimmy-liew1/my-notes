@@ -10,15 +10,16 @@ Thank you for visiting, and I hope you find something here that sparks your curi
 Feel free to explore, engage, and help these ideas flourish. Happy reading!
 # Where to start
 
-* [[Agile SCRUM MOC|Agile Scrum]]
+* General
+* Agile 
+* Scrum
 * Cloud Computing
-	* [[Azure MOC|Azure]]
+	* Microsoft Azure
 	* [[Amazon Web Services]] (AWS)
 	* [[Google Cloud Platform]] (GCP)
-* [[Cyber Security MOC|Cyber Security]]
-* [[Design Thinking MOC|Design Thinking]]
-* [[Digital Transformation MOC|Digital Transformation]]
-* [[General MOC|General]]
-* [[Motivation MOC|Motivation]]
-* [[Server Infrastructure MOC|Server Infrastructure]]
-* [[Story MOC|Stories]]
+* Cyber Security
+* Design Thinking
+* Digital Transformation
+* Motivation MOC
+* Server Infrastructure MOC
+* Story MOC
