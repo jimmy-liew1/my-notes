@@ -1,0 +1,3 @@
+This vault consists of all the relevant information, research, findings, notes and etc. related to my work and experiences as a **Server Engineer** and a **SQL Server Database Administrator**, as well as other area of expertise that I'm looking into, such as **Scrum Master**, **Scrum Product Owner**, and **Project Management**.
+
+Thus, this vault focuses on two parts: (1) **technical knowledge** (2) **soft-skills**.   For the technical related notes/articles, it consists of diagram, scripts and codes and some insights on how to resolve certain issue.  However, for second part of the vault, soft-skills, it focuses more on processes, leadership, management, and project management.

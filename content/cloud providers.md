@@ -1,7 +1,7 @@
 ---
+up: "[[General MOC]]"
 tags:
   - stub
-up: "[[General MOC]]"
 ---
 Here are some of the top cloud service providers:
 1. **[[Amazon Web Services|Amazon Web Services (AWS)]]** - A leading provider known for its extensive range of services and global reach.

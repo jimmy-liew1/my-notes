@@ -1,10 +1,11 @@
 ---
 up: "[[Cyber Security MOC]]"
+date: 2022-07-27
 tags:
   - training
   - cyber-security
   - password-protection
-date: 2022-07-27
+  - best-practice
 ---
 **Passwords are secret words, phrases, or collections of characters** that must be correctly entered to gain access to a specific resource.
 

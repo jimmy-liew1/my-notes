@@ -17,14 +17,10 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 	* Microsoft Azure
 	* [[Amazon Web Services]] (AWS)
 	* [[Google Cloud Platform]] (GCP)
+* Server Infrastructure
+	* [[Differences Between Hyper-converged and Hypervisor]]
 * Cyber Security
-* Design Thinking
-	* [[Design Thinking Process]]
+	* [[Eight Ways to Strengthen and Secure Your Password]]
 * [[Digital Transformation]]
 	* [[Digital Dexterity]]
 	* [[Digital Disruption]]
-* Motivation
-	* [[Eight Ways to Strengthen and Secure Your Password]]
-* Server Infrastructure
-	* [[Differences Between Hyper-converged and Hypervisor]]
-* Story
