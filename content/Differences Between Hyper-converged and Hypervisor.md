@@ -33,8 +33,8 @@ The virtualization software abstracts and pools underlying resources, then dynam
 The virtualization software abstracts and pools underlying resources, then dynamically allocates them to applications running in VMs or containers. Configuration is based on policies aligned with the applications, eliminating the need for complicated constructs like LUNs and volumes.
 
 ### Other References:
--   [https://www.vmware.com/asean/products/hyper-converged-infrastructure.html](https://www.vmware.com/asean/products/hyper-converged-infrastructure.html)
--   [https://www.vmware.com/topics/glossary/content/hypervisor.html](https://www.vmware.com/topics/glossary/content/hypervisor.html)
--   [https://www.nutanix.com/sg/hyperconverged-infrastructure](https://www.nutanix.com/sg/hyperconverged-infrastructure)
--   [https://www.nutanix.com/sg/info/converged-vs-hyperconverged-infrastructure](https://www.nutanix.com/sg/info/converged-vs-hyperconverged-infrastructure)
--   [https://www.bmc.com/blogs/converged-infrastructure-vs-hyper-converged-infrastructure/](https://www.bmc.com/blogs/converged-infrastructure-vs-hyper-converged-infrastructure/)
+- [Hyper-converged Infrastructure | VMware](https://www.vmware.com/asean/products/hyper-converged-infrastructure.html)
+- [Hypervisor | VMware - Glossary](https://www.vmware.com/topics/glossary/content/hypervisor.html)
+- [Hyper-converged Infrastructure | Nutanix](https://www.nutanix.com/sg/hyperconverged-infrastructure)
+- [Converged vs. Hyper-converged Infrastructure | Nutanix](https://www.nutanix.com/sg/info/converged-vs-hyperconverged-infrastructure)
+- [Converged Infrastructure vs. Hyper-converged Infrastructure | BMC](https://www.bmc.com/blogs/converged-infrastructure-vs-hyper-converged-infrastructure/)
