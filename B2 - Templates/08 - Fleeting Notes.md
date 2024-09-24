@@ -1,6 +1,6 @@
 ---
 date: {{date}}
-created: {{date}}{{time}}
+created: {{date:YYYY-MM-DD HH:MM}}
 tags:
   - type/fleeting-note
 link:
