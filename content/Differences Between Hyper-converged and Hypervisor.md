@@ -6,7 +6,7 @@ tags:
   - hypervisor
   - vmware
 ---
-The server infrastructure has changed from physical to software-defined architecture, or [[Software-Defined Infrastructure|software defined infrastructure]] - in short, it call "[[Hyper-converged Infrastructure|hyper-converge]]".
+The server infrastructure has changed from physical to software-defined architecture, or [[Software-Defined Infrastructure|software defined infrastructure]] - in short, it calls "[[Hyper-converged Infrastructure|hyper-converge]]".
 
 ### Hyper-converged Infrastructure (HCI) vs. Hypervisor
 A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing. 
