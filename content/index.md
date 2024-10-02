@@ -1,5 +1,5 @@
 ---
-title: Welcome to My Notes
+title: Welcome to My Digital Garden
 ---
 Hello and welcome to My Notes, which I fondly refer to as my digital garden. Here, you’ll find a collection of my thoughts, ideas, and knowledge—some fully formed, others still in the budding stages.
 
