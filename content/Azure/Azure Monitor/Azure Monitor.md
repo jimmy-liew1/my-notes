@@ -1,5 +1,6 @@
 ---
 up: "[[Azure MOC]]"
+permalink: Azure Monitor
 tags:
   - azure
 ---

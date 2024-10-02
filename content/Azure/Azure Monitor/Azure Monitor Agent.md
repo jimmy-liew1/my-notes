@@ -2,7 +2,6 @@
 aliases:
   - AMA
 up: "[[Azure MOC]]"
-permalink: content/AWS/Azure Monitor Agent
 draft: false
 tags:
   - azure
