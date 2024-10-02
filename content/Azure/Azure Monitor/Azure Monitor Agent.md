@@ -8,6 +8,8 @@ tags:
 # Overview
 Azure Monitor Agent (AMA) collects monitoring data from the guest operating system of Azure and hybrid virtual machines, on-premises machines, and other cloud environments.  The data is then sent to [[Azure Monitor]] for use by features, insights, and other services such as [Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/overview) and [Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction).[^1]
 
+AMA replaces the [[Log Analytics agent]], also known as [[Microsoft Monitor Agent]]([[MMA]]) and [[OMS]], for Windows and Linux machines, in Azure and non-Azure environments, on-premises and other clouds.
+
 It uses [[Data Collection Rules|Data Collection Rules (DCRs)]] for flexible data management and supports centralized configuration. Unlike the older Log Analytics agent, which retired on August 31, 2024, AMA offers enhanced features and capabilities, such as centralized configuration, data collection rules, and improved security.
 
 > [!INFO]- Note:
