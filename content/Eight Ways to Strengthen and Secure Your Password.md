@@ -1,6 +1,7 @@
 ---
 up: "[[Cyber Security MOC]]"
 date: 2022-07-27
+title: Eight Ways to Strengthen and Secure Your Password
 tags:
   - training
   - cyber-security

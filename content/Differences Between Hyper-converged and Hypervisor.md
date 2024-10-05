@@ -1,5 +1,6 @@
 ---
 up: "[[Server Infrastructure MOC]]"
+title: Differences Between Hyper-converged and Hypervisor
 tags:
   - infrastructure/HCI
   - infrastructure/hyper-converged
