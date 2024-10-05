@@ -20,7 +20,8 @@ Don’t create passwords using information that can be easily found online, such
 -   Addresses or postal codes
 -   Key dates like a birthday or an anniversary
 
->**Note:** This also applies to security questions.
+> [!note]
+>This also applies to security questions.
 
 ### Tip 2: Don’t Reuse Passwords
 One of the main ways cybercriminals access your accounts is by trying passwords you have used elsewhere.
