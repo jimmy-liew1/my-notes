@@ -18,9 +18,9 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 	* [[Amazon Web Services]] (AWS)
 	* [[Google Cloud Platform]] (GCP)
 * Server Infrastructure
-	* [[Differences between hyper-converged and hypervisor]]
+	* [[Differences Between Hyper-converged and Hypervisor]]
 * Cyber Security
-	* [[Eight ways to strengthen and secure your password]]
+	* [[Eight Ways to Strengthen and Secure Your Password]]
 * [[Digital Transformation]]
 	* [[Digital Dexterity]]
 	* [[Digital Disruption]]
