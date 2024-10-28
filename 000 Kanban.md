@@ -1,9 +1,12 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Backlog
 
+- [ ] [[202410211132 - private endpoint and private dns zone]]
 
 
 ## Committed

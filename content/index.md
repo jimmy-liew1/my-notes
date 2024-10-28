@@ -17,6 +17,10 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 	* Microsoft Azure
 	* [[Amazon Web Services]] (AWS)
 	* [[Google Cloud Platform]] (GCP)
+* Microsoft Azure
+	* Monitoring
+		* [[Azure Monitor]]
+		* [[Azure Monitor Agent]]
 * Server Infrastructure
 	* [[Differences Between Hyper-converged and Hypervisor]]
 * Cyber Security
