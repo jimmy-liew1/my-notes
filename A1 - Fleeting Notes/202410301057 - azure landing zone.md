@@ -4,6 +4,7 @@ created: 2024-10-30 10:10
 tags:
   - type/fleeting-note
 link: https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/
+title: Azure Landing Zone
 ---
 ## What is Landing Zone?
 - A landing zone is an environment that hosting your workloads, pre-provision through code.
