@@ -12,7 +12,10 @@ Manual infrastructure management is time-consuming and prone to error—especial
 
 ## Format
 - Bicep
+
+## Tool
 - Terraform
+- Ansible
 
 ## How Infrastructure As Code Works
 ![image](https://www.altexsoft.com/static/blog-post/2023/11/2fdb241f-32bc-4c4b-aed4-f5836063dbad.jpg)

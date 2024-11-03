@@ -9,10 +9,10 @@ title: Azure Landing Zone
 ## What is Landing Zone?
 - A landing zone is an environment that hosting your workloads, pre-provision through code.
 - **5 key Principles** (Learn more: aka.ms/Azure-Migration-Management)
-	- 1. Use  networking services
+	- 1. Use networking services
 	- 2. Set identify
 	- 3. Govern environment
-	- 4. Use security controls.
+	- 4. Use security controls
 		- Threat detection
 		- Built-in protection
 		- Data security
