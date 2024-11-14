@@ -14,7 +14,7 @@ A hypervisor, also known as a virtual machine monitor or VMM, is software that 
 #### Type of Hypervisors
 There are two main hypervisor types, referred to as “Type 1” (or “bare metal”) and “Type 2” (or “hosted”). A **type 1 hypervisor** acts like a lightweight operating system and runs directly on the host’s hardware, while a **type 2 hypervisor** runs as a software layer on an operating system, like other computer programs. 
 
->*Read more: [VMware: Hypervisor](https://www.vmware.com/topics/glossary/c*ontent/hypervisor.html?resource=cat-1243073610#cat-1243073610)
+>**Read more:** [VMware: Hypervisor](https://www.vmware.com/topics/glossary/c*ontent/hypervisor.html?resource=cat-1243073610#cat-1243073610)
 
 ### How Does Hyper-converged Infrastructure Work?
 Four tightly integrated software components make up a hyper-converged platform: 
