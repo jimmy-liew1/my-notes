@@ -3,7 +3,7 @@ up: "[[Azure MOC]]"
 tags:
   - azure
 ---
-# Azure Monitor overview
+## Overview
 Azure Monitor offers a robust solution for monitoring and managing data from both cloud and on-premises environments. It enables you to enhance the availability and performance of your applications and services by providing insights into their performance and facilitating both manual and automated responses to system events.
 
 By collecting and aggregating data from all layers and components of your system, Azure Monitor supports multiple Azure and non-Azure subscriptions and tenants. This data is stored in a unified platform, making it accessible to a variety of tools for correlation, analysis, visualization, and response. Additionally, Azure Monitor can be integrated with various Microsoft and third-party tools for a more comprehensive monitoring experience.
