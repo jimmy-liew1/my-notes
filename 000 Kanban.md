@@ -13,6 +13,7 @@ kanban-plugin: board
 - [ ] [[202410301057 - azure landing zone]]
 - [ ] [[202411051510 - hotpatching]]
 - [ ] Microsoft Azure Backup Recovery (MABR)
+- [ ] Microsoft Retina
 
 
 ## Committed
