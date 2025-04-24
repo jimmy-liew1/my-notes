@@ -3,7 +3,6 @@ up: "[[000 Index|Back to Index]]"
 tags:
   - type/moc
 ---
-
 ## Key Topics
 ```dataview
 LIST FROM ([[#]]) OR outgoing([[#]])
