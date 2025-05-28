@@ -2,7 +2,6 @@
 date: 2025-05-28
 created: 2025-05-28 20:05
 tags:
-  - azure
   - networking
 link:
 ---
