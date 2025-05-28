@@ -28,5 +28,5 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 * [[Digital Transformation]]
 	* [[Digital Dexterity]]
 	* [[Digital Disruption]]
-* Misc.
+* Networking
 	* [[About the IP Address 169.254.169.254]]
