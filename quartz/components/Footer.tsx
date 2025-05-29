@@ -12,7 +12,7 @@ export default ((opts?: Options) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
-      <footer class={`${displayClass ?? ""}`}>
+      <footer class={`${displayClass ?? ""}`} style="visibility:hidden;">
         <hr />
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
