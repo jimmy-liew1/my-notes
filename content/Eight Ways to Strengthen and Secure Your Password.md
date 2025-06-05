@@ -35,7 +35,6 @@ Use numbers and special characters to alter regular dictionary words, and don’
 ### Tip 5: Use a Passphrase
 Passphrases are a sentence-like string of words that are easy to remember but difficult to crack. For example, “jellyfish-apple-1600-pirate” or a few nonsense words like “Betty was eating tires and playing tuna fish.”
 
-
 ## Ways to Ensure Your Passwords Are Secure
 1. **Don’t Share Passwords** - Keep your passwords private; never share them with anyone else.
 2. **Don’t Write Them Down** - Passwords written on sticky notes or pieces of paper at your desk are no more secure than locks containing keys.

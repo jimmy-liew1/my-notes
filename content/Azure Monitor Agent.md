@@ -1,8 +1,7 @@
 ---
+up: "[[Azure MOC]]"
 aliases:
   - AMA
-up: "[[Azure MOC]]"
-draft: false
 tags:
   - azure
 ---
