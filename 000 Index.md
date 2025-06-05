@@ -10,7 +10,6 @@ FLATTEN file.link AS "Files"
 
 ```
 
-
 ## Notes
 Below is/are all notes in this vault.
 ```dataview
