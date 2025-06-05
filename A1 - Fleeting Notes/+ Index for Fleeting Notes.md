@@ -3,14 +3,15 @@ up:
 tags:
   - x/index
 ---
-# Index for Fleeting Notes
-
+List of all fleeting notes.
 ``` dataview
 TABLE WITHOUT ID
 	file.link as "Title",
-	dateformat(date, "MM/dd/yyyy" ) as "Date",
-	join(file.etags) as "Tags"
-FROM #type/fleeting_note or #type/fleeting-note 
+	dateformat(date, "MM/dd/yyyy") as "Date",
+	dateformat(file.mtime, "MM/dd/yyyy") as "Last Modified",
+	join(filter(file.etags, (t) => t != "#type/fleeting-note")) as "Tags"
+FROM #type/fleeting-note
 WHERE !contains(file.name, "08 - Fleeting Notes")
 SORT date desc
+
 ```

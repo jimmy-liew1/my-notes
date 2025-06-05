@@ -21,7 +21,7 @@ This reference architecture shows how to use [[Azure Monitor]] to monitor the pe
 ![image](https://learn.microsoft.com/en-us/azure/architecture/hybrid/images/hybrid-perf-monitoring.png)
 
 ## Key Points
-- **Installation:** AMA can be installed on individual machines or at scale using Azure Policy, VM extensions, or other tools. It can also be automatically installed when enabling certain features.[^2]
+- **Installation:** AMA can be installed on individual machines or at scale using [[Azure Policy]], VM extensions, or other tools. It can also be automatically installed when enabling certain features.[^2]
 - **Data Collection Rules (DCRs):** These rules define what data to collect, how to transform it, and where to send it. DCRs allow for flexible and centralized data collection management.
 - **Deprecation of Legacy Agents:** AMA replaces the older Log Analytics agent, which will be deprecated. Users are encouraged to migrate to AMA for enhanced capabilities.
 - **Integration:** AMA integrates seamlessly with other Azure services, enhancing monitoring and security capabilities.
