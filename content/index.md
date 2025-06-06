@@ -13,8 +13,7 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 # Where to start
 
 * General
-* Agile 
-* Scrum
+* Agile Scrum
 * Cloud Computing
 	* Microsoft Azure
 	* [[Amazon Web Services]] (AWS)
