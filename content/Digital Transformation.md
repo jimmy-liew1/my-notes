@@ -2,7 +2,6 @@
 up: "[[Digital Transformation MOC]]"
 aliases:
   - DT
-  - digital transformation
 tags:
   - topic-note
   - digital-transformation
