@@ -11,23 +11,38 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 
 ---
 # Where to start
-
-* General
-* Agile Scrum
-* Cloud Computing
-	* Microsoft Azure
-	* [[Amazon Web Services]] (AWS)
-	* [[Google Cloud Platform]] (GCP)
-* Microsoft Azure
-	* Monitoring
-		* [[Azure Monitor]]
-		* [[Azure Monitor Agent]]
-* Server Infrastructure
-	* [[Differences Between Hyper-converged and Hypervisor]]
-* Cyber Security
-	* [[Eight Ways to Strengthen and Secure Your Password]]
-* [[digital transformation]]
-	* [[digital dexterity]]
-	* [[digital disruption]]
-* Networking
-	* [[About the IP Address 169.254.169.254]]
+* **Core Methodologies & Frameworks**
+	* [[Agile]]
+	* [[Scrum]]
+	* Agile & Project Management
+		* Agile Scrum
+			* [[Sprint Planning]]
+			* [[Sprint Retrospective]]
+		* Project Management
+			* [[digital transformation]]
+			* [[digital dexterity]]
+			* [[digital disruption]]
+	* Productivity & Personal Growth
+* **Technology & IT**
+	* Cloud Platforms
+		* Azure
+		* [[Amazon Web Services]] (AWS)
+		* [[Google Cloud Platform]] (GCP)
+	* Virtualization
+	* Server Infrastructure
+		* [[Differences Between Hyper-converged and Hypervisor]]
+	* Automation & Scripting
+	* Data & Databases
+	* Networking
+		* [[About the IP Address 169.254.169.254]]
+	* Cybersecurity
+		* [[Eight Ways to Strengthen and Secure Your Password]]
+	* AI & AI Tools
+* **Career and Professional Development**
+	* Leadership & Team Management
+	* Interview Preparation
+* **Personal & Creative**
+	* Stories & Narrative
+	* Financial & Future Planning
+		* Retirement Planning
+* **Utilities & Templates**
