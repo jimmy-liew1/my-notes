@@ -16,8 +16,8 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 	* [[Scrum]]
 	* Agile & Project Management
 		* Agile Scrum
-			* [[Sprint Planning]]
-			* [[Sprint Retrospective]]
+			* [[sprint planning|Sprint Planning]]
+			* [[sprint retrospective|Sprint Retrospective]]
 		* Project Management
 			* [[digital transformation]]
 			* [[digital dexterity]]
