@@ -1,5 +1,7 @@
 ---
 up: "[[Agile Scrum MOC]]"
+aliases:
+  - sprint planning
 tags:
   - topic-note
   - agile-scrum

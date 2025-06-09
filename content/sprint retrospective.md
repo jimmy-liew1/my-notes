@@ -1,5 +1,7 @@
 ---
 up: "[[Agile Scrum MOC]]"
+aliases:
+  - sprint retrospective
 tags:
   - topic-note
   - retrospective

@@ -1,5 +1,7 @@
 ---
 up: "[[Agile Scrum MOC]]"
+aliases:
+  - scrum
 date: 2025-06-06
 created: 2025-06-06 23:06
 draft: false

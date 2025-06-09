@@ -1,12 +1,12 @@
 ---
+aliases:
+  - DCR
+  - DCRs
 date: 2024-11-02
 created: 2024-11-02 18:11
 tags:
   - azure
 link: https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview
-aliases:
-  - DCR
-  - DCRs
 ---
 # Data Collection Rules (DCRs) in Azure Monitor
 Data collection using the Azure Monitor pipeline is shown in the diagram below. Each collection scenario is defined in a DCR that specifies how the data should be processed and where it should be sent. The Azure Monitor pipeline itself consists of two components:
