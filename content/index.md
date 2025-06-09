@@ -30,13 +30,13 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 		* [[Google Cloud Platform]] (GCP)
 	* Virtualization
 	* Server Infrastructure
-		* [[Differences Between Hyper-converged and Hypervisor]]
+		* [[Differences between hyper-converged and hypervisor]]
 	* Automation & Scripting
 	* Data & Databases
 	* Networking
-		* [[About the IP Address 169.254.169.254]]
+		* [[About the IP address 169.254.169.254]]
 	* Cybersecurity
-		* [[Eight Ways to Strengthen and Secure Your Password]]
+		* [[Eight ways to strengthen and secure your password]]
 	* AI & AI Tools
 * **Career and Professional Development**
 	* Leadership & Team Management
