@@ -21,5 +21,5 @@ Key characteristics of Managed Identities include but not limited to:
 The following video shows how you can use managed identities:
 <iframe width="560" height="315" src="https://learn-video.azurefd.net/vod/player?show=on-net&ep=using-azure-managed-identities" title="Using Azure Managed Identities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Read More
+### Read More
 * [Overview about managed identities for Azure resources](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/overview)

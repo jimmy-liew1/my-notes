@@ -20,7 +20,7 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 			* [[sprint retrospective|Sprint Retrospective]]
 		* Project Management
 			* [[digital transformation]]
-			* [[digital dexterity]]
+			* [[dd]]
 			* [[digital disruption]]
 	* Productivity & Personal Growth
 * **Technology & IT**

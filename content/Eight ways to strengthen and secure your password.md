@@ -40,5 +40,5 @@ Passphrases are a sentence-like string of words that are easy to remember but di
 2. **Don’t Write Them Down** - Passwords written on sticky notes or pieces of paper at your desk are no more secure than locks containing keys.
 3. **Use a Password Manager** - Many organizations use password manager software to help employees create and store complex passwords.
 
-## References
+### References
 - IT's Security Training - Eight Ways to Strengthen and Secure Your Passwords Today
