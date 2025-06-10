@@ -19,9 +19,9 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 			* [[sprint planning|Sprint Planning]]
 			* [[sprint retrospective|Sprint Retrospective]]
 		* Project Management
-			* [[dt]]
+			* [[digital transformation]]
 			* [[digital dexterity]]
-			* [[dd]]
+			* [[digital disruption]]
 	* Productivity & Personal Growth
 * **Technology & IT**
 	* Cloud Platforms
