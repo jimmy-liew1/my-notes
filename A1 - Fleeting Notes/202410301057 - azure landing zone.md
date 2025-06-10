@@ -3,6 +3,7 @@ date: 2024-10-30
 created: 2024-10-30 10:10
 tags:
   - type/fleeting-note
+  - azure
 link: https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/
 title: Azure Landing Zone
 ---

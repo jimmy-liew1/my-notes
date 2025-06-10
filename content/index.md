@@ -16,8 +16,8 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 	* [[Scrum]]
 	* Agile & Project Management
 		* Agile Scrum
-			* [[sprint plan|Sprint Planning]]
-			* [[sprint retro|Sprint Retrospective]]
+			* [[sprint planning|Sprint Planning]]
+			* [[sprint retrospective|Sprint Retrospective]]
 		* Project Management
 			* [[digital transformation]]
 			* [[digital dexterity]]
@@ -43,6 +43,7 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 	* Interview Preparation
 * **Personal & Creative**
 	* Stories & Narrative
+		* [[The chicken and the pig]]
 	* Financial & Future Planning
 		* Retirement Planning
 * **Utilities & Templates**

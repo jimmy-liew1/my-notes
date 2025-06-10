@@ -30,7 +30,7 @@ The virtualization software abstracts and pools underlying resources, then dynam
 
 The virtualization software abstracts and pools underlying resources, then dynamically allocates them to applications running in VMs or containers. Configuration is based on policies aligned with the applications, eliminating the need for complicated constructs like LUNs and volumes.
 
-## Other References:
+## Other References
 - [Hyper-converged Infrastructure | VMware](https://www.vmware.com/asean/products/hyper-converged-infrastructure.html)
 - [Hypervisor | VMware - Glossary](https://www.vmware.com/topics/glossary/content/hypervisor.html)
 - [Hyper-converged Infrastructure | Nutanix](https://www.nutanix.com/sg/hyperconverged-infrastructure)
