@@ -6,7 +6,7 @@ tags:
 link:
 ---
 ## What Are Managed Identities
-Managed Identities are identities that managed by Azure which provide an easy way for Azure services to authenticate to other Azure Services that support Azure Active Directory (AD) authentication.  With managed identities, you **don't need to manage or store credentials** (like passwords or certificates) in your code or configuration. Azure automatically generates and manages the credentials, making authentication more secure.
+Managed Identities are identities that managed by Azure which provide an easy way for Azure services to authenticate to other Azure Services that support [[Azure AD|Azure Active Directory (AD)]] authentication.  With managed identities, you **don't need to manage or store credentials** (like passwords or certificates) in your code or configuration. Azure automatically generates and manages the credentials, making authentication more secure.
 
 ## Key Characteristics
 Key characteristics of Managed Identities include but not limited to:

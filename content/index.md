@@ -10,7 +10,7 @@ Thank you for visiting, and I hope you find something here that sparks your curi
 Feel free to explore, engage, and help these ideas flourish. Happy reading!
 
 ---
-# Where to start
+# Where to start 
 * **Core Methodologies & Frameworks**
 	* [[Agile]]
 	* [[Scrum]]
