@@ -2,7 +2,7 @@
 date: 2024-10-21
 created: 2024-10-21 11:10
 tags:
-  - type/fleeting-note
+  - type/literature-note
 link: https://aws.amazon.com/what-is/iac/
 ---
 ## What is Infrastructure as Code?

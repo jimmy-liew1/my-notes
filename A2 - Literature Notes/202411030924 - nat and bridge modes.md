@@ -2,8 +2,8 @@
 date: 2024-11-03
 created: 2024-11-03 09:11
 tags:
-  - type/fleeting-note
   - networking
+  - type/literature-note
 link: https://www.linkedin.com/advice/0/how-do-you-choose-between-nat-bridge-mode-your
 ---
 # How do you choose between NAT and bridge mode for your VM network?
