@@ -37,6 +37,7 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 		* [[About the IP address 169.254.169.254]]
 	* Cybersecurity
 		* [[Eight ways to strengthen and secure your password]]
+		* [[scareware|Scareware]]
 	* AI & AI Tools
 * **Career and Professional Development**
 	* Leadership & Team Management
