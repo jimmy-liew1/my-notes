@@ -26,6 +26,9 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 * **Technology & IT**
 	* Cloud Platforms
 		* Azure
+			* [[Azure Monitor]]
+			* [[Azure Monitor Agent]] (AMA)
+			* [[data collection rules|Data Collection Rules]] (DCRs)
 		* [[Amazon Web Services]] (AWS)
 		* [[Google Cloud Platform]] (GCP)
 	* Virtualization
@@ -33,6 +36,7 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 		* [[Differences between hyper-converged and hypervisor]]
 	* Automation & Scripting
 	* Data & Databases
+		* [[digital dark age|Digital Dark Age]]
 	* Networking
 		* [[About the IP address 169.254.169.254]]
 	* Cybersecurity

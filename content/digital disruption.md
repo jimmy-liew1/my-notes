@@ -4,7 +4,7 @@ tags:
   - topic-note
   - digital-disruption
 ---
-Digital disruption is the change that occurs when new digital technologies and business models affect the value proposition of existing goods and services.[^1]
+Digital disruption is the transformative change that occurs when new digital technologies and innovative business models affect the value proposition of existing goods, services and industries.[^1]  It's not just about using technology, but about technology enabling entirely new ways of operating the challenge established norms and market leaders.
 
 Generally, digital disruption happens after a [[digital innovation]], such as [[big data]], [[machine learning]] (ML), [[Internet of Things]] (IoT) or the [[BYOD|bring your own device]] ([[BYOD]]) movement.  Digital innovation affects how customer expectations and behaviors evolve, causing organizations to shift how they create products and services, produce marketing material and evaluate feedback.  This shift in digital strategy can occur on an individual, organizational, industry or societal level.
 
