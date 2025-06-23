@@ -37,6 +37,7 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 	* Automation & Scripting
 	* Data & Databases
 		* [[digital dark age|Digital Dark Age]]
+		* [[data literacy|Data Literacy]]
 	* Networking
 		* [[About the IP address 169.254.169.254]]
 	* Cybersecurity
