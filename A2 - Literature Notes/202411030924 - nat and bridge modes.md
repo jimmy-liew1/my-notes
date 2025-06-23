@@ -18,6 +18,9 @@ Bridge mode allows your VM to act as its own device on your network, with its ow
 ## How to choose between NAT and bridge mode?
 When considering which mode is best for your VM network, there is no definitive answer as it depends on your goals and preferences. However, there are some general guidelines to help you choose. NAT mode is ideal if you want to keep your VM private and secure, or if you have limited IP addresses on your network. Bridge mode should be considered if you want to make your VM public and accessible, or if you need to run network-intensive applications or services. It’s also possible to use a combination of both modes by creating different virtual network adapters and assigning them different modes. This will give you more flexibility and control over your VM network.
 
+* Use **NAT** if you just need the VM to access the internet for browsing or updates, and you don't need other devices on your network to connect directly to the VM (e.g., a test environment for browsing).
+* Use **Bridge mode** if you want the VM to function like a separate computer on your network, accessible by other devices (e.g., running a local web server or file share that other computers on your LAN need to access).
+
 ## How to configure NAT and bridge mode?
 To configure NAT and bridge mode for your VM network, the exact steps may vary based on the software and operating system you use. Generally, you need to install and enable the virtual network adapter for your VM. This is usually done automatically when you create a new VM, but you can also add or remove adapters later. Then, you should choose the mode for your adapter in the settings or preferences of your VM software. Finally, you need to configure the IP address and other network settings for your adapter, either in the settings of your VM software or in the network settings of your VM operating system. You can use DHCP to obtain the settings automatically, or you can enter them manually.
 
