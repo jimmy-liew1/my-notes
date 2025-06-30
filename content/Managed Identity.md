@@ -1,6 +1,8 @@
 ---
 date: 2025-06-07
 created: 2025-06-07 11:06
+aliases:
+  - MI
 tags:
   - azure
 link:

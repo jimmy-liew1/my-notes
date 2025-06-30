@@ -21,7 +21,13 @@ The IP address `169.254.169.254` is a **special-purpose IP address** used by
 ### How Does It Work?
 - When a VM queries `http://169.254.169.254`, it retrieves metadata about itself.
 - Example command to fetch metadata:
-    ```
-    curl -H "Metadata: true" "http://169.254.169.254/metadata/instance?api-version=2021-02-01"
-    ```
+	- Example 1:
+		```
+		curl -H "Metadata: true" "http://169.254.169.254/metadata/instance?api-version=2021-02-01"
+		```
+	- Example 2:
+		```
+		echo "Linux hostname: $(hostname)"
+		echo "Azure VM name: $(curl -s -H Metadata:true 'http://169.254.169.254/metadata/instance/compute/name?api-version=2021-02-01&format=text')"
+		```
 - This is **critical for automation**, security, and configuration management in cloud environments.

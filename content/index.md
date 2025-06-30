@@ -29,6 +29,10 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 			* [[Azure Monitor]]
 			* [[Azure Monitor Agent]] (AMA)
 			* [[data collection rules|Data Collection Rules]] (DCRs)
+			* [[managed identity|Managed Identity]] (MI)
+			* [[Microsoft Monitoring Agent]] (MMA)
+			* [[Dependency Agent]] (DA)
+			* [[Comparing MMA and DA on Azure]]
 		* [[Amazon Web Services]] (AWS)
 		* [[Google Cloud Platform]] (GCP)
 	* Virtualization
@@ -43,6 +47,7 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 	* Cybersecurity
 		* [[Eight ways to strengthen and secure your password]]
 		* [[scareware|Scareware]]
+		* [[social engineering|Social Engineering]]
 	* AI & AI Tools
 * **Career and Professional Development**
 	* Leadership & Team Management

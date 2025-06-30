@@ -1,7 +1,8 @@
 ---
+up: "[[Digital Transformation MOC]]"
+title: Digital Dexterity
 aliases:
   - digital dexterity
-up: "[[Digital Transformation MOC]]"
 tags:
   - topic-note
   - digital-dexterity
