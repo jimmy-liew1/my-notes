@@ -27,11 +27,11 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 	* Cloud Platforms
 		* Azure
 			* [[Azure Monitor]]
-			* [[Azure Monitor Agent]] (AMA)
+			* [[Azure Monitor Agent]] (AMA) - *retired on August 31 2024*
 			* [[data collection rules|Data Collection Rules]] (DCRs)
 			* [[managed identity|Managed Identity]] (MI)
 			* [[Microsoft Monitoring Agent]] (MMA)
-			* [[Dependency Agent]] (DA)
+			* [[Dependency Agent]] (DA) - *will be retired on June 30, 2028*
 			* [[Comparing MMA and DA on Azure]]
 		* [[Amazon Web Services]] (AWS)
 		* [[Google Cloud Platform]] (GCP)

@@ -6,6 +6,7 @@ aliases:
   - Artificial Intelligence
 tags:
   - definition
+  - stub
 link:
 ---
 Artificial intelligence is defined as the ability of a computer system to perform tasks such as understanding speech or recognizing faces, finding patterns, and making decisions based on past and current information.
