@@ -56,5 +56,4 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 	* Stories & Narrative
 		* [[The chicken and the pig]]
 	* Financial & Future Planning
-		* Retirement Planning
 * **Utilities & Templates**

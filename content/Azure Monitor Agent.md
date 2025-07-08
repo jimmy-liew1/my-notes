@@ -23,7 +23,7 @@ This reference architecture shows how to use [[Azure Monitor]] to monitor the pe
 ## Key Points
 - **Installation:** AMA can be installed on individual machines or at scale using [[Azure Policy]], VM extensions, or other tools. It can also be automatically installed when enabling certain features.[^2]
 - **[[data collection rules|Data Collection Rules (DCRs)]]:** These rules define what data to collect, how to transform it, and where to send it. DCRs allow for flexible and centralized data collection management.
-- **Deprecation of Legacy Agents:** AMA replaces the older Log Analytics agent, which will be deprecated. Users are encouraged to migrate to AMA for enhanced capabilities.
+- **Deprecation of Legacy Agents:** AMA replaces the older Log Analytics agent, which is now deprecated. Users are encouraged to migrate to AMA for enhanced capabilities.
 - **Integration:** AMA integrates seamlessly with other Azure services, enhancing monitoring and security capabilities.
 ## Key Features
 1. **Data Collection Rules (DCRs):** AMA uses DCRs to define what data to collect, how to transform it, and where to send it. This allows for flexible and centralized data collection management.[^1]
