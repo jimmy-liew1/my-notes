@@ -10,6 +10,7 @@ The IP address `169.254.169.254` is a **special-purpose IP address** used by
 
 ### What is 169.254.169.254 Used For?
 - It allows **VMs to access metadata** about themselves **without needing an internet connection**.
+- VMs use this IP address to make requests to the [[Instance Metadata Service|Instance Metadata Service (IMDS)]] and retrieve their metadata. The service typically uses a REST API for communication.
 - Metadata includes details like **instance ID, networking configuration, IAM roles, and security credentials**.
 - Cloud services use this IP to provide **internal communication** between the VM and the cloud provider.
 

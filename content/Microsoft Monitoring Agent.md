@@ -1,8 +1,9 @@
 ---
 date: 2024-10-21
+created: 2024-10-21 17:10
+up: "[[Azure MOC]]"
 aliases:
   - MMA
-created: 2024-10-21 17:10
 tags:
   - azure
 link:

@@ -24,15 +24,17 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 			* [[digital disruption|Digital Disruption]]
 	* Productivity & Personal Growth
 * **Technology & IT**
-	* Cloud Platforms
+	* Cloud Platforms / [[cloud providers|Cloud Providers]]
 		* Azure
 			* [[Azure Monitor]]
 			* [[Azure Monitor Agent]] (AMA) - *retired on August 31 2024*
 			* [[data collection rules|Data Collection Rules]] (DCRs)
 			* [[managed identity|Managed Identity]] (MI)
+			* [[service principal|Service Principal]]
 			* [[Microsoft Monitoring Agent]] (MMA)
 			* [[Dependency Agent]] (DA) - *will be retired on June 30, 2028*
 			* [[Comparing MMA and DA on Azure]]
+			* [[Instance Metadata Service|Instance Metadata Service (IMDS)]]
 		* [[Amazon Web Services]] (AWS)
 		* [[Google Cloud Platform]] (GCP)
 	* Virtualization
@@ -49,6 +51,7 @@ Feel free to explore, engage, and help these ideas flourish. Happy reading!
 		* [[scareware|Scareware]]
 		* [[social engineering|Social Engineering]]
 	* AI & AI Tools
+		* [[artificial intelligence|Artificial Intelligence]] (AI)
 * **Career and Professional Development**
 	* Leadership & Team Management
 	* Interview Preparation
