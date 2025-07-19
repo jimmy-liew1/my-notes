@@ -1,5 +1,5 @@
 ---
-up: "[[Digital Transformation MOC]]"
+up: "[[Core methodologies and frameworks]]"
 aliases:
   - DT
 tags:

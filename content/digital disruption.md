@@ -1,5 +1,5 @@
 ---
-up: "[[Digital Transformation MOC]]"
+up: "[[Core methodologies and frameworks]]"
 tags:
   - topic-note
   - digital-disruption

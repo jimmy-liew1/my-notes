@@ -5,6 +5,7 @@ aliases:
   - IMDS
 tags:
   - azure
+  - networking
 link:
 ---
 The **Instance Metadata Service (IMDS)** is a service provided by Azure that allows running virtual machine (VM) instances to access information about themselves. This information is crucial for various tasks, including configuration, security, and monitoring.

@@ -11,9 +11,7 @@ A sprint retrospective is a meeting held at the end of each sprint in an [[Agile
 
 ![image](https://assets.asana.biz/m/cd1aa754c2f226c/original/inline-agile-sprint-retrospective-2x.jpg) *Example of a Sprint Retrospective board. Picture from [Asana](https://asana.com/guide/examples/project-management/asana-agile).*
 ### Purpose and Benefits
-
 The primary goal of a sprint retrospective is to foster continuous improvement. By regularly examining their work, the team can:
-
 *   Identify what went well and replicate those successes.
 *   Pinpoint areas for improvement.
 *   Develop actionable plans to address issues.
