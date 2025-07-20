@@ -12,7 +12,7 @@ link:
 
 While large language models have hundreds of billions—or even trillions—of parameters, SLMs typically range from **1 million to 10 billion parameters**. The small language models are significantly smaller but they still retain core NLP capabilities like text generation, summarization, translation, and question-answering.
 
-## Videos
+### Videos
 - [How to run a Small Language Model on Raspberry Pi](https://www.youtube.com/watch?v=WvFnEU-Xxvc) 
 - [Run AI Locally on Raspberry Pi with Ollama](https://www.youtube.com/watch?app=desktop&v=Xsysu2gD-3U&t=150)
 - [Run this Small Language Model on Raspberry Pi for Fun and PROFIT](https://www.youtube.com/watch?v=anJm2LFqQjo)

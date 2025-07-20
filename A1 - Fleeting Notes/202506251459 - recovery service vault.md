@@ -6,7 +6,7 @@ tags:
   - azure
 link:
 ---
-A Recovery Services vault is a storage entity in Azure that houses data. It's used to hold backup data for various Azure services (like VMs, SQL databases, Azure Files) and on-premises workloads.
+A **Recovery Services vault** is a storage entity in Azure that houses data. It's used to hold backup data for various Azure services (like VMs, SQL databases, Azure Files) and on-premises workloads.
 
 Its primary purpose is to manage and organize backup and disaster recovery strategies. It provides features like:
 * **Centralized Management:** A single place to manage backups for multiple resources.

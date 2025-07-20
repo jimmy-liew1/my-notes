@@ -1,4 +1,5 @@
 ---
+up: "[[Technology and IT]]"
 date: 2025-07-02
 created: 2025-07-02 20:07
 aliases:

@@ -5,7 +5,7 @@ tags:
   - stub
 link:
 ---
-Data literacy is the ability to read, work with, analyze, and argue with data.
+**Data literacy** is the ability to read, work with, analyze, and argue with data.
 
 It's not just about being able to read charts or understand statistics. It encompasses a broader set of skills, including:
 1. **Understanding Data:** Knowing what data is, where it comes from, and its potential uses and limitations.

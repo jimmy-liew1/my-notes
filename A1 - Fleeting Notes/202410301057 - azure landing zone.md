@@ -19,7 +19,7 @@ title: Azure Landing Zone
 		- Data security
 	- 5. Manage environment
 		- Monitoring, resilience, automation
--
+
 ## Diagram - Azure Landing Zone Architecture
 ![image](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/media/azure-landing-zone-architecture-diagram-hub-spoke.svg)
 

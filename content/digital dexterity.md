@@ -24,7 +24,7 @@ In the context of [[digital transformation|Digital Transformation]], digital dex
 
 ## Components and Skills 
 Digital dexterity is not a single skill but a combination of abilities and attitudes, including: 
-* **Digital Literacy:** Foundational knowledge of how to use common digital tools and platforms. 
+* **[[digital literacy|Digital Literacy]]:** Foundational knowledge of how to use common digital tools and platforms. 
 * **Technological Fluency:** The ability to understand how different technologies work together and their potential applications. 
 * **Continuous Learning Mindset:** A willingness and desire to constantly learn about new technologies. 
 * **Adaptability:** The capacity to quickly adjust to new tools, interfaces, and workflows. 
