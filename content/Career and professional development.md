@@ -10,6 +10,11 @@ This section of my digital garden is dedicated to exploring topics related to ca
 ## Core Areas
 * **[[Leadership & Team Management]]**: Exploring leadership styles, team dynamics, and strategies for effective team management.
 * **[[Interview Preparation]]**: Resources and tips for preparing for job interviews, including common interview questions, behavioral questions, and techniques for showcasing your skills and experience.
+	* [[Server Interview Questions]] 
+	* [[Cloud Interview Questions]] 
+	* [[Azure Interview Questions]] 
+	* [[Automation Interview Questions]] 
+	* [[Database Interview Questions]]
 
 ## Further Exploration
 I plan to expand this section with more detailed notes, including:

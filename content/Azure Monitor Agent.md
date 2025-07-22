@@ -1,5 +1,4 @@
 ---
-up: "[[Azure MOC]]"
 aliases:
   - AMA
 tags:

@@ -1,9 +1,8 @@
 ---
-up: "[[General MOC]]"
+title: Cloud Service Providers
 tags:
   - stub
 ---
-# Cloud Service Providers
 A **cloud service provider** is a third-party company that offers a platform, infrastructure, applications, and storage services over the internet. They allow individuals and businesses to consume computing resources on demand, typically on a pay-as-you-go basis, rather than building and managing their own physical data centers.
 
 Understanding the landscape of cloud providers is essential in modern IT and development.
@@ -45,7 +44,7 @@ These providers offer strong platforms, often with specific areas of focus or re
 * **Cost:** Pricing models vary significantly.
 * **Performance & Reliability:** Uptime guarantees, network speed, data center locations.
 * **Global Presence:** Availability in required geographic regions.
-* **Compliance & Security:** Meeting industry-specific regulations (HIPAA, GDPR, etc.).
+* **Compliance & Security:** Meeting industry-specific regulations ([[HIPAA]], [[GDPR]], etc.).
 * **Vendor Lock-in:** How easy is it to move data or applications away from the platform?
 * **Existing Infrastructure & Skills:** Compatibility with current systems and team expertise.
 * **Support:** Level and cost of technical support.

@@ -6,7 +6,7 @@ tags:
   - cyber-glossary
 link:
 ---
-Scareware is a type of malware that tricks users into believing their computer is infected, often through fake pop-up warnings or security alerts. It then prompts them to download or purchase fake antivirus software or other tools to "fix" the non-existent problem. These fake tools are actually malware designed to steal personal information, install more malware, or cause other harmful actions.
+**Scareware** is a type of malware that tricks users into believing their computer is infected, often through fake pop-up warnings or security alerts. It then prompts them to download or purchase fake antivirus software or other tools to "fix" the non-existent problem. These fake tools are actually malware designed to steal personal information, install more malware, or cause other harmful actions.
 ![image](https://sectigostore.com/blog/wp-content/uploads/2020/12/scareware-example2.png)
 ## What is Scareware?
 Scareware is a type of cyberattack focused on [[social engineering]] scam that aims to scare or frighten the users and pressure them to take rushed decisions that could be indicated by the attackers to gather information about the company, credentials or personal information to extort in many ways.
