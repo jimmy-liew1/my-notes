@@ -1,5 +1,6 @@
 ---
 up: "[[Agile Scrum MOC]]"
+title: Sprint retrospective
 aliases:
   - sprint retrospective
 tags:

@@ -1,5 +1,6 @@
 ---
 up: "[[Core methodologies and frameworks]]"
+title: Digital Transformation
 aliases:
   - DT
 tags:

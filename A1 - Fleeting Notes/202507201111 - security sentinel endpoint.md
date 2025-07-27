@@ -5,7 +5,7 @@ tags:
   - type/fleeting-note
 link:
 ---
-# Security Sentinel Endpoint Agent
+## Security Sentinel Endpoint Agent
 The **Security Sentinel Endpoint (SSE) agent** is installed on user devices (laptops, machines) to monitor activity and send logs to [[Azure Sentinel]] for analysis.
 
 **Key Functions:**

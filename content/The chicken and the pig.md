@@ -1,7 +1,6 @@
 ---
 date: 2025-06-10
 created: 2025-06-10 10:06
-draft: false
 tags:
   - story
   - agile-scrum
