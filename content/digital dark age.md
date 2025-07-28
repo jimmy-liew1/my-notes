@@ -1,7 +1,7 @@
 ---
 date: 2024-12-30
 created: 2024-12-30 11:12
-title: Digital Dark Age
+title: Digital dark age
 tags:
   - stub
 link:

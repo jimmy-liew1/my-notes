@@ -1,7 +1,7 @@
 ---
 date: 2025-06-20
 created: 2025-06-20 11:06
-title: 
+title: Scareware
 tags:
   - cyber-security
   - cyber-glossary

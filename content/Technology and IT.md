@@ -31,6 +31,8 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
     * [[Differences between hyper-converged and hypervisor]]
     * **Nutanix**
 	    * [[NOS]]: It's a Nutanix OS, stands for Acropolis Operating System (AOS).
+* **Infrastructure Management**
+	* [[infrastructure as code|Infrastructure as Code]] (IaC)
 
 ### Data & Automation
 * **[[Automation & Scripting]]**: Automating tasks and processes using scripting languages and automation tools.

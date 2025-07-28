@@ -1,6 +1,6 @@
 ---
 up: "[[Core methodologies and frameworks]]"
-title: Digital Dexterity
+title: Digital dexterity
 aliases:
   - digital dexterity
 tags:
