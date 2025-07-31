@@ -1,4 +1,5 @@
 ---
+up: "[[Agile Scrum MOC]]"
 date: 2025-07-31
 created: 2025-07-31 11:07
 draft: false
@@ -15,7 +16,7 @@ A **Scrum Sprint** is a time-boxed iteration in the Scrum framework, **typically
 * **Deliverable:** The team aims to produce a usable product increment at the end of each Sprint.
 
 ## Sprint Activities:
-*   [[sprint planning|Sprint Planning]]:** The team plans the work for the Sprint.
+*  **[[sprint planning|Sprint Planning]]:** The team plans the work for the Sprint.
 *   **Daily Scrum:** A short daily meeting to track progress and plan for the day.
 *   **Sprint Review:** The team demonstrates the work completed during the Sprint.
 *   **[[sprint retrospective|Sprint Retrospective]]:** The team reflects on the Sprint to identify improvements.
