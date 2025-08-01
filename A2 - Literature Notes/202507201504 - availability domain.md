@@ -10,7 +10,7 @@ link:
 An **update domain** is a logical group of VMs within an Availability Set that can be updated or rebooted at the same time during planned maintenance by Azure. Azure ensures that only one update domain is updated at any given time. This guarantees that at least one instance of your application remains running during planned maintenance events.
 
 ## Maximum Number of Update Domains 
-The maximum number of **update domains** you can configure in an Azure Availability Set is **20**.
+The maximum number of **update domains** you can configure in an [[Azure availability set|Azure Availability Set]] is **20**.
 
 While the default or commonly recommended number for high availability against planned maintenance is **5**, Azure allows for up to 20 update domains.2 This higher limit can be useful in specific scenarios, particularly for very large deployments where minimizing the number of instances down during a rolling update is critical.
 

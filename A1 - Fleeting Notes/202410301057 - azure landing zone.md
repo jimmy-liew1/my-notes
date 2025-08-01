@@ -23,5 +23,11 @@ title: Azure Landing Zone
 ## Diagram - Azure Landing Zone Architecture
 ![image](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/media/azure-landing-zone-architecture-diagram-hub-spoke.svg)
 
+
+This video dive into Azure Landing Zones, and explains what they are and how they work.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mluS8ovuBKg?si=-qC13FE0sZH4Tz2x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Be sure to check out the documentation at [What is an Azure landing zone](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/).
+
 ## See Also
 * [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/landing-zones/landing-zone-deploy#application)
+* [What is an Azure landing zone](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/) | Microsoft Learn

@@ -2,6 +2,8 @@
 up: "[[Agile Scrum MOC]]"
 date: 2025-07-31
 created: 2025-07-31 11:07
+aliases:
+  - sprint
 draft: false
 tags:
   - agile-scrum
