@@ -20,7 +20,7 @@ DARE does not require any additional tools. A built-in and secure key management
 
 On **Nutanix**, DARE is built into the platform and offers flexible options:
 - **Software-Based Encryption**: Nutanix AOS supports native AES-256 encryption using a FIPS 140-2 Level 1 compliant module. This method doesn’t require self-encrypting drives (SEDs) or external key management systems (KMS), making it simple and cost-effective to deploy.
-  
+
 - **Hardware-Based Encryption**: Nutanix also supports SEDs for environments that require hardware-level protection. These drives encrypt data automatically and lock themselves if removed or tampered with.
 
 - **Key Management**: You can use Nutanix’s built-in key manager or integrate with an external KMS, depending on your compliance needs. If the Controller VM can’t retrieve the correct key, it won’t be able to access the data.

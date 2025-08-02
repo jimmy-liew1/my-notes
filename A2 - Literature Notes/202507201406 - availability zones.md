@@ -30,3 +30,4 @@ Azure services that support availability zones are divided into two categories.
 
 ### Related
 * [[202507201402 - availability sets]]
+* [[availability zones]]
