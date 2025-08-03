@@ -19,6 +19,8 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
 	        * [[Microsoft Monitoring Agent]] (MMA)
 	        * [[Dependency Agent]] (DA) - *will be retired on June 30, 2028*
 	        * [[Comparing MMA and DA on Azure]]
+	        * [[network security group|Network Security Group]] (NSG)
+	        * [[application security group|Application Security Group]] (ASG)
 		*   **Identity & Access**      
 			* [[managed identity|Managed Identity]] (MI)
 	        * [[service principal|Service Principal]]
@@ -46,6 +48,7 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
 * **[[Networking]]**: Understanding network protocols, architectures, and security.
     * [[About the IP address 169.254.169.254]]
     * [[network endpoints|Network endpoints]]
+    * [[network security group|Network Security Group]] (NSG)
 * **[[Cybersecurity]]**: Protecting systems and data from cyber threats, including security best practices, incident response, and risk management.
     * [[Eight ways to strengthen and secure your password]]
     * [[scareware|Scareware]]
