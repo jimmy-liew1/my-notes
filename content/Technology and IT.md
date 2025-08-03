@@ -25,7 +25,7 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
 			* [[managed identity|Managed Identity]] (MI)
 	        * [[service principal|Service Principal]]
 		* **Other**
-	        * [[Azure regions|Azure Regions]]
+	        * [[Azure region|Azure Regions]]
 	        * [[availability zones|Availability Zones]]
 	        * [[Instance Metadata Service|Instance Metadata Service]] (IMDS)
     * [[Amazon Web Services]] (AWS)

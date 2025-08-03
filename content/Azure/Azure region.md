@@ -1,11 +1,10 @@
 ---
 date: 2025-08-03
 created: 2025-08-03 00:08
-title: Azure regions
+title: Azure region
 aliases:
-  - Azure region
+  - Azure regions
 tags:
-  - type/fleeting-note
   - azure
 link: https://learn.microsoft.com/en-us/azure/reliability/regions-overview
 ---
