@@ -1,4 +1,5 @@
 ---
+up: "[[General MOC]]"
 date: 2024-12-30
 created: 2024-12-30 11:12
 title: Digital dark age

@@ -1,5 +1,6 @@
 ---
-up: "[[Core methodologies and frameworks]]"
+up: "[[General MOC]]"
+title: Digital disruption
 tags:
   - topic-note
   - digital-disruption

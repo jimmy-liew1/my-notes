@@ -1,5 +1,5 @@
 ---
-up: "[[Core methodologies and frameworks]]"
+up: "[[General MOC]]"
 title: Digital dexterity
 aliases:
   - digital dexterity
