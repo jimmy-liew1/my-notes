@@ -24,6 +24,7 @@ These providers dominate the market with extensive global infrastructure and a v
 
 ### Other Significant Providers
 These providers offer strong platforms, often with specific areas of focus or regional dominance.
+
 4.  **IBM Cloud**
     * Offers a range of services with a focus on hybrid cloud, AI (Watson), and enterprise solutions.
 5.  **Oracle Cloud Infrastructure (OCI)**
