@@ -9,7 +9,7 @@ Azure Monitor Agent (AMA) collects monitoring data from the guest operating syst
 
 AMA replaces the [[Log Analytics agent]], also known as [[Microsoft Monitoring Agent|Microsoft Monitor Agent (MMA)]] and [[OMS]], for Windows and Linux machines, in Azure and non-Azure environments, on-premises and other clouds.
 
-It uses [[Data Collection Rules|Data Collection Rules (DCRs)]] for flexible data management and supports centralized configuration. Unlike the older Log Analytics agent, which retired on August 31, 2024, AMA offers enhanced features and capabilities, such as centralized configuration, data collection rules, and improved security.
+It uses [[data collection rules|Data Collection Rules (DCRs)]] for flexible data management and supports centralized configuration. Unlike the older Log Analytics agent, which retired on August 31, 2024, AMA offers enhanced features and capabilities, such as centralized configuration, data collection rules, and improved security.
 
 > [!INFO]- Note:
 > Azure Monitor Agent replaces the [Legacy Agent](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/log-analytics-agent) for Azure Monitor. The Log Analytics agent is on a **deprecation path** and won't be supported after **August 31, 2024**. Any new data centers brought online after January 1 2024 will not support the Log Analytics agent. If you use the Log Analytics agent to ingest data to Azure Monitor, [migrate to the new Azure Monitor agent](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration) prior to that date.
