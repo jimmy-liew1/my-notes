@@ -14,5 +14,9 @@ Its primary purpose is to manage and organize backup and disaster recovery strat
 * **Monitoring:** Track backup jobs, alerts, and recovery points.
 * **Security Features:** Options like soft delete to protect against accidental deletion.
 
+### Related
+* [[202508011628 - azure recovery service vault]]
+
 ### References
 * [Recovery Services vaults overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-recovery-services-vault-overview)
+

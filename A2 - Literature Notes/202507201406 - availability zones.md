@@ -31,3 +31,5 @@ Azure services that support availability zones are divided into two categories.
 ### Related
 * [[202507201402 - availability sets]]
 * [[availability zones]]
+* [[202507311130 - update domains|update domain]]
+* [[202507311128 - fault domains|fault domain]]

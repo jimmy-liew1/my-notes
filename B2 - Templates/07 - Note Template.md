@@ -1,7 +1,9 @@
 ---
+up: 
 date: {{date}}
 created: {{date:YYYY-MM-DD HH:MM}}
-draft: false
+title: 
+aliases: 
 tags:
   - 
 link:

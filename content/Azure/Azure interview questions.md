@@ -27,7 +27,6 @@ Here’s a list of technical interview questions for Cloud Engineer candidates w
 5. **What is Azure DevOps, and how does it integrate with CI/CD pipelines?**
 	**Answer:** Azure DevOps is a suite of development tools that supports the entire software development lifecycle. It integrates with CI/CD pipelines by providing Azure Pipelines, which automate the build, test, and deployment processes. Developers can create workflows that trigger builds on code commits, run automated tests, and deploy applications to various environments seamlessly.
 
-
 ## DevOps Questions
 6. **Can you explain the concept of Infrastructure as Code (IaC) and how you would implement it using Azure?**
 	**Answer:** [[infrastructure as code|Infrastructure as Code (IaC)]] is the practice of managing and provisioning infrastructure through code rather than manual processes. In Azure, I would implement IaC using Azure Resource Manager (ARM) templates or Terraform. This allows for version control, repeatability, and automation of infrastructure deployment.

@@ -7,7 +7,6 @@ tags:
   - stub
 link:
 ---
-## What is Digital Dark Age?
 The term "digital dark age" refers to the potential loss of historical information in the digital age due to outdated file formats, software, or hardware that becomes corrupt, scarce, or inaccessible as technologies evolve and data decays[^1] This phenomenon can result in future generations finding it difficult or impossible to retrieve electronic documents and multimedia because they have been recorded in an obsolete and obscure file format or on an obsolete physical medium.[^1]
 
 ## How to Survive in Digital Dark Age?
