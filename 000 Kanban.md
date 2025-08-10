@@ -12,10 +12,13 @@ kanban-plugin: board
 - [ ] [[202411051510 - hotpatching]]
 - [ ] Microsoft Azure Backup Recovery (MABR)
 - [ ] Microsoft Retina
+- [ ] [[202508011628 - azure recovery service vault]]
+- [ ] [[202506251459 - recovery service vault]]
 
 
 ## Committed
 
+- [ ] [[202507201406 - availability zones]]
 
 
 ## In-progress

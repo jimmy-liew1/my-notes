@@ -6,7 +6,6 @@ tags:
   - azure
 link:
 ---
----
 ## Persisting Data in Azure Container Instances
 To persist data for Azure Container Instances (ACI), you can use **Azure Files**. Azure Files provides fully managed file shares hosted in Azure Storage, accessible via the Server Message Block (SMB) protocol. This allows your containerized applications to read and write data to a persistent storage location.
 

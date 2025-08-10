@@ -10,9 +10,9 @@ This note serves as a central hub for my explorations of core methodologies and 
 
 * **[[Agile]]:** A flexible and iterative approach to project management, emphasizing collaboration, customer feedback, and continuous improvement.
     * [[Agile Scrum]]
+        * [[Scrum sprint|Scrum Sprint]]
         * [[sprint planning|Sprint Planning]]
         * [[sprint retrospective|Sprint Retrospective]]
-        * [[Scrum sprint|Scrum Sprint]]
 * **[[Scrum]]:** A specific framework within Agile, utilizing sprints, roles (Product Owner, Scrum Master, Development Team), and ceremonies to deliver value incrementally.
 * **Project Management:** Broader principles and practices for planning, organizing, and managing resources to bring about the successful completion of specific project goals and objectives.
 * [[digital transformation|Digital Transformation]]

@@ -57,6 +57,7 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
 ### Emerging Technologies
 * **[[AI & AI Tools]]**: Exploring the field of Artificial Intelligence, including machine learning, deep learning, and AI applications.
     * [[artificial intelligence|Artificial Intelligence]]
+    * [[Model Context Protocol]]
 
 ## Further Exploration
 This section is constantly evolving. I plan to add more detailed notes on each of these topics, including:
