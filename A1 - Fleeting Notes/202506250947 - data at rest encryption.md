@@ -1,7 +1,9 @@
 ---
 date: 2025-06-25
 created: 2025-06-25 09:06
-aliases: 
+title: Data At Rest Encryption (DARE)
+aliases:
+  - DARE
 tags:
   - type/fleeting-note
   - encryption

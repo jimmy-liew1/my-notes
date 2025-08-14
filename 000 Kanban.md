@@ -6,23 +6,25 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[202410211133 - private endpoint|Private Endpoint]]
+- [ ] Microsoft Azure Backup Recovery (MABR)
 - [ ] [[202411030924 - nat and bridge modes]]
 - [ ] [[202410301057 - azure landing zone]]
-- [ ] [[202411051510 - hotpatching]]
-- [ ] Microsoft Azure Backup Recovery (MABR)
 - [ ] Microsoft Retina
-- [ ] [[202508011628 - azure recovery service vault]]
-- [ ] [[202506251459 - recovery service vault]]
+- [ ] [[202508011332 - azure load balancer]]
 
 
 ## Committed
 
-- [ ] [[202507201406 - availability zones]]
+- [ ] [Digital literacy in ChatGPT adoption and utilisation](https://www.sciencedirect.com/science/article/pii/S2444569X24001410)
+- [ ] [[202410211133 - private endpoint|Private Endpoint]]
 
 
 ## In-progress
 
+- [ ] [[202507201406 - availability zones]]
+- [ ] [[202411051510 - hotpatching]]
+- [ ] [[202508111954 - digital literacy]]
+- [ ] [[202506251459 - recovery service vault]]
 
 
 ## Review

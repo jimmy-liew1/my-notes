@@ -17,4 +17,4 @@ link:
 Key aspects of Agile include:
 * **Values:** The Agile Manifesto outlines core values such as individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to change over following a plan.
 * **Principles:** Agile is guided by principles like continuous delivery, sustainable development, and self-organizing teams.
-* **Frameworks:** Several frameworks implement Agile principles, including Scrum, Kanban, and XP (Extreme Programming).
+* **Frameworks:** Several frameworks implement Agile principles, including [[Scrum]], Kanban, and XP (Extreme Programming).

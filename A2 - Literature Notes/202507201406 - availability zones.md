@@ -6,15 +6,15 @@ tags:
   - type/literature-note
 link: https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-availability/5-review-availability-zones
 ---
-**Availability zones** are a highly availability offering that protect applications and data from datacenter failure.  An availability zone in an Azure region is a combination of a fault domain and an update domain.
+**Availability zones** are a highly availability offering that protect applications and data from datacenter failure.  An availability zone in an Azure region is a combination of a [[202507311128 - fault domains|fault domain]] and an [[202507311130 - update domains|update domain]].
 
-Consider a scenario where you create three or more virtual machines across three zones in an Azure region. Your virtual machines are effectively distributed across three [[fault domain|fault domains]] and three [[update domain|update domains]]. The Azure platform recognizes this distribution across update domains to make sure that virtual machines in different zones aren't updated at the same time.
+Consider a scenario where you create three or more virtual machines across three zones in an Azure region. Your virtual machines are effectively distributed across three fault domain|fault domains and three update domain|update domains. The Azure platform recognizes this distribution across update domains to make sure that virtual machines in different zones aren't updated at the same time.
 
 You can use availability zones to build high-availability into your application architecture by collocating your compute, storage, networking, and data resources within a zone and replicating in other zones.
 
 ### Things to know about availability zones
 Review the following characteristics of availability zones.
-- Availability zones are unique physical locations within an Azure region.
+- Availability zones are unique physical locations within an [[Azure region]].
 - Each zone is made up of one or more datacenters that are equipped with independent power, cooling, and networking.
 - To ensure resiliency, there's a minimum of three separate zones in all enabled regions.
 - The physical separation of availability zones within a region protects applications and data from datacenter failures.
@@ -29,7 +29,7 @@ Azure services that support availability zones are divided into two categories.
 | **Zone-redundant services** | For Azure services that are zone-redundant, the platform replicates automatically across all zones. | - Azure Storage that's zone-redundant<br>- Azure SQL Database                |
 
 ### Related
-* [[202507201402 - availability sets]]
+* [[202507201402 - availability sets|availability sets]]
 * [[availability zones]]
 * [[202507311130 - update domains|update domain]]
 * [[202507311128 - fault domains|fault domain]]

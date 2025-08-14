@@ -21,7 +21,7 @@ Scareware typically appears in the form of alarming pop-ups, fake security alert
 Victims may be tricked into accessing a suspicious link that is attached to the notification, login with their credentials to a fake Microsoft page or buy a subscription to software that could lead to a _real_ virus.
 
 ## What Does Scareware Look Like?
-Scareware sneaks in when you least expect it, usually when you’re browsing the web, clicking on sketchy ad or visiting an unfamiliar site, but there are a lot more ways it can find you. Here are some common ways scareware might catch you off guard:[
+Scareware sneaks in when you least expect it, usually when you’re browsing the web, clicking on sketchy ad or visiting an unfamiliar site, but there are a lot more ways it can find you. Here are some common ways scareware might catch you off guard:
 
 - **Fake security alerts** – Those pop-ups that suddenly appear, claiming your device is infected and urging you to "fix" it immediately
 - **Malicious downloads** – Free software or files that secretly contain scareware bundled inside

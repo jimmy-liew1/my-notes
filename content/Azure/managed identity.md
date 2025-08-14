@@ -20,14 +20,16 @@ Key characteristics of Managed Identities include but not limited to:
 - An Azure resource with a managed identity can request a token from the **[[Instance Metadata Service|Instance Metadata Service (IMDS)]]**, which is only accessible to that resource. The IMDS then obtains a token from Azure AD using a certificate known only to the IMDS, and returns it to the application. This token can then be used to authenticate to other Azure services.
 - Managed identities should be **preferred over storing credentials** or using other authentication mechanisms for Azure-to-Azure communication.
 
-The following video provides a deep dive into using managed identities and understanding what makes them tick.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rC1TV0_sIrM?si=aEk5RnBhjwsxZjzu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Videos
+The following videos provide a deeper understanding of managed identities:
 
-In this video, Matt shows you explain about [what is managed identity?](https://www.youtube.com/watch?v=nIoqw4zBqIM&t=27s) and show you side-by-side comparison.
+This video provides a deep dive into using managed identities and understanding what makes them tick.<iframe width="560" height="315" src="https://www.youtube.com/embed/rC1TV0_sIrM?si=aEk5RnBhjwsxZjzu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+In this video, Matt explains [what is managed identity?](https://www.youtube.com/watch?v=nIoqw4zBqIM&t=27s) and show you side-by-side comparison.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nIoqw4zBqIM?si=FmRYo7QnaDCdr-CB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The following video shows how you can use managed identities:
+This video demonstrates how to use managed identities.
 <iframe width="560" height="315" src="https://learn-video.azurefd.net/vod/player?show=on-net&ep=using-azure-managed-identities" title="Using Azure Managed Identities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Read More
+## Further Reading
 * [Overview about managed identities for Azure resources](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/overview)

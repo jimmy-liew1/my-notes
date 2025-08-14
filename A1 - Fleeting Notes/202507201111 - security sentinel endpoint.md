@@ -1,8 +1,12 @@
 ---
 date: 2025-07-20
 created: 2025-07-20 11:07
+title: Security Sentinel Endpoint (SSE)
+aliases:
+  - SSE
 tags:
   - type/fleeting-note
+  - monitoring
 link:
 ---
 ## Security Sentinel Endpoint Agent

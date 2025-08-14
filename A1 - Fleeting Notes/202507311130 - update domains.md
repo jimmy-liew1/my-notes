@@ -7,6 +7,7 @@ aliases:
   - update domains
 tags:
   - type/fleeting-note
+  - azure
 link:
 ---
 **Update Domains (UDs)** represent groups of VMs that can be rebooted at the same time during planned maintenance.
