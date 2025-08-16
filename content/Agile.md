@@ -8,11 +8,6 @@ tags:
   - topic-note
 link:
 ---
-**Inbox**
-```dataview
-list from [[]] and !outgoing([[]])
-```
-
 **Agile** is an iterative approach to software development and project management that prioritizes flexibility, collaboration, and customer satisfaction.  It emphasizes flexibility, collaboration, customer satisfaction, and iterative progress. Agile is not a single framework but rather a mindset that embraces adaptability.  It's a mindset and a set of principles, rather than a rigid framework, that emphasizes:
 *   **Iterative Development:** Breaking down projects into smaller, manageable iterations (sprints).
 *   **Collaboration:** Close cooperation between developers, stakeholders, and customers.

@@ -6,11 +6,6 @@ title: Core Methodologies & Frameworks
 tags: 
 link:
 ---
-
-```dataview
-list from [[]] and !outgoing([[]])
-```
-
 This note serves as a central hub for my explorations of core methodologies and frameworks, primarily focusing on those that enhance productivity, project management, and personal growth. Here, you'll find information, insights, and resources related to:
 
 * **[[Agile]]:** A flexible and iterative approach to project management, emphasizing collaboration, customer feedback, and continuous improvement.
