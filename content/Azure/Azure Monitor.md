@@ -1,7 +1,9 @@
 ---
+title: Azure Monitor
 tags:
   - azure
   - topic-note
+  - monitoring
 ---
 **Azure Monitor** offers a robust solution for monitoring and managing data from both cloud and on-premises environments. It enables you to enhance the availability and performance of your applications and services by providing insights into their performance and facilitating both manual and automated responses to system events.
 

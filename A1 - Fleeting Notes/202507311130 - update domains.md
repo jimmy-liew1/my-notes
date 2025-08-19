@@ -5,6 +5,8 @@ title: Update domains
 aliases:
   - update domain
   - update domains
+  - UD
+  - UDs
 tags:
   - type/fleeting-note
   - azure

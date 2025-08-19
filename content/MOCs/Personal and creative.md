@@ -4,6 +4,7 @@ date: 2024-07-19
 created: 2024-07-19
 title: Personal & Creative
 tags:
+  - type/moc
 ---
 This section of my digital garden is dedicated to exploring personal interests, creative endeavors, and insights related to personal growth and well-being. Here, I share stories, ideas, and resources that inspire creativity and self-reflection.
 ## Core Areas

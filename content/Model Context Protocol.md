@@ -7,9 +7,10 @@ aliases:
   - MCP
 tags:
   - gen-ai
+  - ai
 link:
 ---
-The field of [[artificial intelligence|Artificial Intelligence (AI)]] is rapidly evolving, with Large Language Models (LLMs) and AI agents becoming increasingly sophisticated. However, their potential is often limited by their access to external information and tools. The **Model Context Protocol (MCP)**, an open-source, open standard framework introduced by Anthropic in November 2024, addresses this limitation by providing a **standardized way for AI systems to interact with the "outside world", particularly large language models (LLMs) and AI agents, integrate and share data with external tools, systems, and data sources.** This article explores the key aspects of MCP and its potential to revolutionize AI applications.
+The field of [[artificial intelligence|Artificial Intelligence (AI)]] is rapidly evolving, with [[Large Language Models|Large Language Models (LLMs)]] and AI agents becoming increasingly sophisticated. However, their potential is often limited by their access to external information and tools. The **Model Context Protocol (MCP)**, an open-source, open standard framework introduced by Anthropic in November 2024, addresses this limitation by providing a **standardized way for AI systems to interact with the "outside world", particularly large language models (LLMs) and AI agents, integrate and share data with external tools, systems, and data sources.** This article explores the key aspects of MCP and its potential to revolutionize AI applications.
 
 ### The Need for a Universal Connector
 Imagine a world where AI models can seamlessly access and utilize a vast array of external tools, systems, and data sources. Before MCP, connecting AI models to these resources often required complex, custom integrations. MCP aims to simplify this process, acting as a **universal connector, similar to a USB-C port for hardware, but for AI applications.** It provides a consistent and standardized way for AI to interact with the world beyond its initial training data.
@@ -38,5 +39,4 @@ In essence, MCP provides the missing layer that allows AI models to become truly
 For a deeper understanding of MCP and its implications, consider watching John Savill's video, which discusses MCP and Agent to Agent (A2A) for business leaders. The video helps to understand how MCP acts like a USB C for AI application and how A2A helps in complex Agent to Agent communication to enable multi-agent solutions. These two open standards are complimentary to one another that will help the future apps with Agentic capabilities.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s8xJTAu5icM?si=kr-pVFb8nnbPlzCP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 By providing a standardized and open framework for AI interaction, MCP is poised to play a crucial role in the future of AI, enabling more powerful, versatile, and interconnected AI applications.

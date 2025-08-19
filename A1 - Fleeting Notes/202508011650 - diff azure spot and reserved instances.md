@@ -7,7 +7,7 @@ tags:
 link:
 ---
 ## What is the difference between Azure Spot and reserved instances?
-**[[202508011649 - reserved instances|Reserved Instances (RIs)]]** are a key pricing strategy offered by cloud providers like AWS, Azure, and Google Cloud to help businesses save money on compute resources. While Spot Instances offer flexibility and deep discounts for temporary workloads, Reserved Instances are all about stability and strategic commitment.
+**[[202508011649 - reserved instances|Reserved Instances (RIs)]]** are a key pricing strategy offered by cloud providers like AWS, Azure, and Google Cloud to help businesses save money on compute resources. While [[202507281328 - azure spot instance|Spot Instances]] offer flexibility and deep discounts for temporary workloads, Reserved Instances are all about stability and strategic commitment.
 
 ### Related Concepts
 * [[202508011649 - reserved instances|Reserved Instances]]

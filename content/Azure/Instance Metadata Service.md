@@ -1,6 +1,7 @@
 ---
 date: 2025-07-11
 created: 2025-07-11 10:07
+title: Instance Metadata Service
 aliases:
   - IMDS
 tags:

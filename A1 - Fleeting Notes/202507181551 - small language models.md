@@ -6,6 +6,7 @@ aliases:
   - SLMs
 tags:
   - type/fleeting-note
+  - ai
 link:
 ---
 **Small Language Models (SLMs)** are lightweights version of traditional language model designed to operate efficiently on resource-constrained environments such as smartphones, embedded systems, or low-power computers.

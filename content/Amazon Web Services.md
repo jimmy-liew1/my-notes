@@ -1,8 +1,9 @@
 ---
-aliases:
-  - AWS
 tags:
   - cloud-provider
+title: Amazon Web Services
+aliases:
+  - AWS
 ---
 Amazon Web Services (AWS), one of the biggest [[cloud providers]], is a comprehensive and broadly adopted cloud platform offered by Amazon.
 

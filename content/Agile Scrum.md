@@ -24,3 +24,6 @@ Scrum's structure and events are designed to support Agile values, such as:
 - **Continuous Improvement:** Sprint Retrospective is dedicated to process improvement. 
 
 Essentially, "Agile Scrum" serves as a reminder that successful Scrum implementation requires adopting the underlying Agile philosophy.
+
+## Further Reading
+- [[Agile vs Scum|Agile vs. Scrum]]

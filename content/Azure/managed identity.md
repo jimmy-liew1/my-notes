@@ -31,5 +31,8 @@ In this video, Matt explains [what is managed identity?](https://www.youtube.com
 This video demonstrates how to use managed identities.
 <iframe width="560" height="315" src="https://learn-video.azurefd.net/vod/player?show=on-net&ep=using-azure-managed-identities" title="Using Azure Managed Identities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Related Concept
+- [[service principal|Service Principal]]
+
 ## Further Reading
 * [Overview about managed identities for Azure resources](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/overview)

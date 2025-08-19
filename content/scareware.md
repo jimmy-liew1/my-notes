@@ -13,7 +13,6 @@ link: Scareware
 Scareware is a type of cyberattack focused on [[social engineering]] scam that aims to scare or frighten the users and pressure them to take rushed decisions that could be indicated by the attackers to gather information about the company, credentials or personal information to extort in many ways.
 
 Scareware typically appears in the form of alarming pop-ups, fake security alerts or deceptive messages designed to create a false sense of urgency like:
-
 - "Critical security alert!: Immediate action required!" 
 - "Download our software to fix your issues!"
 - "Warning: 5 Trojan Viruses detected!"
@@ -22,7 +21,6 @@ Victims may be tricked into accessing a suspicious link that is attached to the 
 
 ## What Does Scareware Look Like?
 Scareware sneaks in when you least expect it, usually when you’re browsing the web, clicking on sketchy ad or visiting an unfamiliar site, but there are a lot more ways it can find you. Here are some common ways scareware might catch you off guard:
-
 - **Fake security alerts** – Those pop-ups that suddenly appear, claiming your device is infected and urging you to "fix" it immediately
 - **Malicious downloads** – Free software or files that secretly contain scareware bundled inside
 - **Sketchy websites** – Visiting unsecured or unknown sites can trigger pop-ups that try to scare you into clicking. This is one of the most common tactics, so be aware where you click!

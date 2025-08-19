@@ -23,7 +23,7 @@ kanban-plugin: board
 
 - [ ] [[202507201406 - availability zones]]
 - [ ] [[202411051510 - hotpatching]]
-- [ ] [[202508111954 - digital literacy]]
+- [ ] [[digital literacy]]
 - [ ] [[202506251459 - recovery service vault]]
 
 

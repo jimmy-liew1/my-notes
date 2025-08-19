@@ -3,8 +3,8 @@ up: "[[content/index|index]]"
 date: 2025-07-19
 created: 2025-07-19 21:07
 title: Technology & IT
-tags: 
-link:
+tags:
+  - type/moc
 ---
 This section of my digital garden is dedicated to the ever-evolving world of Technology and Information Technology. Here, I explore various aspects of the digital landscape, from cloud computing and cybersecurity to data management and artificial intelligence. This is a space for me to document my learning, share insights, and connect with the broader tech community.
 
@@ -31,6 +31,7 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
     * [[Amazon Web Services]] (AWS)
     * [[Google Cloud Platform]] (GCP)
 * **[[Virtualization]]**: Exploring virtualization technologies, including hypervisors, virtual machines, and containerization.
+	* [[VMware Distributed Resource Scheduler]]
 * **[[Server Infrastructure]]**: Covering server hardware, operating systems, and related infrastructure.
     * [[Differences between hyper-converged and hypervisor]]
     * **Nutanix**
@@ -56,8 +57,8 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
 
 ### Emerging Technologies
 * **[[AI & AI Tools]]**: Exploring the field of Artificial Intelligence, including machine learning, deep learning, and AI applications.
-    * [[artificial intelligence|Artificial Intelligence]]
-    * [[Model Context Protocol]]
+    * [[artificial intelligence|Artificial Intelligence]] (AI)
+    * [[Model Context Protocol]] (MCP)
 
 ## Further Exploration
 This section is constantly evolving. I plan to add more detailed notes on each of these topics, including:

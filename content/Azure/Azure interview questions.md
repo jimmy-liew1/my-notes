@@ -2,11 +2,11 @@
 date: 2025-07-27
 created: 2025-07-27 15:07
 draft: true
+title: Azure Interview Questions
 tags:
   - interview-questions
   - azure
-link: 
-title: Azure Interview Questions
+link:
 ---
 # Technical Interview Questions
 Here’s a list of technical interview questions for Cloud Engineer candidates with expertise in MS Azure, DevOps, and familiarity with ticketing tools like ServiceNow and VMware:

@@ -1,4 +1,5 @@
 ---
+up: "[[General MOC]]"
 title: Cloud Service Providers
 tags:
   - stub

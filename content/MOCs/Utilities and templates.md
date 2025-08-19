@@ -4,6 +4,7 @@ date: 2024-07-19
 created: 2024-07-19
 title: Utilities & Templates
 tags:
+  - type/moc
 ---
 This section of my digital garden provides access to helpful tools, templates, and resources that can be used to enhance productivity, organization, and various other tasks.
 

@@ -7,7 +7,7 @@ tags:
   - topic-note
   - agile-scrum
 ---
-Sprint planning is a key event in [[Scrum]], Agile frameworks, where the team collaboratively determines what work will be completed during the upcoming sprint.  This involves selecting product backlog items, defining the sprint goal, and outlining the steps for completing the tasks.[^1]
+Sprint planning is a key event in [[Scrum]], [[Agile|Agile frameworks]], where the team collaboratively determines what work will be completed during the upcoming sprint.  This involves selecting product backlog items, defining the sprint goal, and outlining the steps for completing the tasks.[^1]
 
 The purpose of a sprint planning meeting is to **establish what you and your Scrum team want to accomplish this sprint and evaluate the bandwidth you have available**. From there, you can plan the sprint, assigning tasks and setting deadlines. Make sure each team member understands the ins and outs of the tasks they are assigned. You’ll want to invite the product owner to this meeting so they can clear up any ambiguities and help establish expectations.
 

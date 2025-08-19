@@ -4,6 +4,7 @@ date: 2024-07-19
 created: 2024-07-19
 title: Career & Professional Development
 tags:
+  - type/moc
 ---
 This section of my digital garden is dedicated to exploring topics related to career growth, professional skills, and personal development in the workplace. Here, I aim to gather and share insights, strategies, and resources to help navigate the professional landscape.
 
