@@ -2,9 +2,9 @@
 date: 2025-08-19
 created: 2025-08-19 11:08
 title: 
-aliases: 
 tags:
   - type/fleeting-note
+  - digital-literacy
 link:
 ---
 - It's essential for both policymakers and technology developers to understand the factors driving their mainstream adoption.

@@ -6,6 +6,7 @@ draft: false
 tags:
   - agile-scrum
   - topic-note
+  - agile
 link:
 ---
 **Agile** is an iterative approach to software development and project management that prioritizes flexibility, collaboration, and customer satisfaction.  It emphasizes flexibility, collaboration, customer satisfaction, and iterative progress. Agile is not a single framework but rather a mindset that embraces adaptability.  It's a mindset and a set of principles, rather than a rigid framework, that emphasizes:

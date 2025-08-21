@@ -2,10 +2,11 @@
 up: "[[Agile Scrum MOC]]"
 date: 2025-06-17
 created: 2025-06-17 21:06
-draft: false
 tags:
   - agile-scrum
   - topic-note
+  - agile
+draft: false
 link:
 ---
 The term "Agile Scrum" is often used to emphasize that [[Scrum]] is being implemented **within an [[Agile]] environment** and with a strong adherence to Agile principles and values. It is not a separate methodology distinct from either Agile or Scrum, but rather highlights Scrum's role as a specific framework for practicing Agility.

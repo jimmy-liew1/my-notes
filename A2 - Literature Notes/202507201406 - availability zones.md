@@ -8,7 +8,7 @@ link: https://learn.microsoft.com/en-us/training/modules/configure-virtual-machi
 ---
 **Availability zones** are a highly availability offering that protect applications and data from datacenter failure.  An availability zone in an Azure region is a combination of a [[202507311128 - fault domains|fault domain]] and an [[202507311130 - update domains|update domain]].
 
-Consider a scenario where you create three or more virtual machines across three zones in an Azure region. Your virtual machines are effectively distributed across three fault domain|fault domains and three update domain|update domains. The Azure platform recognizes this distribution across update domains to make sure that virtual machines in different zones aren't updated at the same time.
+Consider a scenario where you create three or more virtual machines across three zones in an Azure region. Your virtual machines are effectively distributed across three fault domains and update domains. The Azure platform recognizes this distribution across update domains to make sure that virtual machines in different zones aren't updated at the same time.
 
 You can use availability zones to build high-availability into your application architecture by collocating your compute, storage, networking, and data resources within a zone and replicating in other zones.
 
@@ -28,7 +28,7 @@ Azure services that support availability zones are divided into two categories.
 | **Zonal services**          | Azure _zonal_ services pin each resource to a specific zone.                                        | - Azure Virtual Machines<br>- Azure managed disks<br>- Standard IP addresses |
 | **Zone-redundant services** | For Azure services that are zone-redundant, the platform replicates automatically across all zones. | - Azure Storage that's zone-redundant<br>- Azure SQL Database                |
 
-### Related
+### Related Concepts
 * [[202507201402 - availability sets|availability sets]]
 * [[availability zones]]
 * [[202507311130 - update domains|update domain]]
