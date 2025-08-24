@@ -1,4 +1,5 @@
 ---
+up: "[[General MOC]]"
 date: 2025-07-18
 created: 2025-07-18 10:07
 tags:

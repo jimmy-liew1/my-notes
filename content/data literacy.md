@@ -1,4 +1,5 @@
 ---
+up: "[[General MOC]]"
 date: 2025-06-23
 created: 2025-06-23 15:06
 title: Data literacy

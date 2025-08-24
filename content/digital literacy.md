@@ -1,8 +1,9 @@
 ---
+up: "[[General MOC]]"
 date: 2025-08-11
 created: 2025-08-11 19:08
 title: Digital literacy
-aliases: 
+aliases:
 tags:
   - stub
 link:

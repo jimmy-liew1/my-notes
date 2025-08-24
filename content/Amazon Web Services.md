@@ -1,4 +1,5 @@
 ---
+up: "[[General MOC]]"
 tags:
   - cloud-provider
 title: Amazon Web Services

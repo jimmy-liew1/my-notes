@@ -1,4 +1,5 @@
 ---
+up: "[[General MOC]]"
 date: 2025-07-02
 created: 2025-07-02 20:07
 title: Artificial intelligence

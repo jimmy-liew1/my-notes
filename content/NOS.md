@@ -1,4 +1,5 @@
 ---
+up: "[[Server Infrastructure MOC]]"
 date: 2025-04-24
 created: 2025-04-24 19:04
 tags:

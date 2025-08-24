@@ -1,4 +1,5 @@
 ---
+up: "[[General MOC]]"
 aliases:
   - GCP
 tags:
