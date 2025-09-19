@@ -1,8 +1,8 @@
 ---
 date: 2025-09-04
 created: 2025-09-04 15:09
-title: 
-aliases: 
+title: Digital Citizenship
+aliases:
 tags:
   - type/fleeting-note
 link:
