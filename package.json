@@ -36,9 +36,9 @@
   },
   "dependencies": {
     "@clack/prompts": "^0.11.0",
-    "@floating-ui/dom": "^1.7.3",
+    "@floating-ui/dom": "^1.7.4",
     "@myriaddreamin/rehype-typst": "^0.6.0",
-    "@napi-rs/simple-git": "0.1.21",
+    "@napi-rs/simple-git": "0.1.22",
     "@tweenjs/tween.js": "^25.0.0",
     "@webgpu/types": "^0.1.64",
     "ansi-truncate": "^1.2.0",
@@ -107,9 +107,9 @@
     "@types/source-map-support": "^0.5.10",
     "@types/ws": "^8.18.1",
     "@types/yargs": "^17.0.33",
-    "esbuild": "^0.25.8",
+    "esbuild": "^0.25.9",
     "prettier": "^3.6.2",
-    "tsx": "^4.20.3",
+    "tsx": "^4.20.5",
     "typescript": "^5.9.2"
   }
 }
