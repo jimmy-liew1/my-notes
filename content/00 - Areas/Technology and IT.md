@@ -11,23 +11,7 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
 ## Core Areas
 ### Cloud Computing & Virtualization
 * **[[Cloud Platforms]]** / [[cloud providers|Cloud Providers]]: A deep dive into cloud computing services, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
-    * [[Azure]]
-	    * **Monitoring & Management**
-	        * [[Azure Monitor]]
-	        * [[Azure Monitor Agent]] (AMA) - *retired on August 31 2024*
-			* [[data collection rules|Data Collection Rules]] (DCRs)
-	        * [[Microsoft Monitoring Agent]] (MMA)
-	        * [[Dependency Agent]] (DA) - *will be retired on June 30, 2028*
-	        * [[Comparing MMA and DA on Azure]]
-	        * [[network security group|Network Security Group]] (NSG)
-	        * [[application security group|Application Security Group]] (ASG)
-		*   **Identity & Access**      
-			* [[managed identity|Managed Identity]] (MI)
-	        * [[service principal|Service Principal]]
-		* **Other**
-	        * [[Azure region|Azure Regions]]
-	        * [[availability zones|Availability Zones]]
-	        * [[Instance Metadata Service|Instance Metadata Service]] (IMDS)
+    * [[Microsoft Azure]]
     * [[Amazon Web Services]] (AWS)
     * [[Google Cloud Platform]] (GCP)
 * **[[Virtualization]]**: Exploring virtualization technologies, including hypervisors, virtual machines, and containerization.
