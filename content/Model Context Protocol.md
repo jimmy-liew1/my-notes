@@ -1,5 +1,5 @@
 ---
-up: "[[General MOC]]"
+up: "[[Generative AI MOC]]"
 date: 2025-07-29
 created: 2025-07-29 13:07
 title: Model Context Protocol (MCP)
