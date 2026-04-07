@@ -29,7 +29,7 @@ Here’s a list of technical interview questions for Cloud Engineer candidates w
 
 ## DevOps Questions
 6. **Can you explain the concept of Infrastructure as Code (IaC) and how you would implement it using Azure?**
-	**Answer:** [[infrastructure as code|Infrastructure as Code (IaC)]] is the practice of managing and provisioning infrastructure through code rather than manual processes. In Azure, I would implement IaC using Azure Resource Manager (ARM) templates or Terraform. This allows for version control, repeatability, and automation of infrastructure deployment.
+	**Answer:** [[infrastructure as code|Infrastructure as Code (IaC)]] is the practice of managing and provisioning infrastructure through code rather than manual processes. In Azure, I would implement IaC using Azure Resource Manager (ARM) templates or [[Terraform]]. This allows for version control, repeatability, and automation of infrastructure deployment.
 
 7. **Describe a scenario where you automated a deployment process. What tools did you use?**
 	**Answer:** In a previous role, I automated the deployment of a web application using Azure DevOps. I set up a CI/CD pipeline that automatically triggered builds on code commits, ran unit tests, and deployed the application to Azure App Service. I used YAML pipelines for configuration and integrated Azure Key Vault to manage secrets securely.
