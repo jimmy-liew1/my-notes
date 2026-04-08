@@ -17,7 +17,7 @@ These providers dominate the market with extensive global infrastructure and a v
     * Widely considered the market leader.
     * Known for its extensive range of services, maturity, and global reach.
     * Strong focus on compute, storage, databases, and a broad ecosystem.
-2.  **[[Azure MOC|Microsoft Azure]]**
+2.  **[[Microsoft Azure|Microsoft Azure]]**
     * Strong second player, particularly popular in enterprises due to integration with Microsoft products (Windows Server, Active Directory, Office 365).
     * Offers a comprehensive suite of services across IaaS, PaaS, and SaaS.
 3.  **[[Google Cloud Platform|Google Cloud Platform (GCP)]]**

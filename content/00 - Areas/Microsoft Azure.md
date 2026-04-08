@@ -5,23 +5,38 @@ title: Microsoft Azure
 aliases:
   - Azure
 tags:
-  - type/fleeting-note
+  - type/hub
+  - area/technology
 link:
+status: evergreen
 ---
-### Topics
-* **Monitoring & Management**
-	* [[Azure Monitor]]
-	* [[Azure Monitor Agent]] (AMA) - *retired on August 31 2024*
-	* [[data collection rules|Data Collection Rules]] (DCRs)
-	* [[Microsoft Monitoring Agent]] (MMA)
-	* [[Dependency Agent]] (DA) - *will be retired on June 30, 2028*
-	* [[Comparing MMA and DA on Azure]]
-	* [[network security group|Network Security Group]] (NSG)
-	* [[application security group|Application Security Group]] (ASG)
-*   **Identity & Access**      
-	* [[managed identity|Managed Identity]] (MI)
-	* [[service principal|Service Principal]]
-* **Other**
-	* [[Azure region|Azure Regions]]
-	* [[availability zones|Availability Zones]]
-	* [[Instance Metadata Service|Instance Metadata Service]] (IMDS)
+# ☁️ Microsoft Azure Hub
+
+> [!abstract] Overview
+> This hub serves as the central directory for all Azure-related documentation, services, and configurations within this vault.
+
+---
+
+> [!info] Monitoring & Management
+> - [[Azure Monitor]]
+> - [[Azure Monitor Agent]] (AMA) - *Retired Aug 31, 2024*
+> - [[data collection rules|Data Collection Rules]] (DCRs)
+> - [[Microsoft Monitoring Agent]] (MMA)
+> - [[Dependency Agent]] (DA) - *Retiring June 30, 2028*
+> - [[Comparing MMA and DA on Azure]]
+
+> [!lock] Identity & Access
+> - [[managed identity|Managed Identity]] (MI)
+> - [[service principal|Service Principal]]
+
+> [!network] Networking & Security
+> - [[network security group|Network Security Group]] (NSG)
+> - [[application security group|Application Security Group]] (ASG)
+
+> [!resource] Infrastructure & Global
+> - [[Azure region|Azure Regions]]
+> - [[availability zones|Availability Zones]]
+> - [[Instance Metadata Service|Instance Metadata Service]] (IMDS)
+
+---
+**Navigation:** [[content/index|🏠 Back to Home]]
