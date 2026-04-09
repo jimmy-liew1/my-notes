@@ -25,4 +25,4 @@ The main benefit of digital transformation is that it helps businesses become mo
 However there are also some drawbacks associated with digital transformation which should be taken into account before making any decisions on implementation strategies: [[security risks]] due to increased vulnerability when using cloud technologies; lack of expertise on staff leading to an inability to understand complex systems; a potential decrease in employee morale if workers feel threatened by automation taking away their jobs; cost implications due to investments needed for IT infrastructure upgrades or additional training requirements for employees; privacy concerns regarding data collection practices used during the process; and finally integration issues arising from trying different software solutions together at once without proper testing beforehand. 
 
 ## Tips
-A [[202209152138 - growth mindset|growth mindset]] is key to digital transformation.
+A [[growth mindset|growth mindset]] is key to digital transformation.
