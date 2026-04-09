@@ -1,4 +1,5 @@
 ---
+up: "[[General MOC]]"
 date: 2026-04-07
 created: 2026-04-07 22:04
 title: Microsoft Azure

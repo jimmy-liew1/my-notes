@@ -6,7 +6,7 @@ title: Amazon Web Services
 aliases:
   - AWS
 ---
-Amazon Web Services (AWS), one of the biggest [[cloud providers]], is a comprehensive and broadly adopted cloud platform offered by Amazon.
+**Amazon Web Services (AWS)**, one of the biggest [[cloud providers]], is a comprehensive and broadly adopted cloud platform offered by Amazon.
 
 It provides a vast collection of on-demand cloud computing services, including compute power, storage, databases, networking, analytics, machine learning, [[artificial intelligence]], Internet of Things (IoT), security, and much more.
 

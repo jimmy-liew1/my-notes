@@ -25,7 +25,6 @@ Digital literacy can be broken down into several interconnected components:
 
 ### Why is Digital Literacy Important?
 In today's interconnected world, digital literacy is no longer a niche skill but a fundamental requirement for participation in many aspects of life, including:
-
 * **Education:** Accessing educational resources, participating in online learning, and completing digital assignments.
 * **Employment:** Many jobs require basic to advanced digital skills for communication, data management, and task completion.
 * **Civic Engagement:** Accessing government services, participating in online discussions, and staying informed about current events.

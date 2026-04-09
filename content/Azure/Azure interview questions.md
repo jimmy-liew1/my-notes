@@ -4,8 +4,8 @@ created: 2025-07-27 15:07
 draft: false
 title: Azure Interview Questions
 tags:
-  - interview-questions
   - azure
+  - interview-question/azure
 link:
 ---
 # Technical Interview Questions

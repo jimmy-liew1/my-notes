@@ -11,9 +11,8 @@ tags:
 link:
 ---
 **Azure Active Directory (Azure AD)** is Microsoft’s cloud-based identity and access management (IAM) service. It serves as the backbone for authentication and authorization in the Microsoft cloud ecosystem. It helps employees sign in and access resources such as:
-
-- External resources like Microsoft 365, the Azure portal, and thousands of other SaaS applications (e.g., Salesforce, Dropbox).
-- Internal resources like apps on your corporate network and intranet, along with any cloud apps developed by your own organization.
+- **External resources** like Microsoft 365, the Azure portal, and thousands of other SaaS applications (e.g., Salesforce, Dropbox).
+- **Internal resources** like apps on your corporate network and intranet, along with any cloud apps developed by your own organization.
 
 ### The Rebranding to Microsoft Entra ID
 Microsoft has officially rebranded Azure AD to **Microsoft Entra ID** ==starting in July 2023== to unify its identity and network access portfolio.[^1][^2]
