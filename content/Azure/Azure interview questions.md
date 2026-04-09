@@ -1,7 +1,7 @@
 ---
 date: 2025-07-27
 created: 2025-07-27 15:07
-draft: true
+draft: false
 title: Azure Interview Questions
 tags:
   - interview-questions
@@ -13,13 +13,13 @@ Here’s a list of technical interview questions for Cloud Engineer candidates w
 
 ## Azure-Specific Questions
 1. **What are the key differences between Azure IaaS, PaaS, and SaaS?**
-	**Answer:** IaaS (Infrastructure as a Service) provides virtualized computing resources over the internet. Users manage the OS and applications while the provider manages the infrastructure. PaaS (Platform as a Service) offers a platform allowing developers to build, deploy, and manage applications without handling the underlying infrastructure. SaaS (Software as a Service) delivers software applications over the internet on a subscription basis, with the provider managing everything from infrastructure to application updates.
+	**Answer:** [[Infrastructure as a Service (IaaS)]] provides virtualized computing resources over the internet. Users manage the OS and applications while the provider manages the infrastructure. PaaS (Platform as a Service) offers a platform allowing developers to build, deploy, and manage applications without handling the underlying infrastructure. SaaS (Software as a Service) delivers software applications over the internet on a subscription basis, with the provider managing everything from infrastructure to application updates.
 	
 2. **Explain how Azure Resource Manager (ARM) works. What are its benefits?**
 	**Answer:** Azure Resource Manager is the deployment and management service for Azure. It enables users to create, update, and delete resources in their Azure account. Benefits include resource grouping for easier management, role-based access control for security, and the ability to deploy resources using templates, which promotes consistency and repeatability.
 	
 3. **How do you secure Azure resources? Can you discuss Azure Active Directory and role-based access control?**
-	**Answer:** Securing Azure resources involves using Azure Active Directory (AAD) for identity management, implementing role-based access control (RBAC) to assign permissions based on user roles, and using [[Network Security Group|network security groups (NSGs)]] to restrict traffic. Additionally, enabling multi-factor authentication (MFA) and regularly reviewing access permissions are critical for enhancing security.
+	**Answer:** Securing Azure resources involves using [[Azure Active Directory|Azure Active Directory (AAD)]] for identity management, implementing role-based access control (RBAC) to assign permissions based on user roles, and using [[Network Security Group|network security groups (NSGs)]] to restrict traffic. Additionally, enabling multi-factor authentication (MFA) and regularly reviewing access permissions are critical for enhancing security.
 
 4. **Describe the process of setting up a virtual machine in Azure. What considerations should you keep in mind?**
 	**Answer:** To set up a virtual machine in Azure, you start by selecting the VM size and image, configuring the network settings, and defining storage options. Key considerations include choosing the right VM size based on workload, selecting the appropriate region for latency and compliance, and ensuring network security configurations are in place, such as NSGs and public IP settings.
@@ -38,5 +38,5 @@ Here’s a list of technical interview questions for Cloud Engineer candidates w
 	**Answer:** I use [[Azure Monitor]] and [[Application Insights]] to track application performance and diagnose issues. Azure Monitor provides metrics and logs, while Application Insights offers detailed telemetry on application behavior, including response times and failure rates. I set up alerts to notify the team of performance degradation, enabling proactive management.
 
 9. **What strategies do you use for version control in a cloud environment?**
-	**Answer:** I use Git as the version control system to manage code changes. I implement branching strategies like Git Flow to manage feature development, releases, and hotfixes. Additionally, I ensure that infrastructure code (IaC) is versioned alongside application code, allowing for consistent deployments and rollbacks.
+	**Answer:** I use Git as the version control system to manage code changes. I implement branching strategies like Git Flow to manage feature development, releases, and hotfixes. Additionally, I ensure that [[infrastructure as code|infrastructure code (IaC)]] is versioned alongside application code, allowing for consistent deployments and rollbacks.
 
