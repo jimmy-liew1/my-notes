@@ -5,7 +5,6 @@ created: 2024-10-21 11:10
 title: Infrastructure as code
 aliases:
   - IaC
-  - Infrastructure as Code
 tags:
   - infrastructure
   - automation

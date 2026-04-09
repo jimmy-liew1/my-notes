@@ -5,6 +5,8 @@ created: 2025-04-24 19:04
 tags:
   - nutanix
 link:
+aliases:
+  - AOS
 ---
 In the context of Nutanix, NOS stands for **Acropolis Operating System (AOS)**, formerly known as NOS.  It's the base software or the Acropolis operating system (AOS) that runs on each [Controller Virtual Machine (CVM)](https://www.google.com/search?client=firefox-b-d&cs=1&sca_esv=9c7ec454ad9eda0c&q=Controller+Virtual+Machine+%28CVM%29&sa=X&ved=2ahUKEwjp6efgyvCMAxXzZmwGHVpxOFQQxccNegQIBBAB&mstk=AUtExfAsAUTIb6QeTzfpAjcFgvyN-_su3N0oqWyPJT2EVW2q2e4fgR8yHbMUYlzx5kNVovDfPmQtJRaTIWm88sx1_lcO-7HJy8PA2lUZQ2S7dnmvE4iVMOU0JVqJSbG1QmSy8lQ&csui=3) within a Nutanix cluster, managing and orchestrating the hyper-converged infrastructure. 
 

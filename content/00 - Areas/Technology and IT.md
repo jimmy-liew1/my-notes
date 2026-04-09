@@ -21,7 +21,7 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
     * **Nutanix**
 	    * [[NOS]]: It's a Nutanix OS, stands for Acropolis Operating System (AOS).
 * **Infrastructure Management**
-	* [[infrastructure as code|Infrastructure as Code]] (IaC)
+	* [[Infrastructure as Code|Infrastructure as Code]] (IaC)
 
 ### Data & Automation
 * **[[Automation & Scripting]]**: Automating tasks and processes using scripting languages and automation tools.
@@ -36,7 +36,7 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
     * [[Network Security Group|Network Security Group]] (NSG)
 * **[[Cybersecurity]]**: Protecting systems and data from cyber threats, including security best practices, incident response, and risk management.
     * [[eight ways to strengthen and secure your password]]
-    * [[scareware|Scareware]]
+    * [[Scareware|Scareware]]
     * [[social engineering|Social Engineering]]
 
 ### Emerging Technologies
