@@ -17,7 +17,7 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
 * **[[Virtualization]]**: Exploring virtualization technologies, including hypervisors, virtual machines, and containerization.
 	* [[VMware Distributed Resource Scheduler]]
 * **[[Server Infrastructure]]**: Covering server hardware, operating systems, and related infrastructure.
-    * [[Differences between hyper-converged and hypervisor]]
+    * [[differences between hyper-converged and hypervisor]]
     * **Nutanix**
 	    * [[NOS]]: It's a Nutanix OS, stands for Acropolis Operating System (AOS).
 * **Infrastructure Management**
@@ -31,11 +31,11 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
 
 ### Networking & Security
 * **[[Networking]]**: Understanding network protocols, architectures, and security.
-    * [[About the IP address 169.254.169.254]]
+    * [[about the IP address 169.254.169.254]]
     * [[network endpoints|Network endpoints]]
     * [[network security group|Network Security Group]] (NSG)
 * **[[Cybersecurity]]**: Protecting systems and data from cyber threats, including security best practices, incident response, and risk management.
-    * [[Eight ways to strengthen and secure your password]]
+    * [[eight ways to strengthen and secure your password]]
     * [[scareware|Scareware]]
     * [[social engineering|Social Engineering]]
 

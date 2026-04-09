@@ -6,6 +6,7 @@ tags:
   - cyber-security
   - password-protection
   - best-practice
+title: Eight ways to strengthen and secure your password
 ---
 **Passwords are secret words, phrases, or collections of characters** that must be correctly entered to gain access to a specific resource.
 

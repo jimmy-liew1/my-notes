@@ -5,6 +5,7 @@ tags:
   - infrastructure/hyper-converged
   - hypervisor
   - vmware
+title: Differences between hyper-converged and hypervisor
 ---
 The server infrastructure has changed from physical to software-defined architecture, or [[Software-Defined Infrastructure|software defined infrastructure]] - in short, it calls "[[Hyper-converged Infrastructure|hyper-converge]]".
 
