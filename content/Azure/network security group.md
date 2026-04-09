@@ -1,7 +1,7 @@
 ---
 date: 2025-08-03
 created: 2025-08-03 13:08
-title: Network security group
+title: Network Security Group
 aliases:
   - NSG
   - NSGs
@@ -15,4 +15,4 @@ link:
 You can associate zero or one network security group to each subnet in a virtual network. You can associate the same or a different network security group to each subnet. Each network security group contains rules that allow or deny traffic to and from sources and destinations.
 
 ### Related Concept
-* [[application security group]]
+* [[Application Security Group]]

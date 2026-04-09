@@ -14,5 +14,5 @@ Availability zones are usually separated by several kilometers, typically within
 
 Datacenter locations are chosen based on rigorous vulnerability risk assessments. This process identifies significant datacenter-specific risks and considers shared risks across availability zones.
 
-The following diagram demonstrates several example [[azure region|Azure region]]. Regions 1 and 2 support availability zones, and regions 3 and 4 don't have availability zones.
+The following diagram demonstrates several example [[Azure region|Azure region]]. Regions 1 and 2 support availability zones, and regions 3 and 4 don't have availability zones.
 ![image](https://learn.microsoft.com/en-us/azure/reliability/media/regions-availability-zones.png)

@@ -33,7 +33,7 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
 * **[[Networking]]**: Understanding network protocols, architectures, and security.
     * [[about the IP address 169.254.169.254]]
     * [[network endpoints|Network endpoints]]
-    * [[network security group|Network Security Group]] (NSG)
+    * [[Network Security Group|Network Security Group]] (NSG)
 * **[[Cybersecurity]]**: Protecting systems and data from cyber threats, including security best practices, incident response, and risk management.
     * [[eight ways to strengthen and secure your password]]
     * [[scareware|Scareware]]
