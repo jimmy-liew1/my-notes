@@ -13,7 +13,7 @@ This section of my digital garden is dedicated to exploring topics related to ca
 * **[[Interview Preparation]]**: Resources and tips for preparing for job interviews, including common interview questions, behavioral questions, and techniques for showcasing your skills and experience.
 	* [[Server Interview Questions]] 
 	* [[Cloud Interview Questions]] 
-	* [[Azure interview questions|Azure Interview Questions]] 
+	* [[azure interview questions|Azure Interview Questions]] 
 	* [[Automation Interview Questions]] 
 	* [[Database Interview Questions]]
 

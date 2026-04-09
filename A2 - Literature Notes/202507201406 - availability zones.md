@@ -14,7 +14,7 @@ You can use availability zones to build high-availability into your application 
 
 ### Things to know about availability zones
 Review the following characteristics of availability zones.
-- Availability zones are unique physical locations within an [[Azure region]].
+- Availability zones are unique physical locations within an [[azure region]].
 - Each zone is made up of one or more datacenters that are equipped with independent power, cooling, and networking.
 - To ensure resiliency, there's a minimum of three separate zones in all enabled regions.
 - The physical separation of availability zones within a region protects applications and data from datacenter failures.

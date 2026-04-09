@@ -18,12 +18,12 @@ status: evergreen
 ---
 
 > [!info] Monitoring & Management
-> - [[Azure Monitor]]
-> - [[Azure Monitor Agent]] (AMA) - *Retired Aug 31, 2024*
+> - [[azure monitor]]
+> - [[azure monitor agent]] (AMA) - *Retired Aug 31, 2024*
 > - [[data collection rules|Data Collection Rules]] (DCRs)
-> - [[Microsoft Monitoring Agent]] (MMA)
-> - [[Dependency Agent]] (DA) - *Retiring June 30, 2028*
-> - [[Comparing MMA and DA on Azure]]
+> - [[microsoft monitoring agent]] (MMA)
+> - [[dependency agent]] (DA) - *Retiring June 30, 2028*
+> - [[comparing mma and da on azure]]
 
 > [!lock] Identity & Access
 > - [[managed identity|Managed Identity]] (MI)
@@ -34,7 +34,7 @@ status: evergreen
 > - [[application security group|Application Security Group]] (ASG)
 
 > [!resource] Infrastructure & Global
-> - [[Azure region|Azure Regions]]
+> - [[azure region|Azure Regions]]
 > - [[availability zones|Availability Zones]]
 > - [[Instance Metadata Service|Instance Metadata Service]] (IMDS)
 

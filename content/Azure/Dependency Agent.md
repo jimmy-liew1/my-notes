@@ -6,8 +6,9 @@ aliases:
 tags:
   - azure
 link:
+title: Dependency Agent
 ---
-The **Dependency Agent** is used in conjunction with [[Azure Monitor]] for VMs.[^1]  It collects data about processes running on the virtual machine and their external dependencies.[^1]  This data is used to create a map of the application's architecture, showing how different components interact with each other.[^1]
+The **Dependency Agent** is used in conjunction with [[azure monitor]] for VMs.[^1]  It collects data about processes running on the virtual machine and their external dependencies.[^1]  This data is used to create a map of the application's architecture, showing how different components interact with each other.[^1]
 
 > [!IMPORTANT]- Important:
 > The Dependency Agent and the Map experience in VM Insights will be retired on **30 June 2028**.

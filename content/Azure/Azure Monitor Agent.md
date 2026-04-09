@@ -6,9 +6,9 @@ tags:
   - azure
   - monitoring
 ---
-**Azure Monitor Agent (AMA)** collects monitoring data from the guest operating system of Azure and hybrid virtual machines, on-premises machines, and other cloud environments.  The data is then sent to [[Azure Monitor]] for use by features, insights, and other services such as [Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/overview) and [Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction).[^1]
+**Azure Monitor Agent (AMA)** collects monitoring data from the guest operating system of Azure and hybrid virtual machines, on-premises machines, and other cloud environments.  The data is then sent to [[azure monitor]] for use by features, insights, and other services such as [Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/overview) and [Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction).[^1]
 
-AMA replaces the [[Log Analytics agent]], also known as [[Microsoft Monitoring Agent|Microsoft Monitor Agent (MMA)]] and [[OMS]], for Windows and Linux machines, in Azure and non-Azure environments, on-premises and other clouds.
+AMA replaces the [[Log Analytics agent]], also known as [[microsoft monitoring agent|Microsoft Monitor Agent (MMA)]] and [[OMS]], for Windows and Linux machines, in Azure and non-Azure environments, on-premises and other clouds.
 
 It uses [[data collection rules|Data Collection Rules (DCRs)]] for flexible data management and supports centralized configuration. Unlike the older Log Analytics agent, which retired on August 31, 2024, AMA offers enhanced features and capabilities, such as centralized configuration, data collection rules, and improved security.
 
@@ -16,7 +16,7 @@ It uses [[data collection rules|Data Collection Rules (DCRs)]] for flexible data
 > Azure Monitor Agent replaces the [Legacy Agent](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/log-analytics-agent) for Azure Monitor. The Log Analytics agent is on a **deprecation path** and won't be supported after **August 31, 2024**. Any new data centers brought online after January 1 2024 will not support the Log Analytics agent. If you use the Log Analytics agent to ingest data to Azure Monitor, [migrate to the new Azure Monitor agent](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration) prior to that date.
 
 ## Architecture
-This reference architecture shows how to use [[Azure Monitor]] to monitor the performance and availability of operating system (OS) workloads that run in virtual machines (VMs). The VMs can be in Microsoft Azure, in on-premises environments, or in non-Azure clouds.[^3]
+This reference architecture shows how to use [[azure monitor]] to monitor the performance and availability of operating system (OS) workloads that run in virtual machines (VMs). The VMs can be in Microsoft Azure, in on-premises environments, or in non-Azure clouds.[^3]
 
 ![image](https://learn.microsoft.com/en-us/azure/architecture/hybrid/images/hybrid-perf-monitoring.png)
 

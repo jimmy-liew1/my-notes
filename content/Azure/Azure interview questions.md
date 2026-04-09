@@ -35,7 +35,7 @@ Here’s a list of technical interview questions for Cloud Engineer candidates w
 	**Answer:** In a previous role, I automated the deployment of a web application using Azure DevOps. I set up a CI/CD pipeline that automatically triggered builds on code commits, ran unit tests, and deployed the application to Azure App Service. I used YAML pipelines for configuration and integrated Azure Key Vault to manage secrets securely.
 
 8. **How do you monitor and manage application performance in a DevOps environment?**
-	**Answer:** I use [[Azure Monitor]] and [[Application Insights]] to track application performance and diagnose issues. Azure Monitor provides metrics and logs, while Application Insights offers detailed telemetry on application behavior, including response times and failure rates. I set up alerts to notify the team of performance degradation, enabling proactive management.
+	**Answer:** I use [[azure monitor]] and [[Application Insights]] to track application performance and diagnose issues. Azure Monitor provides metrics and logs, while Application Insights offers detailed telemetry on application behavior, including response times and failure rates. I set up alerts to notify the team of performance degradation, enabling proactive management.
 
 9. **What strategies do you use for version control in a cloud environment?**
 	**Answer:** I use Git as the version control system to manage code changes. I implement branching strategies like Git Flow to manage feature development, releases, and hotfixes. Additionally, I ensure that infrastructure code (IaC) is versioned alongside application code, allowing for consistent deployments and rollbacks.
