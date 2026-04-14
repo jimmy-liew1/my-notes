@@ -6,7 +6,6 @@ aliases:
   - Azure AD
   - AAD
 tags:
-  - type/fleeting-note
   - azure
 link:
 ---
