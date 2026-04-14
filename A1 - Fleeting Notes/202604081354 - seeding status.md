@@ -13,3 +13,5 @@ If you want to align with the most common Digital Garden/Quartz patterns, you mi
 - `status: seedling` (Rough notes)
 - `status: budding` (Developing)
 - `status: evergreen` (Polished/Finished)
+
+Read more: [Tag Glossary](https://publish.obsidian.md/hub/00+-+Contribute+to+the+Obsidian+Hub/Tag+glossary)
