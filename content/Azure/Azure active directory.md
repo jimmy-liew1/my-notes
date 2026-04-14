@@ -14,10 +14,10 @@ link:
 - **Internal resources** like apps on your corporate network and intranet, along with any cloud apps developed by your own organization.
 
 ### The Rebranding to Microsoft Entra ID
-Microsoft has officially rebranded Azure AD to **Microsoft Entra ID** ==starting in July 2023== to unify its identity and network access portfolio.[^1][^2]
+Microsoft has officially rebranded Azure AD to **[[Microsoft Entra ID]]** ==starting in July 2023== to unify its identity and network access portfolio.[^1][^2]
 
 - **Why the change?** The rebranding was designed to unify Microsoft’s identity and network access product family under a single brand called "Microsoft Entra."
-- **What changed?** While the name and icons have updated, the core capabilities, licensing plans, and features remain the same. If you are looking for documentation or settings today, they are now housed under the [Microsoft Entra ID](app://obsidian.md/Microsoft%20Entra%20ID) banner.
+- **What changed?** While the name and icons have updated, the core capabilities, licensing plans, and features remain the same. If you are looking for documentation or settings today, they are now housed under the Microsoft Entra ID banner.
 
 ### Key Features to Mention:
 - **Single Sign-On (SSO):** Allows users to access all their applications with one set of credentials.
