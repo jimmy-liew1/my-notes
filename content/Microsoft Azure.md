@@ -28,7 +28,7 @@ status: evergreen
 
 ### Azure Storage
 - [[Azure Blob Storage]]
-	- [[Azure Blob Storage access tiers 123|Azure Blob Storage Access Tiers]]
+	- [[Azure Blob Storage access tiers|Azure Blob Storage Access Tiers]]
 
 > [!lock] Identity & Access
 > - [[Managed identity|Managed Identity]] (MI)
