@@ -9,7 +9,7 @@ tags:
 ---
 **Digital dexterity** is defined as the ability and desire to learn and use existing and emerging technologies for better business outcomes.[^1]  It also refers to individual or group's ability to adapt and adopt existing and emerging technologies in their field to produce better results for their company. As the digital world is constantly changing, the desire to adapt and innovate using new technologies is vital for employees.[^2]
 
-It goes beyond basic [[digital literacy]] (knowing how to use specific tools) and encompasses a mindset (similar to [[growth mindset]]) of continuous learning, experimentation, and strategic application of technology in a rapid changing digital landscape.
+It goes beyond basic [[digital literacy]] (knowing how to use specific tools) and is rooted in a [[growth mindset]], emphasizing continuous learning, experimentation, and strategic application of technology in a rapid changing digital landscape.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5lZPNbUQ2N4?si=M1CKKDcTNSv7oCHJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -33,11 +33,9 @@ status: evergreen
 > [!network] Networking & Security
 > - [[Network Security Group|Network Security Group]] (NSG)
 > - [[Application Security Group|Application Security Group]] (ASG)
+> - [[Azure private DNS|Azure Private DNS]]
 
 > [!resource] Infrastructure & Global
 > - [[Azure region|Azure Regions]]
 > - [[availability zones|Availability Zones]]
 > - [[Instance Metadata Service|Instance Metadata Service]] (IMDS)
-
----
-**Navigation:** [[content/index|🏠 Back to Home]]

@@ -34,8 +34,9 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
     * [[IP address 169.254.169.254]]
     * [[network endpoints|Network endpoints]]
     * [[Network Security Group|Network Security Group]] (NSG)
+    * [[Application Security Group]] (ASG)
 * **[[Cybersecurity]]**: Protecting systems and data from cyber threats, including security best practices, incident response, and risk management.
-    * [[eight ways to strengthen and secure your password]]
+    * [[eight ways to strengthen and secure your password|Eight ways to strengthen and secure your password]]
     * [[Scareware|Scareware]]
     * [[social engineering|Social Engineering]]
 
