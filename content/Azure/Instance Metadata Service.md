@@ -19,7 +19,7 @@ IMDS provides a range of information about the VM, including:
 * **VM Details:** Name, size, and other configuration details.
 * **Network Configuration:** IP addresses, DNS settings, and other network-related information.
 * **Storage Configuration:** Information about attached disks.
-* **Identity:** Information about the VM's [[Managed Identity]], if enabled.
+* **Identity:** Information about the VM's [[Managed identity]], if enabled.
 
 ### Use Cases
 The information provided by IMDS is valuable for several purposes:

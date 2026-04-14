@@ -27,7 +27,7 @@ status: evergreen
 > - [[comparing mma and da on azure|Comparing MMA and DA on Azure]]
 
 > [!lock] Identity & Access
-> - [[Managed Identity|Managed Identity]] (MI)
+> - [[Managed identity|Managed Identity]] (MI)
 > - [[service principal|Service Principal]]
 
 > [!network] Networking & Security
