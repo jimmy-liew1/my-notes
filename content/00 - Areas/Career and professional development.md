@@ -2,7 +2,7 @@
 up: "[[content/index|index]]"
 date: 2024-07-19
 created: 2024-07-19
-title: Career & Professional Development
+title: 🗂️ Career & Professional Development
 tags:
   - type/moc
 ---

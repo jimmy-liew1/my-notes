@@ -2,7 +2,7 @@
 up: "[[content/index|index]]"
 date: 2024-07-19
 created: 2024-07-19
-title: Utilities & Templates
+title: 🗂️ Utilities & Templates
 tags:
   - type/moc
 ---

@@ -2,7 +2,7 @@
 up: "[[content/index|index]]"
 date: 2025-07-19
 created: 2025-07-19 21:07
-title: Technology & IT
+title: 🗂️ Technology & IT
 tags:
   - type/moc
 ---

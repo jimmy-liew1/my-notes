@@ -2,7 +2,7 @@
 up: "[[content/index|index]]"
 date: 2024-07-19
 created: 2024-07-19
-title: Personal & Creative
+title: 🗂️ Personal & Creative
 tags:
   - type/moc
 ---

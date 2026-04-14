@@ -2,7 +2,7 @@
 up: "[[content/index|Index]]"
 date: 2025-07-18
 created: 2025-07-18 22:07
-title: Core Methodologies & Frameworks
+title: 🗂️ Core Methodologies & Frameworks
 tags:
   - type/moc
 ---
