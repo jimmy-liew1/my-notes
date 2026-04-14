@@ -14,7 +14,7 @@ link:
 
 Azure Blob Storage offers three primary access tiers, designed to accommodate different data access patterns and cost sensitivities:
 
-1.  **Hot Tier:**
+1.  🔥 **Hot Tier:**
     * **Purpose:** Designed for data that is accessed frequently. This includes data that needs to be readily available for applications, reports, or user requests.
     * **Characteristics:**
         * **Lowest latency:** Data is quickly accessible.
@@ -22,7 +22,7 @@ Azure Blob Storage offers three primary access tiers, designed to accommodate di
         * **Lowest access/transaction cost:** Retrieving data is inexpensive.
     * **Use Cases:** Active application data, frequently accessed images or videos, data used in real-time analytics.
 
-2.  **Cool Tier:**
+2.  ❄️ **Cool Tier:**
     * **Purpose:** Designed for data that is accessed infrequently but needs to be readily available when needed.
     * **Characteristics:**
         * **Slightly higher latency:** There's a small delay when accessing data compared to the Hot tier.
@@ -31,7 +31,7 @@ Azure Blob Storage offers three primary access tiers, designed to accommodate di
         * **Minimum data retention:** Data must be stored for at least 30 days. If you delete data before 30 days, you'll still be charged for the 30 days.
     * **Use Cases:** Less frequently accessed backups, older log files, disaster recovery data that you might need to retrieve quickly but not constantly.
 
-3.  **Archive Tier:**
+3.  📦 **Archive Tier:**
     * **Purpose:** Designed for data that is rarely accessed and can withstand longer retrieval times. This is ideal for long-term retention and compliance.
     * **Characteristics:**
         * **Highest latency:** Retrieval can take hours, as data needs to be rehydrated from archive storage.
@@ -84,6 +84,9 @@ Let's look at an *illustrative* example for **East US region** for LRS (Locally-
 3. **Configure Lifecycle Management:** Azure Storage Lifecycle Management policies are your best friend here! They allow you to automatically transition blobs between tiers based on rules you define (e.g., "move blobs older than 90 days to the Cool tier," or "delete blobs older than 365 days"). This is the most efficient way to manage costs over time.
     * **Example Rule:** If a blob is not accessed for 30 days, move it to the Cool tier. If it's then not accessed for another 180 days, move it to the Archive tier.
 4. **Manual Tiering:** You can also manually change the tier of individual blobs via the Azure portal, Azure CLI, or PowerShell. This is useful for specific scenarios or when first migrating data.
+
+## Related
+- [[Azure Blob Storage]]
 
 ## Reference
 * [Access tiers for Blob Data - Azure Storage | Microsoft Learn](https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview)

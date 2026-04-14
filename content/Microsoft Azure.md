@@ -26,6 +26,10 @@ status: evergreen
 > - [[Dependency Agent]] (DA) - *Retiring June 30, 2028*
 > - [[comparing mma and da on azure|Comparing MMA and DA on Azure]]
 
+### Azure Storage
+- [[Azure Blob Storage]]
+	- [[Azure Blob Storage access tiers|Azure Blob Storage Access TIers]]
+
 > [!lock] Identity & Access
 > - [[Managed identity|Managed Identity]] (MI)
 > - [[service principal|Service Principal]]
