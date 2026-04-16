@@ -16,4 +16,4 @@ link:
 You can associate zero or one network security group to each subnet in a virtual network. You can associate the same or a different network security group to each subnet. Each network security group contains rules that allow or deny traffic to and from sources and destinations.
 
 ### Related Concept
-* [[Application Security Group]]
+* [[application security group|Application Security Group]]

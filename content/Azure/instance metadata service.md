@@ -13,14 +13,14 @@ link:
 The **Instance Metadata Service (IMDS)** is a service provided by Azure that allows running virtual machine (VM) instances to access information about themselves. This information is crucial for various tasks, including configuration, security, and monitoring.
 
 ### Accessing IMDS
-IMDS is accessed from within the VM using the well-known, [[IP address 169.254.169.254|link-local IP address]]  `169.254.169.254`. VMs use this IP address to make requests to the IMDS and retrieve their metadata. The service typically uses a REST API for communication.
+IMDS is accessed from within the VM using the well-known, [[ip address 169.254.169.254|link-local IP address]]  `169.254.169.254`. VMs use this IP address to make requests to the IMDS and retrieve their metadata. The service typically uses a REST API for communication.
 
 ### Information Provided by IMDS
 IMDS provides a range of information about the VM, including:
 * **VM Details:** Name, size, and other configuration details.
 * **Network Configuration:** IP addresses, DNS settings, and other network-related information.
 * **Storage Configuration:** Information about attached disks.
-* **Identity:** Information about the VM's [[Managed identity]], if enabled.
+* **Identity:** Information about the VM's [[managed identity|Managed Identity]], if enabled.
 
 ### Use Cases
 The information provided by IMDS is valuable for several purposes:

@@ -12,4 +12,4 @@ link:
 **Application Security Groups (ASGs)** enable you to group virtual machines and define network security policies based on those groups. ASGs allow for more flexible and scalable security management by enabling you to **apply security rules to a group of resources** rather than managing IP addresses individually. This helps in simplifying the management of security policies as applications scale.
 
 ### Related Concept
-* [[Network Security Group]]
+* [[network security group|Network Security Group]]
