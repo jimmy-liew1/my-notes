@@ -13,14 +13,14 @@ Here are some of the leading and notable cloud service providers:
 
 ### Hyperscale Leaders (The "Big Three")
 These providers dominate the market with extensive global infrastructure and a vast array of services.
-1.  **[[Amazon Web Services|Amazon Web Services (AWS)]]**
+1.  **[[amazon web services|Amazon Web Services (AWS)]]**
     * Widely considered the market leader.
     * Known for its extensive range of services, maturity, and global reach.
     * Strong focus on compute, storage, databases, and a broad ecosystem.
 2.  **[[Microsoft Azure|Microsoft Azure]]**
     * Strong second player, particularly popular in enterprises due to integration with Microsoft products (Windows Server, Active Directory, Office 365).
     * Offers a comprehensive suite of services across IaaS, PaaS, and SaaS.
-3.  **[[Google Cloud Platform|Google Cloud Platform (GCP)]]**
+3.  **[[google cloud platform|Google Cloud Platform (GCP)]]**
     * Known for its strengths in data analytics, machine learning (leveraging Google's internal expertise), Kubernetes (originator of the technology), and global network infrastructure.
 
 ### Other Significant Providers

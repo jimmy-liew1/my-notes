@@ -5,6 +5,7 @@ created: 2025-07-29 13:07
 title: Model Context Protocol (MCP)
 aliases:
   - MCP
+  - Model Context Protocol
 tags:
   - gen-ai
   - ai

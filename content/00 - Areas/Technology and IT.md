@@ -12,16 +12,16 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
 ### Cloud Computing & Virtualization
 * **[[Cloud Platforms]]** / [[cloud providers|Cloud Providers]]: A deep dive into cloud computing services, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
     * [[Microsoft Azure]]
-    * [[Amazon Web Services]] (AWS)
-    * [[Google Cloud Platform]] (GCP)
+    * [[amazon web services]] (AWS)
+    * [[google cloud platform]] (GCP)
 * **[[Virtualization]]**: Exploring virtualization technologies, including hypervisors, virtual machines, and containerization.
 	* [[VMware Distributed Resource Scheduler]]
 * **[[Server Infrastructure]]**: Covering server hardware, operating systems, and related infrastructure.
     * [[differences between hyper-converged and hypervisor]]
     * **Nutanix**
-	    * [[NOS]]: It's a Nutanix OS, stands for Acropolis Operating System (AOS).
+	    * [[nos]]: It's a Nutanix OS, stands for Acropolis Operating System (AOS).
 * **Infrastructure Management**
-	* [[Infrastructure as Code|Infrastructure as Code]] (IaC)
+	* [[infrastructure as code|Infrastructure as Code]] (IaC)
 
 ### Data & Automation
 * **[[Automation & Scripting]]**: Automating tasks and processes using scripting languages and automation tools.
@@ -37,13 +37,13 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
     * [[Application Security Group]] (ASG)
 * **[[Cybersecurity]]**: Protecting systems and data from cyber threats, including security best practices, incident response, and risk management.
     * [[eight ways to strengthen and secure your password|Eight ways to strengthen and secure your password]]
-    * [[Scareware|Scareware]]
+    * [[scareware|Scareware]]
     * [[social engineering|Social Engineering]]
 
 ### Emerging Technologies
 * **[[AI & AI Tools]]**: Exploring the field of Artificial Intelligence, including machine learning, deep learning, and AI applications.
     * [[artificial intelligence|Artificial Intelligence]] (AI)
-    * [[Model Context Protocol]] (MCP)
+    * [[model context protocol]] (MCP)
 
 ## Further Exploration
 This section is constantly evolving. I plan to add more detailed notes on each of these topics, including:
