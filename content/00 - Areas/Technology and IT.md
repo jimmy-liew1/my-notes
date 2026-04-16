@@ -11,7 +11,7 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
 ## Core Areas
 ### Cloud Computing & Virtualization
 * **[[Cloud Platforms]]** / [[cloud providers|Cloud Providers]]: A deep dive into cloud computing services, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
-    * [[Microsoft Azure]]
+    * [[microsoft azure]]
     * [[amazon web services]] (AWS)
     * [[google cloud platform]] (GCP)
 * **[[Virtualization]]**: Exploring virtualization technologies, including hypervisors, virtual machines, and containerization.

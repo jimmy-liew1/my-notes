@@ -86,7 +86,7 @@ Let's look at an *illustrative* example for **East US region** for LRS (Locally-
 4. **Manual Tiering:** You can also manually change the tier of individual blobs via the Azure portal, Azure CLI, or PowerShell. This is useful for specific scenarios or when first migrating data.
 
 ## Related
-- [[Azure Blob Storage]]
+- [[azure blob storage|Azure Blob Storage]]
 
 ## Reference
 * [Access tiers for Blob Data - Azure Storage | Microsoft Learn](https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview)

@@ -17,7 +17,7 @@ These providers dominate the market with extensive global infrastructure and a v
     * Widely considered the market leader.
     * Known for its extensive range of services, maturity, and global reach.
     * Strong focus on compute, storage, databases, and a broad ecosystem.
-2.  **[[Microsoft Azure|Microsoft Azure]]**
+2.  **[[microsoft azure|Microsoft Azure]]**
     * Strong second player, particularly popular in enterprises due to integration with Microsoft products (Windows Server, Active Directory, Office 365).
     * Offers a comprehensive suite of services across IaaS, PaaS, and SaaS.
 3.  **[[google cloud platform|Google Cloud Platform (GCP)]]**
@@ -46,7 +46,7 @@ These providers offer strong platforms, often with specific areas of focus or re
 * **Cost:** Pricing models vary significantly.
 * **Performance & Reliability:** Uptime guarantees, network speed, data center locations.
 * **Global Presence:** Availability in required geographic regions.
-* **Compliance & Security:** Meeting industry-specific regulations ([[HIPAA]], [[GDPR]], etc.).
+* **Compliance & Security:** Meeting industry-specific regulations ([[hipaa|HIPAA]], [[gdpr|GDPR]], etc.).
 * **Vendor Lock-in:** How easy is it to move data or applications away from the platform?
 * **Existing Infrastructure & Skills:** Compatibility with current systems and team expertise.
 * **Support:** Level and cost of technical support.
