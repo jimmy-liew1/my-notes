@@ -5,6 +5,8 @@ tags:
   - azure
 link:
 title: Comparing MMA and DA on Azure
+aliases:
+  - Comparing MMA and DA on Azure
 ---
 This note outlines the key distinctions between the [[Microsoft Monitoring Agent|Microsoft Monitoring Agent (MMA)]] and the [[Dependency Agent|Dependency Agent (DA)]] in the context of Azure. The primary difference lies in their purpose and the type of data they collect.
 

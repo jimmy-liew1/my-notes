@@ -23,7 +23,7 @@ status: evergreen
 - [[Data Collection Rules|Data Collection Rules]] (DCRs)
 - [[Microsoft Monitoring Agent]] (MMA)
 - [[Dependency Agent]] (DA) - *Retiring June 30, 2028*
-- [[Comparing MMA and DA on Azure|Comparing MMA and DA on Azure]]
+- [[comparing mma and da on azure|Comparing MMA and DA on Azure]]
 
 ## Azure Storage
 - [[Azure Blob Storage]]
