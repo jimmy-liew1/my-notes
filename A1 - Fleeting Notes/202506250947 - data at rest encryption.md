@@ -4,6 +4,7 @@ created: 2025-06-25 09:06
 title: Data At Rest Encryption (DARE)
 aliases:
   - DARE
+  - Data At Rest Encryption
 tags:
   - type/fleeting-note
   - encryption

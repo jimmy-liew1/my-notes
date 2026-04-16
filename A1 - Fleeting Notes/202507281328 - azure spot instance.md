@@ -16,4 +16,4 @@ link:
 * [Use Azure Spot Virtual Machines - Azure Virtual Machines | Microsoft Learn](https://learn.microsoft.com/azure/virtual-machines/spot-vms)
 * [Configure virtual machine availability - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/configure-virtual-machine-availability/)
 * [Reserved Instances vs. Spot Instances: Maximize Your Savings Today](https://www.alphaus.cloud/en/blog/reserved-instances-vs-spot-instances-maximize-your-savings-today)
-* [[202508011649 - reserved instances|Reserved Instance]]
+* [[reserved instances|Reserved Instance]]
