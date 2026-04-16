@@ -15,7 +15,7 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
     * [[amazon web services]] (AWS)
     * [[google cloud platform]] (GCP)
 * **[[Virtualization]]**: Exploring virtualization technologies, including hypervisors, virtual machines, and containerization.
-	* [[VMware Distributed Resource Scheduler]]
+	* [[vmware distributed resource scheduler]]
 * **[[Server Infrastructure]]**: Covering server hardware, operating systems, and related infrastructure.
     * [[differences between hyper-converged and hypervisor]]
     * **Nutanix**

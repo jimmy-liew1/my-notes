@@ -5,6 +5,7 @@ aliases:
   - DRS
   - vmware DRS
   - distributed resource scheduler
+  - VMware Distributed Resource Scheduler
 title: VMware Distributed Resource Scheduler
 tags:
   - vmware/DRS
