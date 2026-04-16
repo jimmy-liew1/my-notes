@@ -1,7 +1,7 @@
 ---
 date: 2025-06-07
 created: 2025-06-07 11:06
-title: Managed identities
+title: Managed Identities
 aliases:
   - MI
 tags:
