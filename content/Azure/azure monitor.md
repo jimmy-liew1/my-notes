@@ -1,4 +1,6 @@
 ---
+up: "[[Azure MOC]]"
+date: 2025-09-27
 title: Azure Monitor
 tags:
   - azure

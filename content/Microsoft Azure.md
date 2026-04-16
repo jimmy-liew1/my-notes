@@ -20,7 +20,7 @@ status: evergreen
 ## Monitoring & Management
 - [[Azure Monitor]]
 - [[Azure Monitor Agent]] (AMA) - *Retired Aug 31, 2024*
-- [[Data Collection Rules|Data Collection Rules]] (DCRs)
+- [[data collection rules|Data Collection Rules]] (DCRs)
 - [[Microsoft Monitoring Agent]] (MMA)
 - [[Dependency Agent]] (DA) - *Retiring June 30, 2028*
 - [[comparing mma and da on azure|Comparing MMA and DA on Azure]]

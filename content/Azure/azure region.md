@@ -1,4 +1,5 @@
 ---
+up: "[[Azure MOC]]"
 date: 2025-08-03
 created: 2025-08-03 00:08
 title: Azure Region

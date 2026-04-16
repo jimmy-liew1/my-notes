@@ -1,4 +1,5 @@
 ---
+up: "[[Azure MOC]]"
 date: 2024-11-02
 created: 2024-11-02 18:11
 title: Data Collection Rules

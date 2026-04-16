@@ -1,5 +1,7 @@
 ---
+up: "[[Azure MOC]]"
 title: Azure Monitor Agent
+date: 2025-09-27
 aliases:
   - AMA
 tags:
@@ -10,7 +12,7 @@ tags:
 
 AMA replaces the [[Log Analytics agent]], also known as [[Microsoft Monitoring Agent|Microsoft Monitor Agent (MMA)]] and [[OMS]], for Windows and Linux machines, in Azure and non-Azure environments, on-premises and other clouds.
 
-It uses [[Data Collection Rules|Data Collection Rules (DCRs)]] for flexible data management and supports centralized configuration. Unlike the older Log Analytics agent, which retired on August 31, 2024, AMA offers enhanced features and capabilities, such as centralized configuration, data collection rules, and improved security.
+It uses [[data collection rules|Data Collection Rules (DCRs)]] for flexible data management and supports centralized configuration. Unlike the older Log Analytics agent, which retired on August 31, 2024, AMA offers enhanced features and capabilities, such as centralized configuration, data collection rules, and improved security.
 
 > [!INFO]- Note:
 > Azure Monitor Agent replaces the [Legacy Agent](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/log-analytics-agent) for Azure Monitor. The Log Analytics agent is on a **deprecation path** and won't be supported after **August 31, 2024**. Any new data centers brought online after January 1 2024 will not support the Log Analytics agent. If you use the Log Analytics agent to ingest data to Azure Monitor, [migrate to the new Azure Monitor agent](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration) prior to that date.
@@ -22,7 +24,7 @@ This reference architecture shows how to use [[Azure Monitor]] to monitor the pe
 
 ## Key Points
 - **Installation:** AMA can be installed on individual machines or at scale using [[Azure Policy]], VM extensions, or other tools. It can also be automatically installed when enabling certain features.[^2]
-- **[[Data Collection Rules|Data Collection Rules (DCRs)]]:** These rules define what data to collect, how to transform it, and where to send it. DCRs allow for flexible and centralized data collection management.
+- **[[data collection rules|Data Collection Rules (DCRs)]]:** These rules define what data to collect, how to transform it, and where to send it. DCRs allow for flexible and centralized data collection management.
 - **Deprecation of Legacy Agents:** AMA replaces the older Log Analytics agent, which is now deprecated. Users are encouraged to migrate to AMA for enhanced capabilities.
 - **Integration:** AMA integrates seamlessly with other Azure services, enhancing monitoring and security capabilities.
 ## Key Features

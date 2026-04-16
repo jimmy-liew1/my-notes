@@ -1,4 +1,5 @@
 ---
+up: "[[Azure MOC]]"
 date: 2025-08-01
 created: 2025-08-01 16:08
 title: Reserved Instances

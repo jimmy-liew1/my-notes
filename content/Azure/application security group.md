@@ -1,7 +1,7 @@
 ---
 date: 2025-08-03
 created: 2025-08-03 13:08
-title: Application security group
+title: Application Security Group
 aliases:
   - ASG
   - ASGs

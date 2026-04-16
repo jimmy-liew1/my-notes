@@ -29,7 +29,7 @@ kanban-plugin: board
 
 ## Done
 
-- [ ] [[Data Collection Rules]]
+- [ ] [[data collection rules]]
 - [ ] [[Microsoft Monitoring Agent]]
 
 

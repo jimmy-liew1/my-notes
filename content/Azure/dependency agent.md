@@ -1,4 +1,5 @@
 ---
+up: "[[Azure MOC]]"
 date: 2024-10-21
 created: 2024-10-21 17:10
 aliases:
