@@ -10,7 +10,7 @@ tags:
   - comparison
 ---
 ## Difference Between Agile and Scrum
-The primary difference between [[Agile]] and [[Scrum]] is that Agile is a project management philosophy that employs a fundamental set of values or principles, whereas Scrum is a precise Agile methodology utilized to facilitate a project.
+The primary difference between [[agile|Agile]] and [[scrum|Scrum]] is that Agile is a project management philosophy that employs a fundamental set of values or principles, whereas Scrum is a precise Agile methodology utilized to facilitate a project.
 
 The key difference between Agile and Scrum is that Scrum is a highly successful methodology for delivering software to a customer, while Agile is a philosophy about how to deliver software to a customer.
 

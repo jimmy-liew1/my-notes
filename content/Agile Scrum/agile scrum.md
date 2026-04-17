@@ -10,7 +10,7 @@ tags:
 draft: false
 link:
 ---
-The term "Agile Scrum" is often used to emphasize that [[Scrum]] is being implemented **within an [[Agile]] environment** and with a strong adherence to Agile principles and values. It is not a separate methodology distinct from either Agile or Scrum, but rather highlights Scrum's role as a specific framework for practicing Agility.
+The term "Agile Scrum" is often used to emphasize that [[scrum|Scrum]] is being implemented **within an [[agile|Agile]] environment** and with a strong adherence to Agile principles and values. It is not a separate methodology distinct from either Agile or Scrum, but rather highlights Scrum's role as a specific framework for practicing Agility.
 
 ## Why the Term "Agile Scrum"? 
 People may use this term to: 
@@ -28,4 +28,4 @@ Scrum's structure and events are designed to support Agile values, such as:
 Essentially, "Agile Scrum" serves as a reminder that successful Scrum implementation requires adopting the underlying Agile philosophy.
 
 ## Further Reading
-- [[Agile vs Scum|Agile vs. Scrum]]
+- [[agile vs scum|Agile vs. Scrum]]
