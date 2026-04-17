@@ -18,30 +18,30 @@ status: evergreen
 
 ---
 ## Monitoring & Management
-- [[Azure Monitor]]
-- [[Azure Monitor Agent]] (AMA) - *Retired Aug 31, 2024*
+- [[azure monitor|Azure Monitor]]
+- [[azure monitor agent|Azure Monitor Agent]] (AMA) - *Retired Aug 31, 2024*
 - [[data collection rules|Data Collection Rules]] (DCRs)
-- [[Microsoft Monitoring Agent]] (MMA)
-- [[Dependency Agent]] (DA) - *Retiring June 30, 2028*
+- [[microsoft monitoring agent|Microsoft Monitoring Agent]] (MMA)
+- [[dependency agent|Dependency Agent]] (DA) - *Retiring June 30, 2028*
 - [[comparing mma and da on azure|Comparing MMA and DA on Azure]]
 
 ## Azure Storage
-- [[Azure Blob Storage]]
-	- [[Azure Blob Storage access tiers|Azure Blob Storage Access Tiers]]
+- Azure Blob Storage
+	- [[azure blob storage access tiers|Azure Blob Storage Access Tiers]]
 
 ## Identity & Access
-- [[Managed identity|Managed Identity]] (MI)
+- [[managed identity|Managed identity]] (MI)
 - [[service principal|Service Principal]]
 
 ## Networking & Security
-- [[Network Security Group|Network Security Group]] (NSG)
-- [[Application Security Group|Application Security Group]] (ASG)
-- [[Azure private DNS|Azure Private DNS]]
+- [[network security group|Network Security Group]] (NSG)
+- [[application security group|Application Security Group]] (ASG)
+- [[azure private dns|Azure Private DNS]]
 
 ##  Infrastructure & Global
- - [[Azure region|Azure Regions]]
+ - [[azure region|Azure Regions]]
  - [[availability zones|Availability Zones]]
- - [[Instance Metadata Service|Instance Metadata Service]] (IMDS)
+ - [[instance metadata service|Instance Metadata Service]] (IMDS)
 
 ## Cost Management + Billing
 - [[reserved instances|Reserved Instances]]

@@ -15,4 +15,4 @@ Key benefits include:
 * **Optimized Performance:** Direct connection within the Azure network. 
 * **Simplified Network Architecture:** No need for public IP addresses for service access. 
 
-Commonly used with services like Azure Storage, Azure SQL Database, and Azure Cosmos DB.
+Commonly used with services like [[azure storage|Azure Storage]], Azure SQL Database, and Azure Cosmos DB.

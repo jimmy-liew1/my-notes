@@ -2,6 +2,7 @@
 up: "[[Agile Scrum MOC]]"
 date: 2025-06-06
 created: 2025-06-06 23:06
+title: Agile
 draft: false
 tags:
   - agile-scrum

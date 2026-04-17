@@ -1,9 +1,8 @@
 ---
-up: "[[General MOC]]"
+up: "[[Cloud Computing MOC]]"
 date: 2025-05-28
 created: 2025-05-28 20:05
 tags:
-  - azure
   - networking
 link:
 title: IP address 169.254.169.254

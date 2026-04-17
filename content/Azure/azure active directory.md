@@ -1,4 +1,5 @@
 ---
+up: "[[Azure MOC]]"
 date: 2026-04-07
 created: 2026-04-07 20:04
 title: Azure Active Directory

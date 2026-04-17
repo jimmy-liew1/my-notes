@@ -1,12 +1,13 @@
 ---
 up: "[[MOCs/Agile Scrum MOC|Agile Scrum MOC]]"
+date: 2025-09-27
+title: Agile vs. Scrum
+draft: false
+link: https://www.simplilearn.com/agile-vs-scrum-article#scrum_vs_kanban_differences_and_similarities
 tags:
   - agile
   - scrum
   - comparison
-title: Agile vs. Scrum
-link: https://www.simplilearn.com/agile-vs-scrum-article#scrum_vs_kanban_differences_and_similarities
-draft: true
 ---
 ## Difference Between Agile and Scrum
 The primary difference between [[Agile]] and [[Scrum]] is that Agile is a project management philosophy that employs a fundamental set of values or principles, whereas Scrum is a precise Agile methodology utilized to facilitate a project.

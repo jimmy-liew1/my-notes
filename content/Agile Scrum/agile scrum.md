@@ -2,6 +2,7 @@
 up: "[[Agile Scrum MOC]]"
 date: 2025-06-17
 created: 2025-06-17 21:06
+title: Agile Scrum
 tags:
   - agile-scrum
   - topic-note

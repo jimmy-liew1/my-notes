@@ -1,9 +1,9 @@
 ---
 up: "[[General MOC]]"
 date: 2022-09-15
+title: Growth mindset
 tags:
   - stub
-title: Growth mindset
 ---
 A growth mindset is the belief that intelligence, skills, and talents can be developed through effort, learning, and persistence, rather than being innate or fixed. Coined by [Dr. Carol Dweck](https://www.youtube.com/watch?v=EyIF5VUOJc0), this perspective encourages embracing challenges, learning from failure, and embracing effort as a path to mastery, increasing motivation and achievement.
 

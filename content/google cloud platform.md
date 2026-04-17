@@ -1,12 +1,12 @@
 ---
 up: "[[General MOC]]"
+date: 2025-09-27
+title: Google Cloud Platform
 aliases:
   - GCP
   - Google Cloud Platform
 tags:
   - cloud-provider
-date: 2025-09-27
-title: Google Cloud Platform
 ---
 **Google Cloud Platform (GCP)**, one of the biggest [[cloud providers]], is a suite of cloud computing services offered by Google.
 

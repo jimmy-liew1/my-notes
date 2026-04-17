@@ -1,4 +1,5 @@
 ---
+up: "[[Azure MOC]]"
 date: 2025-07-27
 created: 2025-07-27 22:07
 title: Availability zones

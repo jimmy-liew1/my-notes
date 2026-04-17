@@ -1,5 +1,6 @@
 ---
 up: "[[Agile Scrum MOC]]"
+date: 2025-09-27
 title: Sprint retrospective
 aliases:
   - sprint retrospective
@@ -8,7 +9,7 @@ tags:
   - retrospective
   - agile-scrum
 ---
-A sprint retrospective is a meeting held at the end of each sprint in an [[Agile Scrum]] framework.  It's a crucial opportunity for the Scrum team to reflect on the past sprint and identify ways to improve their processes, collaboration, and overall performance.  Unlike [[sprint review]] meetings, which involve stakeholders, the retrospective is primary for the Scrum team's benefit—there’s usually no need to get outside players involved.
+A sprint retrospective is a meeting held at the end of each sprint in an [[agile scrum|Agile Scrum]] framework.  It's a crucial opportunity for the Scrum team to reflect on the past sprint and identify ways to improve their processes, collaboration, and overall performance.  Unlike [[sprint review]] meetings, which involve stakeholders, the retrospective is primary for the Scrum team's benefit—there’s usually no need to get outside players involved.
 
 ![image](https://assets.asana.biz/m/cd1aa754c2f226c/original/inline-agile-sprint-retrospective-2x.jpg) *Example of a Sprint Retrospective board. Picture from [Asana](https://asana.com/guide/examples/project-management/asana-agile).*
 ### Purpose and Benefits

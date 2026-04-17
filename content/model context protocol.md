@@ -11,7 +11,7 @@ tags:
   - ai
 link:
 ---
-The field of [[artificial intelligence|Artificial Intelligence (AI)]] is rapidly evolving, with [[Large Language Models|Large Language Models (LLMs)]] and AI agents becoming increasingly sophisticated. However, their potential is often limited by their access to external information and tools. The **Model Context Protocol (MCP)**, an open-source, open standard framework introduced by Anthropic in November 2024, addresses this limitation by providing a **standardized way for AI systems to interact with the "outside world", particularly large language models (LLMs) and AI agents, integrate and share data with external tools, systems, and data sources.** This article explores the key aspects of MCP and its potential to revolutionize AI applications.
+The field of [[artificial intelligence|Artificial Intelligence (AI)]] is rapidly evolving, with [[large language models|Large Language Models (LLMs)]] and AI agents becoming increasingly sophisticated. However, their potential is often limited by their access to external information and tools. The **Model Context Protocol (MCP)**, an open-source, open standard framework introduced by Anthropic in November 2024, addresses this limitation by providing a **standardized way for AI systems to interact with the "outside world", particularly large language models (LLMs) and AI agents, integrate and share data with external tools, systems, and data sources.** This article explores the key aspects of MCP and its potential to revolutionize AI applications.
 
 ### The Need for a Universal Connector
 Imagine a world where AI models can seamlessly access and utilize a vast array of external tools, systems, and data sources. Before MCP, connecting AI models to these resources often required complex, custom integrations. MCP aims to simplify this process, acting as a **universal connector, similar to a USB-C port for hardware, but for AI applications.** It provides a consistent and standardized way for AI to interact with the world beyond its initial training data.
@@ -31,7 +31,7 @@ MCP offers several key features and benefits that enhance the capabilities and i
     * **Reduced Integration Complexity:** Developers no longer need to build custom integrations for every new data source or tool.
     * **Increased Interoperability:** Different AI applications can easily connect to a wide range of MCP-compatible servers, fostering a more robust ecosystem.
     * **Enhanced AI Capabilities:** AI agents can move beyond simple text prediction to perform complex, multi-step tasks that leverage external information and actions.
-* **Open Standard:** MCP is open-source, encouraging widespread adoption and collaboration across the AI industry. Major AI providers like [[OpenAI]] and [[Google DeepMind]] have reportedly adopted or plan to support MCP.
+* **Open Standard:** MCP is open-source, encouraging widespread adoption and collaboration across the AI industry. Major AI providers like [[openai|OpenAI]] and [[google deepmind|Google DeepMind]] have reportedly adopted or plan to support MCP.
 
 ### The Future of Agentic AI
 In essence, MCP provides the missing layer that allows AI models to become truly "agentic" – intelligent programs that can autonomously pursue goals and take action by connecting to and utilizing the vast array of external tools and data sources available in the digital world.

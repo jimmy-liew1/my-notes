@@ -3,12 +3,12 @@ up: "[[Cyber Security MOC]]"
 date: 2025-06-20
 created: 2025-06-20 11:06
 title: Scareware
-tags:
-  - cyber-security
-  - cyber-glossary
 link: Scareware
 aliases:
   - Scareware
+tags:
+  - cyber-security
+  - cyber-glossary
 ---
 **Scareware** is a type of malware that tricks users into believing their computer is infected, often through fake pop-up warnings or security alerts. It then prompts them to download or purchase fake antivirus software or other tools to "fix" the non-existent problem. These fake tools are actually malware designed to steal personal information, install more malware, or cause other harmful actions.
 ![image](https://sectigostore.com/blog/wp-content/uploads/2020/12/scareware-example2.png)

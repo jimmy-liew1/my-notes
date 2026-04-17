@@ -2,14 +2,16 @@
 up: "[[Agile Scrum MOC]]"
 date: 2025-07-31
 created: 2025-07-31 11:07
+title: Scrum Sprint
 aliases:
+  - Scrum Sprint
   - sprint
 draft: false
 tags:
   - agile-scrum
 link:
 ---
-A **Scrum Sprint** is a time-boxed iteration in the Scrum framework, **typically lasting 1-4 weeks**. It's the fundamental unit of development in [[Scrum]], where the team works to deliver a potentially shippable product increment.
+A **Scrum Sprint** is a time-boxed iteration in the Scrum framework, **typically lasting 1-4 weeks**. It's the fundamental unit of development in [[scrum|Scrum]], where the team works to deliver a potentially shippable product increment.
 
 ## Key Characteristics:
 * **Time-boxed:** Each Sprint has a fixed duration, ensuring a consistent rhythm.

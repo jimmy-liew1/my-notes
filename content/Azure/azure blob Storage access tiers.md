@@ -1,4 +1,5 @@
 ---
+up: "[[Azure MOC]]"
 date: 2026-04-09
 created: 2026-04-09 08:04
 title: Azure Blob Storage - Three Primary Access Tiers

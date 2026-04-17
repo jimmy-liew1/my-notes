@@ -11,9 +11,8 @@ tags:
   - vmware/DRS
   - vmotion
   - interview-question
-draft: true
+draft: false
 ---
-## Overview
 **Distributed Resource Scheduler (DRS)** designed by VMware to ensure optimal VM performance. VMware DRS achieves this by automatically **distributing VMs across vSphere hosts based on workload characteristics**. This ensures that VMs consume the host resources in an equitable manner and that a single host in a cluster isn't carrying a disproportionate share of the workload.
 
 DRS is not typically marketed as an availability tool, but it can help admins **keep mission-critical workloads online in a failure situation**. **DRS constantly monitors the hosts within a cluster so that it can rebalance the workload if necessary**. This monitoring process enables DRS to detect when the system adds new hosts to a cluster or when existing cluster nodes go offline. If DRS detects that a node is not online -- the node has failed -- it can **use Storage vMotion to move VMs off of the failed node and onto a functional node**.

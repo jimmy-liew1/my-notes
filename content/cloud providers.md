@@ -1,5 +1,6 @@
 ---
 up: "[[General MOC]]"
+date: 2025-09-27
 title: Cloud Service Providers
 tags:
   - stub
@@ -52,9 +53,9 @@ These providers offer strong platforms, often with specific areas of focus or re
 * **Support:** Level and cost of technical support.
 
 ## Related Concepts
-* [[Cloud Computing]]
-* [[Infrastructure as a Service (IaaS)]]
-* [[Platform as a Service (PaaS)]]
-* [[Software as a Service (SaaS)]]
-* [[Hybrid Cloud]]
-* [[Multi-Cloud]]
+* [[cloud computing|Cloud Computing]]
+* [[infrastructure as code|Infrastructure as a Service (IaaS)]]
+* [[platform as a service|Platform as a Service (PaaS)]]
+* [[software as a service|Software as a Service (SaaS)]]
+* [[hybrid cloud|Hybrid Cloud]]
+* [[multi-cloud|Multi-Cloud]]

@@ -10,7 +10,7 @@ link: https://www.mountaingoatsoftware.com/agile/scrum/roles/the-chicken-and-the
 ---
 ![The Chicken and the Pig](https://www.mountaingoatsoftware.com/uploads/blog/no-thanks-said-the-pig_quote.jpg)
 
-There is a story in [[Scrum]] about a chicken and a pig.
+There is a story in [[scrum|Scrum]] about a chicken and a pig.
 
 One day the chicken decides that the two should start a restaurant.
 
@@ -23,6 +23,6 @@ To which the pig replies, "No thanks, I’d be committed. You’d only be involv
 ## The Difference Between Commitment and Involvement
 This story is told in Scrum circles to point out the difference between commitment and involvement.
 
-The original idea was that the development team members and Scrum Master were committed, but the product owner was merely involved. It was used to claim that the product owner should not participate (or even attend) the [[daily scrum]].
+The original idea was that the development team members and Scrum Master were committed, but the product owner was merely involved. It was used to claim that the product owner should not participate (or even attend) the [[daily stand-ups|daily scrum]].
 
 I’ve never been fond of that way of thinking. It sets up an unnecessary divide between team and product owner. Further, who can be more committed to the success of a project than the product owner, who is sometimes called the “single wringable neck” in Scrum literature?

@@ -1,5 +1,5 @@
 ---
-up: "[[Server Infrastructure MOC]]"
+up: "[[General MOC]]"
 date: 2024-10-21
 created: 2024-10-21 11:10
 title: Infrastructure as code

@@ -1,12 +1,12 @@
 ---
 up: "[[General MOC]]"
-tags:
-  - cloud-provider
+date: 2025-09-27
 title: Amazon Web Services
 aliases:
   - AWS
   - Amazon Web Services
-date: 2025-09-27
+tags:
+  - cloud-provider
 ---
 **Amazon Web Services (AWS)**, one of the biggest [[cloud providers]], is a comprehensive and broadly adopted cloud platform offered by Amazon.
 
