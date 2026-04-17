@@ -11,7 +11,7 @@ This note serves as a central hub for my explorations of core methodologies and 
 * **[[agile|Agile]]:** A flexible and iterative approach to project management, emphasizing collaboration, customer feedback, and continuous improvement.
 	* [[agile scrum|Agile Scrum]]
 	* [[agile vs scum|Agile vs. Scum]]
-* **[[Scrum]]:** A specific framework within Agile, utilizing sprints, roles (Product Owner, Scrum Master, Development Team), and ceremonies to deliver value incrementally.
+* **[[scrum|Scrum]]:** A specific framework within Agile, utilizing sprints, roles (Product Owner, Scrum Master, Development Team), and ceremonies to deliver value incrementally.
 	* [[scrum sprint|Scrum Sprint]]
 	* [[sprint planning|Sprint Planning]]
 	* [[sprint retrospective|Sprint Retrospective]]
