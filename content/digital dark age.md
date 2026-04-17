@@ -7,7 +7,7 @@ tags:
   - stub
 link:
 ---
-The term "digital dark age" refers to the potential loss of historical information in the digital age due to outdated file formats, software, or hardware that becomes corrupt, scarce, or inaccessible as technologies evolve and data decays[^1] This phenomenon can result in future generations finding it difficult or impossible to retrieve electronic documents and multimedia because they have been recorded in an obsolete and obscure file format or on an obsolete physical medium.[^1]
+The term "digital dark age" refers to the potential loss of historical information in the digital age due to outdated file formats, software, or hardware that becomes corrupt, scarce, or inaccessible as technologies evolve and data decays.[^1] This phenomenon can result in future generations finding it difficult or impossible to retrieve electronic documents and multimedia because they have been recorded in an obsolete and obscure file format or on an obsolete physical medium.[^1]
 
 ## How to Survive in Digital Dark Age?
 1. **Regular Backups**. Ensure you regularly back up your data to multiple locations, including external hard drives and cloud storage. This helps protect against data loss due to hardware failure or other issues.
