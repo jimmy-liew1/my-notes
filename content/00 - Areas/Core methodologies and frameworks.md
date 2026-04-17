@@ -8,11 +8,11 @@ tags:
 ---
 This note serves as a central hub for my explorations of core methodologies and frameworks, primarily focusing on those that enhance productivity, project management, and personal growth. Here, you'll find information, insights, and resources related to:
 
-* **[[Agile]]:** A flexible and iterative approach to project management, emphasizing collaboration, customer feedback, and continuous improvement.
-	* [[Agile Scrum]]
-	* [[Agile vs Scum|Agile vs. Scum]]
+* **[[agile|Agile]]:** A flexible and iterative approach to project management, emphasizing collaboration, customer feedback, and continuous improvement.
+	* [[agile scrum|Agile Scrum]]
+	* [[agile vs scum|Agile vs. Scum]]
 * **[[Scrum]]:** A specific framework within Agile, utilizing sprints, roles (Product Owner, Scrum Master, Development Team), and ceremonies to deliver value incrementally.
-	* [[Scrum sprint|Scrum Sprint]]
+	* [[scrum sprint|Scrum Sprint]]
 	* [[sprint planning|Sprint Planning]]
 	* [[sprint retrospective|Sprint Retrospective]]
 * **Project Management:** Broader principles and practices for planning, organizing, and managing resources to bring about the successful completion of specific project goals and objectives.
