@@ -2,7 +2,7 @@
 up: "[[General MOC]]"
 date: 2025-10-16
 created: 2025-10-16 18:10
-title: Digital Twin
+title: Digital twin
 aliases:
 tags:
   - stub
