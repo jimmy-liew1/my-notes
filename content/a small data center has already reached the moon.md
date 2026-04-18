@@ -6,7 +6,6 @@ title: A small data center has already reached the moon
 aliases:
   - Lunar Data Center
 tags:
-  - type/fleeting-note
   - topic/space-tech
   - topic/data-storage
 link:

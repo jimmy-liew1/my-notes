@@ -7,7 +7,6 @@ tags:
 link:
 title: Comparing MMA and DA on Azure
 aliases:
-  - Comparing MMA and DA on Azure
 ---
 This note outlines the key distinctions between the [[microsoft monitoring agent|Microsoft Monitoring Agent (MMA)]] and the [[dependency agent|Dependency Agent (DA)]] in the context of Azure. The primary difference lies in their purpose and the type of data they collect.
 
@@ -15,7 +14,7 @@ The **Microsoft Monitoring Agent (MMA)** is designed for broad data collection
 
 In contrast, the **Dependency Agent (DA)** has a more specific focus: collecting data related to process dependencies and their interactions. It gathers information specifically about how processes rely on each other. DA is primarily used for mapping application dependencies and assisting with troubleshooting. It integrates with Azure Monitor for VMs to visualize these application dependency maps.
 
-### Comparison of Differences between MMA and DA on Azure
+## Comparison of Differences between MMA and DA on Azure
 Based on the provided note, the key differences between the Microsoft Monitoring Agent (MMA) and the Dependency Agent (DA) on Azure are:
 
 * **Purpose:**

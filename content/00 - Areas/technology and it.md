@@ -41,9 +41,12 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
     * [[social engineering|Social Engineering]]
 
 ### Emerging Technologies
-* **AI & AI Tools**: Exploring the field of Artificial Intelligence, including machine learning, deep learning, and AI applications.
-    * [[artificial intelligence|Artificial Intelligence]] (AI)
-    * [[model context protocol]] (MCP)
+- **AI & AI Tools**: Exploring Machine Learning and AI applications.
+    - [[artificial intelligence|Artificial Intelligence]] (AI)
+    - [[model context protocol|Model Context Protocol]] (MCP)
+- **Space & Edge Tech**: Computing beyond traditional data centers.
+    - [[a small data center has already reached the moon|Lunar Data Storage]]
+- **Quantum Computing**: The next frontier of processing power.
 
 ## Further Exploration
 This section is constantly evolving. I plan to add more detailed notes on each of these topics, including:
