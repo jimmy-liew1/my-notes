@@ -7,8 +7,10 @@ aliases:
   - MCP
   - Model Context Protocol
 tags:
-  - gen-ai
-  - ai
+  - ai/mcp
+  - ai/standards
+  - ai/agents
+  - type/protocol
 link:
 ---
 The field of [[artificial intelligence|Artificial Intelligence (AI)]] is rapidly evolving, with [[large language models|Large Language Models (LLMs)]] and AI agents becoming increasingly sophisticated. However, their potential is often limited by their access to external information and tools. The **Model Context Protocol (MCP)**, an open-source, open standard framework introduced by Anthropic in November 2024, addresses this limitation by providing a **standardized way for AI systems to interact with the "outside world", particularly large language models (LLMs) and AI agents, integrate and share data with external tools, systems, and data sources.** This article explores the key aspects of MCP and its potential to revolutionize AI applications.

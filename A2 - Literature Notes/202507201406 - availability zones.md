@@ -1,6 +1,7 @@
 ---
 date: 2025-07-20
 created: 2025-07-20 14:07
+title: Availability zones
 tags:
   - azure
   - type/literature-note

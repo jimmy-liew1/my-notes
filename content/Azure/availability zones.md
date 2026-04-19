@@ -5,9 +5,10 @@ created: 2025-07-27 22:07
 title: Availability zones
 aliases:
   - availability zone
+  - availability zones
 tags:
   - azure
-link: https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview?tabs=azure-cli
+link: https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview
 ---
 **Availability zones** are distinct groups of datacenters within a region. They feature independent power, cooling, and networking, ensuring that if one zone fails, the others maintain regional services, capacity, and high availability.
 
