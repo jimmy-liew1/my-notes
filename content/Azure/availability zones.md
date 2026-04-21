@@ -16,7 +16,7 @@ link: https://learn.microsoft.com/en-us/azure/reliability/availability-zones-ove
 In the world of cloud computing, hardware failures and local disasters are inevitable. To mitigate these risks, Microsoft Azure provides **Availability Zones** as a high-availability solution. By distributing applications and data across physically separate locations within a single region, organizations can ensure that their services remain operational even if an entire data center experiences a power outage, cooling failure, or network disruption.
 
 ## Physical Infrastructure and Resiliency
-An Availability Zone is not just a logical label; it represents a distinct physical location within an [[azure region|Azure regions]].  Each zone is composed of one or more datacenters equipped with independent infrastructure.
+An Availability Zone is not just a logical label; it represents a distinct physical location within an [[azure region|Azure region]].  Each zone is composed of one or more datacenters equipped with independent infrastructure.
 - **Independent Power & Cooling:** Each zone operates on its own utility grid and cooling systems to prevent a single point of failure from affecting the entire region.
 - **Fault and Update Domains:** At a technical level, a zone acts as a combination of a [[fault domain]] and an [[update domain]], ensuring that both unplanned hardware failures and planned maintenance do not take down all instances of a service simultaneously. 
 - **The Rule of 3:** To guarantee a high level of resiliency, any Azure region that supports this feature is required to have a minimum of **three separate availability zones**.
@@ -37,7 +37,7 @@ The following diagram illustrates how Availability Zones are structured within s
 ![image](https://learn.microsoft.com/en-us/azure/reliability/media/regions-availability-zones.png)
 
 ## Related Concepts
-- [[azure region|Azure regions]] 
+- [[azure region|Azure region]] 
 - [[fault domain|Fault Domain]] 
 - [[update domain|Update Domain]] 
 - [[disaster recovery|Disaster Recovery]]

@@ -29,8 +29,11 @@ Azure services that support availability zones are divided into two categories.
 | **Zonal services**          | Azure _zonal_ services pin each resource to a specific zone.                                        | - Azure Virtual Machines<br>- Azure managed disks<br>- Standard IP addresses |
 | **Zone-redundant services** | For Azure services that are zone-redundant, the platform replicates automatically across all zones. | - Azure Storage that's zone-redundant<br>- Azure SQL Database                |
 
-### Related Concepts
-* [[202507201402 - availability sets|availability sets]]
-* [[availability zones]]
-* [[202507311130 - update domains|update domain]]
-* [[202507311128 - fault domains|fault domain]]
+## Related Notes
+- [[availability zones]]
+
+## Related Concepts
+* [[202507201402 - availability sets]]
+* [[azure region|Azure region]]
+* [[202507311130 - update domains]]
+* [[202507311128 - fault domains]]

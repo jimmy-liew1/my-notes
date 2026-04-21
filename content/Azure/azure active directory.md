@@ -25,5 +25,6 @@ Microsoft has officially rebranded Azure AD to **[[microsoft entra id|Microsoft
 - **Multi-Factor Authentication (MFA):** Provides an extra layer of security by requiring more than just a password.
 - **Conditional Access:** Enables automated access control decisions based on conditions like user location or device health.
 
+<!-- Footnotes -->
 [^1]: [Azure AD is being renamed to Microsoft Entra ID](https://devblogs.microsoft.com/identity/aad-rebrand/) (published on July 11th, 2023)
-[^2]:[Reimagine secure access with Microsoft Entra](https://info.microsoft.com/ww-reimagine-secure-access-with-microsoft-entra.html?lcid=en-us) | Microsoft
+[^2]: [Reimagine secure access with Microsoft Entra](https://info.microsoft.com/ww-reimagine-secure-access-with-microsoft-entra.html?lcid=en-us) | Microsoft
