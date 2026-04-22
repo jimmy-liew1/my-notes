@@ -45,3 +45,4 @@ status: evergreen
 
 ## Cost Management + Billing
 - [[reserved instances|Reserved Instances]]
+- [[azure spot instance|Azure Spot Instances]]

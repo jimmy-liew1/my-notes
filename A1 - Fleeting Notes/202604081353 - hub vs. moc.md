@@ -1,8 +1,9 @@
 ---
+up:
 date: 2026-04-08
 created: 2026-04-08 13:04
-title: 
-aliases: 
+title:
+aliases:
 tags:
   - type/fleeting-note
 link:

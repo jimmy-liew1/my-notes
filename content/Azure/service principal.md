@@ -17,5 +17,5 @@ A **service principal** is an identity for an application or service within [[az
 * When you need to grant an application or service access to Azure resources.
 * When you need to automate tasks that require access to Azure resources.
 
-### Related Concept
+### Related Concepts
 - [[managed identity|Managed Identities]] (MI)
