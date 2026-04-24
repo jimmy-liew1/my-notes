@@ -12,7 +12,7 @@ tags:
   - ai
 link:
 ---
-Artificial intelligence is defined as the ability of a computer system to perform tasks such as understanding speech or recognizing faces, finding patterns, and making decisions based on past and current information.
+**Artificial intelligence (AI)** is defined as the ability of a computer system to perform tasks such as understanding speech or recognizing faces, finding patterns, and making decisions based on past and current information.
 * **Narrow/Weak AI:** Designed and trained for a specific task (e.g., Siri, AlphaGo). 
 * **General/Strong AI:** Hypothetical AI with intellectual ability equal to humans across many tasks.
 

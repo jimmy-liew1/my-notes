@@ -32,6 +32,7 @@ status: evergreen
 ## Identity & Access
 - [[managed identity|Managed identity]] (MI)
 - [[service principal|Service Principal]]
+- [[azure pim|Azure PIM]]
 
 ## Networking & Security
 - [[network security group|Network Security Group]] (NSG)
@@ -45,4 +46,4 @@ status: evergreen
 
 ## Cost Management + Billing
 - [[reserved instances|Reserved Instances]]
-- [[azure spot instance|Azure Spot Instances]]
+- [[azure spot instance|Spot Instances]]

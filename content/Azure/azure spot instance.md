@@ -43,7 +43,7 @@ Because Spot Instances can be interrupted at any time, they are not suitable for
 - **Dev/Test Environments:** Non-production environments where a temporary shutdown won't impact customers are perfect candidates for cost-saving. 
 - **Scale Sets:** Using Spot Instances within [[virtual machine scale sets]] allows you to maintain a "baseline" of standard VMs while "bursting" into Spot Instances for extra processing power at a low cost.
 
-### Related Concepts
+## Related Concepts
 * [[reserved instances|Reserved Instance]]
 * [[azure region|Azure regions]]
 * [[virtual machine scale sets|Virtual machine scale sets]]

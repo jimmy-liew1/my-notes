@@ -18,6 +18,9 @@ link:
 
 ![What is an AWS Savings Plan?](https://cdn.prod.website-files.com/679394d6725b39553ef7dfe1/69b7be1d2f86d783eb44d7e1_AWS%20Savings%20Plan.png)<small>Image adopted from [Usaga.ai](https://www.usage.ai/blog/aws-savings-plans-vs-reserved-instances)</small>
 
+## Related Concepts
+- [[azure spot instance|Azure Spot Instance]]
+
 <!-- Footnotes -->
 [^1]: [What are Azure Reservations?](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations) | Microsoft Learn
 [^2]: _EC2 Reserved Instance Pricing_. (n.d.). Amazon Web Services, Inc. https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/
