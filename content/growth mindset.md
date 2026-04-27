@@ -15,6 +15,8 @@ People with a growth mindset begins with the fundamental belief that intelligenc
 
 According to Emily Ryan, Head of Marketing at Mentorloop, we all have different beliefs about our abilities, and these beliefs shape how we face challenges and failures.[^2]  Some people have a **growth mindset**, which means they hold an internal belief that their talents and intelligence can be developed through hard work, dedication, and a willingness to learn from mistakes. Others have a **fixed mindset**, which means they believe that their abilities are innate and cannot be changed much, if at all.
 
+## Related Concepts
+- [[fixed mindset|Fixed Mindset]]
 
 <!-- Footnotes -->
 [^1]: Kane, G. C., Palmer, D., Phillips, A. N., Kiron, D., & Buckley, N. (2018, June 5). _Coming of age digitally_. MIT Sloan Management Review. https://sloanreview.mit.edu/projects/coming-of-age-digitally/

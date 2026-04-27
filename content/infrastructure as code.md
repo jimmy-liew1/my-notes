@@ -33,7 +33,7 @@ Several formats and tools are available for implementing IaC, each with its stre
 - **JSON:** A lightweight data-interchange format commonly used for configuration and data storage.
 
 **Tools:**
-- **Terraform:** An open-source IaC tool that allows you to define and manage infrastructure across multiple cloud providers.
+- **[[terraform|Terraform]]:** An open-source IaC tool that allows you to define and manage infrastructure across multiple cloud providers.
 - **Ansible:** An open-source automation engine that can be used for configuration management, application deployment, and orchestration.
 - **CloudFormation:** A service provided by AWS for defining and managing infrastructure as code.
 - **Pulumi:** An open-source IaC tool that allows you to define infrastructure using general-purpose programming languages.

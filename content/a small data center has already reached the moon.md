@@ -20,7 +20,7 @@ The initiative spearheaded by Lonestar Data Holdings partner with Intuitive Mach
 Further in the future, it hopes to deploy fully fledged data centers - potentially in protected lunar tunnels - as a form of disaster recover for the Earth, according to Data Center Dynamics.[^3]
 
 ### Future Implications
-- **Disaster Recovery:** Lonestar aims to deploy full-scale data centers in protected lunar tunnels (lava tubes) to serve as a "fail-safe" for Earth's data in case of global catastrophe. <span class="copilot-citation-ref">[3]</span>
+- **Disaster Recovery:** Lonestar aims to deploy full-scale data centers in protected lunar tunnels (lava tubes) to serve as a "fail-safe" for Earth's data in case of global catastrophe.[^3]
 - **Lunar Economy:** Provides local processing power for future Moon missions, reducing the latency of sending data back to Earth for analysis.
 
 ## Related
