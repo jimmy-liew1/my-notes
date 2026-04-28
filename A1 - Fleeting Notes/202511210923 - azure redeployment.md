@@ -7,6 +7,7 @@ tags:
   - type/fleeting-note
   - azure
   - aigc
+status: budding
 link:
 ---
 **Azure Redeployment**, specifically for an Azure Virtual Machine (VM), is a troubleshooting action that moves your VM to a new node within the Azure infrastructure.

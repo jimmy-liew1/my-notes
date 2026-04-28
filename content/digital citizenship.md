@@ -1,14 +1,14 @@
 ---
+up: "[[General MOC]]"
 date: 2025-09-04
 created: 2025-09-04 15:09
-title: Digital Citizenship
+title: Digital citizenship
 aliases:
 tags:
-  - type/fleeting-note
-  - aigc
+  - stub
 link:
 ---
-Digital citizenship refers to the responsible, ethical, and safe use of technology. It encompasses a range of behaviors and practices that enable individuals to participate effectively and positively in online communities and the digital world.
+**Digital citizenship** refers to the responsible, ethical, and safe use of technology. It encompasses a range of behaviors and practices that enable individuals to participate effectively and positively in online communities and the digital world.
 
 Key aspects of digital citizenship include:
 * **[[digital literacy|Digital Literacy]]:** Understanding how to use technology effectively, critically evaluate online information, and navigate digital environments.

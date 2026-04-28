@@ -1,11 +1,15 @@
 ---
+up: "[[Azure MOC]]"
 date: 2025-06-25
 created: 2025-06-25 14:06
 title: Recovery service vault
 tags:
-  - type/fleeting-note
   - azure
+  - topic/data-storage
+  - data-protection
+  - disaster-recovery
 link:
+status: budding
 ---
 A **Recovery Services vault** in Azure is a storage entity designed for data protection and disaster recovery. It stores data, recovery points, and backup policies, serving as a central hub for managing backup and recovery strategies.
 
@@ -21,5 +25,4 @@ Use cases:
 *   Organize and manage backups and recovery points.
 
 ### References
-
 *   [Recovery Services vaults overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-recovery-services-vault-overview)

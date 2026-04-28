@@ -5,6 +5,7 @@ created: 2025-07-11 10:07
 title: Instance Metadata Service
 aliases:
   - IMDS
+  - Instance Metadata Service
 tags:
   - azure
   - networking

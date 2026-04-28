@@ -8,5 +8,6 @@ title:
 aliases:
 tags:
   - type/fleeting-note
+status: seedling
 link:
 ---

@@ -5,6 +5,7 @@ created: 2026-03-04 13:03
 title: Azure Privileged Identity Management
 aliases:
   - Azure PIM
+  - PIM
 tags:
   - azure
 link:

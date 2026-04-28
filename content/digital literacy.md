@@ -21,7 +21,7 @@ Digital literacy can be broken down into several interconnected components:
 * **Content Creation:** This refers to the ability to produce and share digital content, whether it's text, images, videos, or other multimedia formats. It involves using digital tools and platforms to express ideas and share knowledge.
 * **Digital Safety and Security:** A crucial aspect of digital literacy is understanding how to protect oneself online. This includes knowledge of privacy settings, password management, recognizing online threats (phishing, malware), and practicing safe online behaviors.
 * **Problem-Solving and Critical Thinking:** Digital literacy also involves the ability to use digital tools to solve problems, think critically about digital information, and adapt to new technologies as they emerge.
-* **Digital Citizenship:** This broader concept emphasizes responsible and ethical engagement with digital technologies and communities. It includes understanding digital rights and responsibilities, respecting intellectual property, and contributing positively to the online environment.
+* **[[digital citizenship|Digital Citizenship]]:** This broader concept emphasizes responsible and ethical engagement with digital technologies and communities. It includes understanding digital rights and responsibilities, respecting intellectual property, and contributing positively to the online environment.
 
 ### Why is Digital Literacy Important?
 In today's interconnected world, digital literacy is no longer a niche skill but a fundamental requirement for participation in many aspects of life, including:
@@ -30,5 +30,5 @@ In today's interconnected world, digital literacy is no longer a niche skill but
 * **Civic Engagement:** Accessing government services, participating in online discussions, and staying informed about current events.
 * **Personal Life:** Managing finances, staying connected with friends and family, and accessing entertainment and information.
 
-### Developing Digital Literacy:
+### Developing Digital Literacy
 Digital literacy is a skill that can be learned and improved over time through practice, education, and a willingness to explore new technologies. It's an ongoing process as digital landscapes constantly evolve.

@@ -1,14 +1,15 @@
 ---
+up:
 date: 2025-09-02
 created: 2025-09-02 15:09
 title: Azure Site Recovery
 aliases:
   - ASR
 tags:
-  - type/fleeting-note
   - azure
   - aigc
 link:
+status: budding
 ---
 **Azure Site Recovery (ASR)** is a service that helps you replicate physical servers, virtual machines, and other workloads to a secondary location. This allows you to recover from outages by failing over to the secondary location.
 

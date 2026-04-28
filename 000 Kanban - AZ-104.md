@@ -20,7 +20,7 @@ kanban-plugin: board
 ## In-progress
 
 - [ ] [[202507201406 - availability zones]]
-- [ ] [[202506251459 - recovery service vault]]
+- [ ] [[recovery service vault]]
 
 
 ## Review

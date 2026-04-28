@@ -43,7 +43,7 @@ Organizations and individuals can foster digital dexterity through:
 ## Related Concepts 
 * [[digital literacy|Digital Literacy]] (Often seen as a prerequisite or component) 
 * [[future of work|Future of Work]] 
-* [[continuous learning|Continuous Learning]] 
+* [[continuous learning|Continuous Learning]]
 * [[technological adoption|Technological Adoption]]
 
 <!-- Footnotes -->
