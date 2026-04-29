@@ -9,6 +9,7 @@ tags:
   - storage
   - blobs
   - aigc
+status: budding
 link:
 ---
 **Azure Blob Storage** is Microsoft's object storage solution for the cloud. Blob storage is optimized for storing massive amounts of unstructured data.
@@ -43,7 +44,6 @@ Azure Blob Storage offers three primary access tiers, designed to accommodate di
     * **Use Cases:** Regulatory compliance archives, long-term data backups for disaster recovery, raw data that you might need to analyze years down the line.
 
 ### Important Considerations
-
 * **Tiering within a Storage Account:** You can set a default access tier for your entire storage account (Hot or Cool). You can then explicitly set individual blobs or subdirectories to different tiers. The Archive tier can only be set at the individual blob level.
 * **Access Patterns Matter:** The key to choosing the right tier is understanding your data's access patterns.
     * If you're unsure, it's often best to start with the Hot tier and then analyze your access logs (using Azure Monitor or Storage Analytics) to identify data that can be moved to Cool or Archive.
@@ -56,7 +56,6 @@ Azure Blob Storage offers three primary access tiers, designed to accommodate di
     * **Data Transfer Costs:** Ingress (data into Azure) is generally free. Egress (data out of Azure) and data transfer between regions incur costs.
 
 ## Pricing Comparison
-
 Let's look at an *illustrative* example for **East US region** for LRS (Locally-redundant storage) on **July 2024**. **Please always refer to the official Azure Blob Storage pricing page for the most up-to-date and region-specific pricing.**
 
 | Feature                  | Hot Tier (per GB/month) | Cool Tier (per GB/month) | Archive Tier (per GB/month) |
@@ -88,6 +87,7 @@ Let's look at an *illustrative* example for **East US region** for LRS (Locally-
 
 ## Related
 - [[azure blob storage|Azure Blob Storage]]
+- [[azure storage services|Azure Storage Services]]
 
 ## Reference
 * [Access tiers for Blob Data - Azure Storage | Microsoft Learn](https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview)

@@ -5,6 +5,7 @@ created: 2026-04-17 11:04
 title: A small data center has already reached the moon
 aliases:
   - Lunar Data Center
+status: evergreen
 tags:
   - topic/space-tech
   - topic/data-storage

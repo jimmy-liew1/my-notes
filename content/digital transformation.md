@@ -4,9 +4,9 @@ date: 2025-09-27
 title: Digital transformation
 aliases:
   - DT
+status: budding
 tags:
-  - topic-note
-  - digital-transformation
+  - stub
 ---
 **Digital transformation** is a term that has been gaining traction in the business world, as companies strive to stay ahead of the competition and remain relevant in our increasingly digital-driven economy. It refers to the process of integrating digital technologies into all areas of a business or organization’s operations, including its products and services, processes and customer experiences. This can involve anything from developing new software applications or adopting cloud technology to utilizing big data analytics tools for better decision making. 
 

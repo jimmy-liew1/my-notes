@@ -6,6 +6,8 @@ title: Azure Privileged Identity Management
 aliases:
   - Azure PIM
   - PIM
+  - Microsoft Entra PIM
+status: seedling
 tags:
   - azure
 link:

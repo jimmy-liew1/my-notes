@@ -8,6 +8,7 @@ aliases:
 tags:
   - azure
   - aigc
+  - disaster-recovery
 link:
 status: budding
 ---

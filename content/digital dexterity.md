@@ -3,8 +3,8 @@ up: "[[General MOC]]"
 date: 2025-08-11
 title: Digital dexterity
 aliases:
+status: budding
 tags:
-  - topic-note
   - stub
 ---
 **Digital dexterity** is defined as the ability and desire to learn and use existing and emerging technologies for better business outcomes.[^1]  It also refers to individual or group's ability to adapt and adopt existing and emerging technologies in their field to produce better results for their company. As the digital world is constantly changing, the desire to adapt and innovate using new technologies is vital for employees.[^2]

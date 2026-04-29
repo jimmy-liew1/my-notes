@@ -2,6 +2,7 @@
 up: "[[General MOC]]"
 date: 2022-09-15
 title: Growth mindset
+status: budding
 tags:
   - stub
 ---

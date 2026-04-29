@@ -3,8 +3,8 @@ up: "[[General MOC]]"
 date: 2025-08-11
 title: Digital disruption
 aliases:
+status: budding
 tags:
-  - topic-note
   - stub
 ---
 Digital disruption is the transformative change that occurs when new digital technologies and innovative business models affect the value proposition of existing goods, services and industries.[^1]  It's not just about using technology, but about technology enabling entirely new ways of operating the challenge established norms and market leaders.

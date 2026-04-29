@@ -1,13 +1,11 @@
 ---
 up:
-date:
-  "{ date }":
-created:
-  "{ date:YYYY-MM-DD HH:MM }":
+date: {{date:YYYY-MM-DD }}
+created: {{date:YYYY-MM-DD HH:mm}}
 title:
 aliases:
+status: seedling
 tags:
   - type/fleeting-note
-status: seedling
 link:
 ---

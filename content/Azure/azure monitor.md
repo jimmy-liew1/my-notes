@@ -2,6 +2,7 @@
 up: "[[Azure MOC]]"
 date: 2025-09-27
 title: Azure Monitor
+status: seedling
 tags:
   - azure
   - topic-note
@@ -13,3 +14,7 @@ By collecting and aggregating data from all layers and components of your system
 
 [![Diagram that shows an abstracted view of what Azure monitor does as described in the previous paragraph.](https://learn.microsoft.com/en-us/azure/azure-monitor/media/overview/azure-monitor-high-level-abstraction-opt.svg)](https://learn.microsoft.com/en-us/azure/azure-monitor/media/overview/azure-monitor-high-level-abstraction-opt.svg#lightbox)
 The diagram above shows an abstracted view of the monitoring process. A more detailed breakdown of the Azure Monitor architecture is shown in the [High level architecture](https://learn.microsoft.com/en-us/azure/azure-monitor/overview#high-level-architecture) section on [Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-monitor/overview).
+
+
+## Related Concepts
+- [[azure monitor agent|Azure Monitor Agent]]

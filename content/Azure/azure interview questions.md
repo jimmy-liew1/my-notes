@@ -3,6 +3,7 @@ date: 2025-07-27
 created: 2025-07-27 15:07
 draft: false
 title: Azure Interview Questions
+status: budding
 tags:
   - azure
   - interview-question/azure
@@ -13,7 +14,7 @@ Here’s a list of technical interview questions for Cloud Engineer candidates w
 
 ## Azure-Specific Questions
 1. **What are the key differences between Azure IaaS, PaaS, and SaaS?**
-	**Answer:** [[Infrastructure as a Service (IaaS)]] provides virtualized computing resources over the internet. Users manage the OS and applications while the provider manages the infrastructure. PaaS (Platform as a Service) offers a platform allowing developers to build, deploy, and manage applications without handling the underlying infrastructure. SaaS (Software as a Service) delivers software applications over the internet on a subscription basis, with the provider managing everything from infrastructure to application updates.
+	**Answer:** [[infrastructure as a service|Infrastructure as a Service (IaaS)]] provides virtualized computing resources over the internet. Users manage the OS and applications while the provider manages the infrastructure. [[platform as a service|PaaS (Platform as a Service)]] offers a platform allowing developers to build, deploy, and manage applications without handling the underlying infrastructure. [[software as a service|SaaS (Software as a Service)]] delivers software applications over the internet on a subscription basis, with the provider managing everything from infrastructure to application updates.
 	
 2. **Explain how Azure Resource Manager (ARM) works. What are its benefits?**
 	**Answer:** Azure Resource Manager is the deployment and management service for Azure. It enables users to create, update, and delete resources in their Azure account. Benefits include resource grouping for easier management, role-based access control for security, and the ability to deploy resources using templates, which promotes consistency and repeatability.

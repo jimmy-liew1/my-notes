@@ -1,10 +1,13 @@
 ---
+up: "[[Azure MOC]]"
 date: 2026-04-14
 created: 2026-04-14 21:04
 title: Azure Storage Services
 aliases:
 tags:
-  - type/fleeting-note
+  - azure
+  - storage
+status: seedling
 link: https://learn.microsoft.com/en-us/training/modules/configure-storage-accounts/3-explore-azure-storage-services
 ---
 Azure Storage offers four data services that can be accessed by using an Azure storage account:
