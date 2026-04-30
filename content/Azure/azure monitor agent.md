@@ -38,6 +38,10 @@ This reference architecture shows how to use [[azure monitor|Azure Monitor]] to 
 - **Integration with Azure Services:** AMA integrates seamlessly with other Azure services, enhancing your monitoring and security capabilities.[^1]
 
 
+## Related Concepts
+- [[azure monitor|Azure Monitor]]
+
+<!-- Footnotes -->
 [^1]: [Azure Monitor Agent overview - Azure Monitor | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-overview)
 [^2]: [Install and manage Azure Monitor Agent - Azure Monitor | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-manage?tabs=azure-portal)
 [^3]: [Monitor hybrid availability, performance - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/hybrid/hybrid-perf-monitoring)

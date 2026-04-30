@@ -10,7 +10,7 @@ tags:
   - azure
 link:
 ---
-**Azure Active Directory (Azure AD)** is Microsoft’s cloud-based identity and access management (IAM) service. It serves as the backbone for authentication and authorization in the Microsoft cloud ecosystem. It helps employees sign in and access resources such as:
+**Azure Active Directory (Azure AD)** is Microsoft’s cloud-based [[identity and access management|identity and access management]] (IAM) service. It serves as the backbone for authentication and authorization in the Microsoft cloud ecosystem. It helps employees sign in and access resources such as:
 - **External resources** like Microsoft 365, the Azure portal, and thousands of other SaaS applications (e.g., Salesforce, Dropbox).
 - **Internal resources** like apps on your corporate network and intranet, along with any cloud apps developed by your own organization.
 
