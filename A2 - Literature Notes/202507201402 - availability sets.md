@@ -31,3 +31,4 @@ Availability sets are an essential capability when you want to build reliable cl
 
 ### Related
 - [[202507201406 - availability zones]]
+- [[202507201504 - availability domain]]
