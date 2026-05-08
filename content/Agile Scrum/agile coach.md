@@ -6,6 +6,7 @@ tags:
   - agile-scrum
   - coaching
 link:
+status: budding
 ---
 An Agile Coach is a professional who guides organizations in adopting and scaling [[Agile]] practices. Their role goes beyond just mentoring individuals; they focus on fostering a culture of continuous improvement.  
 

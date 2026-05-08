@@ -20,7 +20,6 @@ kanban-plugin: board
 ## In-progress
 
 - [ ] [[202507201406 - availability zones]]
-- [ ] [[recovery service vault]]
 
 
 ## Review
@@ -29,6 +28,7 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] [[recovery service vault]]
 - [ ] [[data collection rules]]
 - [ ] [[Microsoft Monitoring Agent]]
 

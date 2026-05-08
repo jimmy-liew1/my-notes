@@ -15,7 +15,6 @@ kanban-plugin: board
 
 ## In-progress
 
-- [ ] [[digital literacy]]
 - [ ] [[202411051510 - hotpatching]]
 
 
@@ -25,6 +24,7 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] [[digital literacy]]
 - [ ] [[data collection rules]]
 - [ ] [[Microsoft Monitoring Agent]]
 

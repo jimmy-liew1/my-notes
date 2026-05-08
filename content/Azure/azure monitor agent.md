@@ -7,6 +7,7 @@ aliases:
 tags:
   - azure
   - monitoring
+status: evergreen
 ---
 **Azure Monitor Agent (AMA)** collects monitoring data from the guest operating system of Azure and hybrid virtual machines, on-premises machines, and other cloud environments.  The data is then sent to [[azure monitor|Azure Monitor]] for use by features, insights, and other services such as [Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/overview) and [Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction).[^1]
 
