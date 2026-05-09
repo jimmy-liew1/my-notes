@@ -3,7 +3,7 @@ up: "[[Cyber Security MOC]]"
 date: 2025-06-20
 created: 2025-06-20 11:06
 title: Scareware
-link: Scareware
+link:
 aliases:
   - Scareware
 tags:
