@@ -9,6 +9,9 @@ status: evergreen
 tags:
   - topic/space-tech
   - topic/data-storage
+  - lunar-exploration
+  - disaster-recovery
+  - off-earth-storage
 link:
 ---
 > [!abstract] Key Takeaway 
