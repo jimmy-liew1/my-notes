@@ -2,7 +2,7 @@
 up: "[[Azure MOC]]"
 date: 2025-06-25
 created: 2025-06-25 14:06
-title: Recovery service vault
+title: Recovery Service Vault
 tags:
   - azure
   - topic/data-storage
