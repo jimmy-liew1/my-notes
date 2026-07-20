@@ -28,4 +28,4 @@ Scrum's structure and events are designed to support Agile values, such as:
 Essentially, "Agile Scrum" serves as a reminder that successful Scrum implementation requires adopting the underlying Agile philosophy.
 
 ## Further Reading
-- [[agile vs scum|Agile vs. Scrum]]
+- [[agile vs scrum|Agile vs. Scrum]]

@@ -17,9 +17,9 @@ Tips below to learn more about **how to make a strong password.**
 
 ### Tip 1: Word Choice Matters
 Don’t create passwords using information that can be easily found online, such as:
--   Pet’s or people’s names
--   Addresses or postal codes
--   Key dates like a birthday or an anniversary
+- Pet’s or people’s names
+- Addresses or postal codes
+- Key dates like a birthday or an anniversary
 
 > [!note]
 >This also applies to security questions.
