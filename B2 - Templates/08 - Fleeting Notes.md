@@ -1,9 +1,9 @@
 ---
 up:
 date:
-  "{ date:YYYY-MM-DD }":
+  {{date:YYYY-MM-DD}}
 created:
-  "{ date:YYYY-MM-DD HH:mm }":
+  {{date:YYYY-MM-DD HH:mm}}
 title:
 aliases:
 draft: true
