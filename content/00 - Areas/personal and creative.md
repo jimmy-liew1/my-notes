@@ -9,8 +9,8 @@ tags:
 This section of my digital garden is dedicated to exploring personal interests, creative endeavors, and insights related to personal growth and well-being. Here, I share stories, ideas, and resources that inspire creativity and self-reflection.
 ## Core Areas
 * **[[Stories & Narrative]]**: Exploring storytelling techniques, narrative structures, and personal anecdotes.
-    * [[The chicken and the pig]]
-    * [[Don't be foolish]]
+    * [[the chicken and the pig|The chicken and the pig]]
+    * [[don't be foolish|Don't be foolish|]]
 * **[[Financial & Future Planning]]**: Covering topics related to personal finance, long-term planning, and goal setting.
 
 ## Further Exploration
