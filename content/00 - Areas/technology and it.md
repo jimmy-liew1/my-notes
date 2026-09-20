@@ -44,6 +44,8 @@ This section of my digital garden is dedicated to the ever-evolving world of Tec
 - **AI & AI Tools**: Exploring Machine Learning and AI applications.
     - [[artificial intelligence|Artificial Intelligence]] (AI)
     - [[model context protocol|Model Context Protocol]] (MCP)
+    - [[retrieval-augmented generation|Retrieval-augmented Generation]] (RAG)
+    - [[large language model|Large Language Model]] (LLM)
 - **Space & Edge Tech**: Computing beyond traditional data centers.
     - [[a small data center has already reached the moon|Lunar Data Storage]]
 - **Quantum Computing**: The next frontier of processing power.
