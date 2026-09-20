@@ -2,7 +2,7 @@
 title: Welcome to My Digital Garden
 date: 2025-09-27
 ---
-Hello and welcome! This is my personal vault of thoughts, ideas, and knowledge. Unlike a traditional blog, this is a living document where ideas grow from tiny seeds into sturdy evergreens.
+Hello and welcome! This is my personal vault of thoughts, ideas, and knowledge. Unlike a traditional blog, this is a living document where ideas grow from tiny seeds into sturdy evergreens. OK
 
 ### 🪴 Growth Stages
 To help you navigate the maturity of my notes:
