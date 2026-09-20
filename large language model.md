@@ -2,7 +2,7 @@
 up: "[[Generative AI MOC]]"
 date: 2026-09-20
 created: 2026-09-20 15:09
-title: Large language model
+title: Large Language Model
 aliases:
   - LLM
   - Large Language Model
