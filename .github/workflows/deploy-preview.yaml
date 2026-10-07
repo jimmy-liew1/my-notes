@@ -18,10 +18,8 @@ jobs:
     name: Deploy Preview to Cloudflare Pages
     steps:
       - name: Download build artifact
-<<<<<<< HEAD
-        uses: actions/download-artifact@v8
->>>>>>> upstream/v4
         id: preview-build-artifact
+        uses: actions/download-artifact@v4
         with:
           name: preview-build
           path: build
