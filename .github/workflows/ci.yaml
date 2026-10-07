@@ -21,8 +21,6 @@ jobs:
     steps:
 <<<<<<< HEAD
       - uses: actions/checkout@v7
-=======
-      - uses: actions/checkout@v6
 >>>>>>> upstream/v4
         with:
           fetch-depth: 0
