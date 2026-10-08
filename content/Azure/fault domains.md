@@ -8,7 +8,6 @@ aliases:
   - FD
   - FDs
 tags:
-  - type/fleeting-note
   - azure
 link:
 ---

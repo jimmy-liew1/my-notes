@@ -7,7 +7,7 @@ tags:
   - type/literature-note
 link: https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-availability/5-review-availability-zones
 ---
-**Availability zones** are a highly availability offering that protect applications and data from datacenter failure.  An availability zone in an Azure region is a combination of a [[202507311128 - fault domains|fault domain]] and an [[202507311130 - update domains|update domain]].
+**Availability zones** are a highly availability offering that protect applications and data from datacenter failure.  An availability zone in an Azure region is a combination of a [[fault domains|fault domain]] and an [[202507311130 - update domains|update domain]].
 
 Consider a scenario where you create three or more virtual machines across three zones in an Azure region. Your virtual machines are effectively distributed across three fault domains and update domains. The Azure platform recognizes this distribution across update domains to make sure that virtual machines in different zones aren't updated at the same time.
 
@@ -36,4 +36,4 @@ Azure services that support availability zones are divided into two categories.
 * [[202507201402 - availability sets]]
 * [[azure region|Azure region]]
 * [[202507311130 - update domains]]
-* [[202507311128 - fault domains]]
+* [[fault domains]]
